@@ -1,0 +1,756 @@
+{
+  "pomorskie": [
+    {
+      "produkty_mleczne": [
+        {
+          "name": "Miód z maślanki",
+          "date": "19.02.2008 r."
+        },
+        {
+          "name": "Ser pleśniowy camembert „Słupski Chłopczyk”",
+          "date": "09.10.2008 r."
+        },
+        {
+          "name": "Ser topiony na parze z kminkiem",
+          "date": "17.06.2011 r."
+        },
+        {
+          "name": "Twaróg żuławski z Marzęcina",
+          "date": "23.01.2018 r."
+        }
+      ]
+    },
+    {
+      "produkty_miesne": [
+        {
+          "name": "Okrasa z gęsiny / òbòna",
+          "date": "28.02.2006 r."
+        },
+        {
+          "name": "Kaczka po pomorsku",
+          "date": "14.06.2006 r."
+        },
+        {
+          "name": "Udziec barani z owcy pomorskiej z czosnkiem",
+          "date": "22.02.2007 r."
+        },
+        {
+          "name": "Kurczak wędzony po kociewsku",
+          "date": "18.05.2007 r."
+        },
+        {
+          "name": "Potrawka z kury po kociewsku",
+          "date": "25.02.2008 r."
+        },
+        {
+          "name": "Szynka w cieście",
+          "date": "01.04.2008 r."
+        },
+        {
+          "name": "Kiełbasa biała surowa",
+          "date": "06.04.2009 r."
+        },
+        {
+          "name": "Metka",
+          "date": "15.06.2009 r."
+        },
+        {
+          "name": "Boczek wieprzowy wędzony",
+          "date": "02.11.2009 r."
+        },
+        {
+          "name": "Szynka wieprzowa wędzona",
+          "date": "02.11.2009 r."
+        },
+        {
+          "name": "Czarny salceson (blutka)",
+          "date": "21.12.2009 r."
+        },
+        {
+          "name": "Wątrobianka (Léberka)",
+          "date": "21.12.2009 r."
+        },
+        {
+          "name": "Kaszanka po kaszubsku ",
+          "date": "21.12.2009 r."
+        },
+        {
+          "name": "Kiełbasa - wórszta",
+          "date": "31.03.2010 r."
+        },
+        {
+          "name": "Wieprzowina w słojach z Żuław",
+          "date": "15.02.2011 r."
+        },
+        {
+          "name": "Pierśnik dębogórski",
+          "date": "18.02.2011 r."
+        },
+        {
+          "name": "Szynka wieprzowa gotowana (peklówka gotowana)",
+          "date": "17.06.2011 r."
+        },
+        {
+          "name": "Wołowina szmurowana po kaszubsku",
+          "date": "22.07.2011 r."
+        },
+        {
+          "name": "Kiełbasa z Piekła z czarną gorczycą",
+          "date": "25.08.2011 r."
+        },
+        {
+          "name": "Bitki dominikańskie",
+          "date": "17.01.2012 r."
+        },
+        {
+          "name": "Kaczka z jabłkami z Borów Tucholskich",
+          "date": "15.05.2014 r."
+        },
+        {
+          "name": "Pieczeń boczkowa z Marzęcina",
+          "date": "02.07.2014 r."
+        },
+        {
+          "name": "Kiełbasa kaszubska jałówiecka",
+          "date": "15.07.2014 r."
+        },
+        {
+          "name": "Karbonada (karbónadel, karmonadel)  ",
+          "date": "26.01.2015 r."
+        },
+        {
+          "name": "Szynka z kołnierzykiem ",
+          "date": "18.05.2015 r."
+        },
+        {
+          "name": "Kiełbasa choczewska",
+          "date": "20.05.2015 r."
+        },
+        {
+          "name": "Kaszubska kiełbasa słoikowa",
+          "date": "20.05.2015 r."
+        }
+      ]
+    },
+    {
+      "produkty_rybolostwa": [
+        {
+          "name": "„Hylyng” opiekany z cebulą – śledź po kaszubsku",
+          "date": "14.06.2006 r."
+        },
+        {
+          "name": "Węgorz wędzony po kaszubsku",
+          "date": "30.06.2006 r."
+        },
+        {
+          "name": "Śledź pomorski solony z beczki w zalewie słodko-kwaśnej",
+          "date": "04.09.2006 r."
+        },
+        {
+          "name": "Ikra smażona z Kaszub",
+          "date": "22.05.2007 r."
+        },
+        {
+          "name": "Wątroba miętusa lub dorsza po kaszubsku",
+          "date": "22.05.2007 r."
+        },
+        {
+          "name": "Surowy łosoś bałtycki solony",
+          "date": "02.04.2008 r."
+        },
+        {
+          "name": "Klopsiki z pomuchla (dorsza) po kaszubsku",
+          "date": "14.05.2009 r."
+        },
+        {
+          "name": "Śledzie marynowane w oleju",
+          "date": "22.07.2011 r."
+        },
+        {
+          "name": "Klopsy rybne w zalewie octowej",
+          "date": "25.08.2011 r."
+        },
+        {
+          "name": "Kotlety kaszubskie",
+          "date": "25.08.2011 r."
+        },
+        {
+          "name": "Sielawa wędzona (morënka)",
+          "date": "25.08.2011 r."
+        },
+        {
+          "name": "Szczupak z Jezior Raduńskich",
+          "date": "25.08.2011 r."
+        },
+        {
+          "name": "Sałatka śledziowa po kaszubsku",
+          "date": "17.01.2012 r."
+        },
+        {
+          "name": "Rolmopsy ze śledzia bałtyckiego w zalewie słodko-kwaśnej",
+          "date": "29.04.2014 r."
+        },
+        {
+          "name": "Pasztet z dorsza (pasztet z pomuchla)",
+          "date": "29.04.2014 r."
+        },
+        {
+          "name": "Śledź bałtycki po rybacku",
+          "date": "29.04.2014 r."
+        },
+        {
+          "name": "Ryba na kwaśno",
+          "date": "09.12.2014 r."
+        }
+      ]
+    },
+    {
+      "warzywa_i_owoce": [
+        {
+          "name": "Konfitura lecznicza z żurawiny po mermecku",
+          "date": "14.06.2006 r."
+        },
+        {
+          "name": "Mermecka przystawka z żurawiny do mięs",
+          "date": "14.06.2006 r."
+        },
+        {
+          "name": "Kociewska bania / Dynia po królewsku",
+          "date": "24.04.2007 r."
+        },
+        {
+          "name": "Powidła śliwkowe z Doliny Dolnej Wisły",
+          "date": "24.04.2007 r."
+        },
+        {
+          "name": "Truskawka kaszubska lub kaszëbskô malëna",
+          "date": "03.01.2008 r."
+        },
+        {
+          "name": "Pikle kociewskie",
+          "date": "22.01.2008 r."
+        },
+        {
+          "name": "Żurawina z jabłkiem i chrzanem",
+          "date": "21.11.2008 r."
+        },
+        {
+          "name": "Borówka z gruszką po Pomorsku",
+          "date": "21.11.2008 r."
+        },
+        {
+          "name": "Konfitura borówkowa z Borów Tucholskich",
+          "date": "20.03.2009 r."
+        },
+        {
+          "name": "Czarna jagoda we własnym soku",
+          "date": "24.03.2009 r."
+        },
+        {
+          "name": "Powiślańska śliwka w occie",
+          "date": "18.02.2011 r."
+        },
+        {
+          "name": "Jabłko czernińskie",
+          "date": "27.07.2012 r."
+        },
+        {
+          "name": "Żurawina z Kaszub ucierana na surowo",
+          "date": "28.03.2014 r."
+        },
+        {
+          "name": "Gruszka gdańczonka w occie",
+          "date": "15.07.2014 r."
+        },
+        {
+          "name": "Galaretka porzeczkowa (galaretka ze świętojonki)",
+          "date": "28.08.2014 r."
+        },
+        {
+          "name": "Konfitura z truskawek kaszubskich",
+          "date": "11.08.2017 r."
+        }
+      ]
+    },
+    {
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "Młodzowy kuch z kruszonką",
+          "date": "28.02.2006 r."
+        },
+        {
+          "name": "Chleb słowiński",
+          "date": "15.03.2006 r."
+        },
+        {
+          "name": "Fefernuski kociewskie",
+          "date": "30.06.2006 r."
+        },
+        {
+          "name": "Grochowinki kociewskie (chruściki, faworki)",
+          "date": "30.06.2006 r."
+        },
+        {
+          "name": "Kaszubski chleb żytni na ziemniakach",
+          "date": "04.09.2006 r."
+        },
+        {
+          "name": "Kaszubski sernik z ziemniakami",
+          "date": "04.09.2006 r."
+        },
+        {
+          "name": "Marcepanowe serduszka z Piekła",
+          "date": "09.02.2007 r."
+        },
+        {
+          "name": "Rogalik z wiśniami",
+          "date": "04.05.2007 r."
+        },
+        {
+          "name": "Wianek debrzneński",
+          "date": "18.05.2007 r."
+        },
+        {
+          "name": "Piernik z kamionki",
+          "date": "18.05.2007 r."
+        },
+        {
+          "name": "Kociewski chleb wiejski na serwatce",
+          "date": "25.02.2008 r."
+        },
+        {
+          "name": "Wiejska kociewska drożdżówka kiszona",
+          "date": "25.02.2008 r."
+        },
+        {
+          "name": "Ruchanki",
+          "date": "09.07.2008 r."
+        },
+        {
+          "name": "Szpajza, cytronszpajza – deser jajeczny, krem jajeczny",
+          "date": "19.11.2008 r."
+        },
+        {
+          "name": "Mleko gdańskie",
+          "date": "19.12.2008 r."
+        },
+        {
+          "name": "Pùrcle kaszubskie (pączki)",
+          "date": "19.12.2008 r."
+        },
+        {
+          "name": "Chleb pumpernikiel",
+          "date": "24.03.2009 r."
+        },
+        {
+          "name": "Kaszubski kuch marchewny",
+          "date": "17.01.2011 r."
+        },
+        {
+          "name": "Kukle kaszubskie",
+          "date": "18.02.2011 r."
+        },
+        {
+          "name": "Tort gdański",
+          "date": "17.01.2012 r."
+        },
+        {
+          "name": "Wafle gdańskie",
+          "date": "17.01.2012 r."
+        },
+        {
+          "name": "Chleb z Pirsna",
+          "date": "11.01.2013 r."
+        },
+        {
+          "name": "Bómbómy z dekla",
+          "date": "06.06.2014 r."
+        },
+        {
+          "name": "Bałabuchy marzęcińskie",
+          "date": "02.07.2014 r."
+        },
+        {
+          "name": "Amoniaczki - ciasteczka na niedzielę",
+          "date": "22.08.2014 r."
+        },
+        {
+          "name": "Sznëka z glancã (drożdżówka z lukrem)",
+          "date": "22.08.2014 r."
+        },
+        {
+          "name": "Pùlwerkùch / deszny kùch (ciasto proszkowe) ",
+          "date": "28.08.2014 r."
+        },
+        {
+          "name": "Kaszubskie orzechy z marchwi",
+          "date": "27.10.2014 r."
+        },
+        {
+          "name": "Kaszubski chleb żytni ",
+          "date": "28.08.2015 r."
+        },
+        {
+          "name": "Kapuśniaczki żuławskie",
+          "date": "11.10.2017 r."
+        }
+      ]
+    },
+    {
+      "oleje_i_tluszcze": [
+        {
+          "name": "Olej rzepakowy tłoczony na zimno",
+          "date": "05.07.2007 r."
+        },
+        {
+          "name": "Masło kociewskie",
+          "date": "29.08.2007 r."
+        },
+        {
+          "name": "Smalec z gęsi pomorskiej",
+          "date": "29.04.2014 r."
+        },
+        {
+          "name": "Smalec ze skwarkami (smôłt ze szpérkama)",
+          "date": "02.03.2015 r."
+        },
+        {
+          "name": "Szmalec kociewski ze skrzeczkami",
+          "date": "24.08.2015 r."
+        }
+      ]
+    },
+    {
+      "miody": [
+        {
+          "name": "Miód kaszubski",
+          "date": "12.02.2007 r."
+        },
+        {
+          "name": "Miód pszczółkowski",
+          "date": "29.08.2007 r."
+        },
+        {
+          "name": "Miód leśny z Biernatki",
+          "date": "11.05.2009 r."
+        }
+      ]
+    },
+    {
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "Kiszka kaszubska / Cziszka kaszëbska",
+          "date": "28.02.2006 r."
+        },
+        {
+          "name": "Zupa z żółtej brukwi / Zupa z żôłtich wrëków",
+          "date": "28.02.2006 r."
+        },
+        {
+          "name": "Buraczki pruskie „Preussische Rote Beete”",
+          "date": "15.03.2006 r."
+        },
+        {
+          "name": "Czernina kaszubska / Czôrnina",
+          "date": "14.06.2006 r."
+        },
+        {
+          "name": "Mermecka galaretka z żurawiny",
+          "date": "14.06.2006 r."
+        },
+        {
+          "name": "Rosół pomorski",
+          "date": "30.06.2006 r."
+        },
+        {
+          "name": "Mus truskawkowy „Kremowe malene”",
+          "date": "30.06.2006 r."
+        },
+        {
+          "name": "Pulki kaszubskie",
+          "date": "04.09.2006 r."
+        },
+        {
+          "name": "Plince kaszubskie",
+          "date": "04.09.2006 r."
+        },
+        {
+          "name": "Szandar kociewski",
+          "date": "04.09.2006 r."
+        },
+        {
+          "name": "Kaszubska zupa brzadowa",
+          "date": "04.09.2006 r."
+        },
+        {
+          "name": "Kaszubska jajecznica na węgorzu / Prażnica",
+          "date": "04.09.2006 r."
+        },
+        {
+          "name": "Zylc – galareta z nóżek",
+          "date": "26.01.2007 r."
+        },
+        {
+          "name": "Kaszubska polewka z kminkiem",
+          "date": "26.01.2007 r."
+        },
+        {
+          "name": "Polewka grzybowa po kaszubsku",
+          "date": "26.01.2007 r."
+        },
+        {
+          "name": "Polewka kaszubska",
+          "date": "26.01.2007 r."
+        },
+        {
+          "name": "Pieróg z gomółką z Kociewia",
+          "date": "15.02.2007 r."
+        },
+        {
+          "name": "Polewka z ryb po kaszubsku",
+          "date": "08.03.2007 r."
+        },
+        {
+          "name": "Zupa kaszubska",
+          "date": "08.03.2007 r."
+        },
+        {
+          "name": "Szadolce i kulanki kaszubskie",
+          "date": "24.04.2007 r."
+        },
+        {
+          "name": "Kaszubskie kluski ziemniaczane",
+          "date": "02.07.2007 r."
+        },
+        {
+          "name": "Pierogi z kaszą gryczaną",
+          "date": "29.08.2007 r."
+        },
+        {
+          "name": "Kociewska polewka owocowo-grzybowa",
+          "date": "19.02.2008 r."
+        },
+        {
+          "name": "Pyzy borowiackie",
+          "date": "19.02.2008 r."
+        },
+        {
+          "name": "Kociewska zapiekanka z grzybów",
+          "date": "25.02.2008 r."
+        },
+        {
+          "name": "Kociewskie kluski ziemniaczane",
+          "date": "25.02.2008 r."
+        },
+        {
+          "name": "Kaszubskie kluski ziemniaczane łyżką kładzione",
+          "date": "01.04.2008 r."
+        },
+        {
+          "name": "Gòlce / nadzy klosczy (kluski ziemniaczane)",
+          "date": "01.04.2008 r."
+        },
+        {
+          "name": "Drobné miãso – drobne mięso, potrawka z podrobów",
+          "date": "01.04.2008 r."
+        },
+        {
+          "name": "Pomorskie borowiki suszone w śmietanie",
+          "date": "01.12.2008 r."
+        },
+        {
+          "name": "Sztuka mięsa z Gdańska w cieście francuzkiem",
+          "date": "19.12.2008 r."
+        },
+        {
+          "name": "Borowiacka polewka z maślanki",
+          "date": "15.01.2009 r."
+        },
+        {
+          "name": "Żuchel (blacharz, sztydrych, kartoflak)",
+          "date": "13.02.2009 r."
+        },
+        {
+          "name": "Zupa zagraj (dziadowska zupa)",
+          "date": "13.02.2009 r."
+        },
+        {
+          "name": "Stupka – sos śledziowy na zaklepce",
+          "date": "23.02.2009 r."
+        },
+        {
+          "name": "Kociewski salceson z grzybów",
+          "date": "18.05.2009 r."
+        },
+        {
+          "name": "Szmórowónô kapùsta/szmurowana kapusta/duszona kapusta na wędzonce",
+          "date": "15.02.2011 r."
+        },
+        {
+          "name": "Gołąbki z pęczaku z grzybami",
+          "date": "18.02.2011 r."
+        },
+        {
+          "name": "Szarpak, szarpaki (kapuśniak borowiacki)",
+          "date": "17.06.2011 r."
+        },
+        {
+          "name": "Gęś pomorska pieczona",
+          "date": "25.08.2011 r."
+        },
+        {
+          "name": "Sos zimny żuławski",
+          "date": "30.12.2011 r."
+        },
+        {
+          "name": "Zupa z pasternaka",
+          "date": "27.07.2012 r."
+        },
+        {
+          "name": "Parzybroda/kapuśniak ze swieżej kapusty po borowiacku",
+          "date": "29.04.2014 r."
+        },
+        {
+          "name": "Zacierka z mątewki/zacierka z koziełka",
+          "date": "29.04.2014 r."
+        },
+        {
+          "name": "Kociewska zupa szczawiowa",
+          "date": "06.06.2014 r."
+        },
+        {
+          "name": "Psiocha z Dolnego Powiśla",
+          "date": "06.06.2014 r."
+        },
+        {
+          "name": "Żur z Kaszub",
+          "date": "09.12.2014 r."
+        },
+        {
+          "name": "Golonka po pomorsku",
+          "date": "18.05.2015 r."
+        },
+        {
+          "name": "Golce kociewskie z mięsem",
+          "date": "08.07.2015 r."
+        },
+        {
+          "name": "Zupa z zielonych gąsek z Borów Tucholskich",
+          "date": "15.07.2015 r."
+        },
+        {
+          "name": "Pierogi dębnickie z jagnięcymi podrobami",
+          "date": "15.07.2015 r."
+        },
+        {
+          "name": "Gryz - kociewski deser",
+          "date": "24.08.2015 r."
+        }
+      ]
+    },
+    {
+      "napoje": [
+        {
+          "name": "Nalewka „onisiówka”",
+          "date": "09.05.2006 r."
+        },
+        {
+          "name": "Żurawinówka po mermecku",
+          "date": "14.06.2006 r."
+        },
+        {
+          "name": "Sok leczniczy z żurawiny po mermecku",
+          "date": "14.06.2006 r."
+        },
+        {
+          "name": "Syrop leczniczy z żurawiny po mermecku",
+          "date": "14.06.2006 r."
+        },
+        {
+          "name": "Lecznicza nalewka jarzębinowa / jarzębiak",
+          "date": "26.01.2007 r."
+        },
+        {
+          "name": "Jagodzica po kociewsku",
+          "date": "22.05.2007 r."
+        },
+        {
+          "name": "Kociewska herbata z lipy i bzu czarnego z miodem lipowym",
+          "date": "22.01.2008 r."
+        },
+        {
+          "name": "Sok z kwiatu czarnego bzu",
+          "date": "19.02.2008 r."
+        },
+        {
+          "name": "Kaszubski miód pitny",
+          "date": "02.04.2008 r."
+        },
+        {
+          "name": "Nebrowianka – nalewka śliwkowa",
+          "date": "01.12.2008 r."
+        },
+        {
+          "name": "Wódka gdańska",
+          "date": "19.12.2008 r."
+        },
+        {
+          "name": "Kaszubska nalewka bursztynowa",
+          "date": "19.12.2008 r."
+        },
+        {
+          "name": "Nalewka jagodowa",
+          "date": "18.05.2009 r."
+        },
+        {
+          "name": "Choczewskie wino z róży",
+          "date": "17.06.2011 r."
+        },
+        {
+          "name": "Brëjka – kawa po kaszubsku",
+          "date": "17.01.2012 r."
+        },
+        {
+          "name": "Piwo pomorskie",
+          "date": "11.03.2013 r."
+        },
+        {
+          "name": "Nalewka malinówka z malin leśnych ze Wzgórz Szymbarskich",
+          "date": "08.07.2015 r."
+        },
+        {
+          "name": "Nalewka ze świętojonki (czerwonej porzeczki)",
+          "date": "19.01.2016 r."
+        },
+        {
+          "name": "Nalewka na miodzie lipowym",
+          "date": "03.03.2017 r."
+        }
+      ]
+    },
+    {
+      "inne_produkty": [
+        {
+          "name": "Syrop z mniszka lekarskiego",
+          "date": "08.03.2007 r."
+        },
+        {
+          "name": "Kociewski borowik szlachetny w zalewie octowej",
+          "date": "24.04.2007 r."
+        },
+        {
+          "name": "Prawdziwki suszone z Borów Tucholskich",
+          "date": "17.06.2011 r."
+        },
+        {
+          "name": "Ocet z powiślańskiej śliwki",
+          "date": "20.04.2015 r."
+        },
+        {
+          "name": "Syrop z pędów sosny",
+          "date": "03.07.2015 r."
+        }
+      ]
+    }
+  ]
+}

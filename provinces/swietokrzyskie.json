@@ -1,0 +1,412 @@
+{
+  "swietokrzyskie": [
+    {
+      "produkty_mleczne": [
+        {
+          "name": "Jędrzejowski twarożek śmietankowy",
+          "date": "26.07.2010 r."
+        },
+        {
+          "name": "Ser kozi z Machor",
+          "date": "31.07.2014 r."
+        },
+        {
+          "name": "Twaróg półtłusty z Pierzchnicy",
+          "date": "21.12.2016 r."
+        },
+        {
+          "name": "Zagajnicki koziarz",
+          "date": "19.06.2017 r."
+        }
+      ]
+    },
+    {
+      "produkty_miesne": [
+        {
+          "name": "Dzionie rakowskie",
+          "date": "15.02.2007 r."
+        },
+        {
+          "name": "Salceson kurozwęcki",
+          "date": "10.04.2009 r."
+        },
+        {
+          "name": "Kiełbasa swojska wąchocka hycowana",
+          "date": "26.07.2010 r."
+        },
+        {
+          "name": "Salceson ozorkowy wiejski",
+          "date": "26.07.2010 r."
+        },
+        {
+          "name": "Chmielnicka gęś pieczona",
+          "date": "26.07.2010 r."
+        },
+        {
+          "name": "Szynka sznurowana wąchocka",
+          "date": "02.08.2010 r."
+        },
+        {
+          "name": "Polędwica tradycyjna z Wąchocka",
+          "date": "02.08.2010 r."
+        },
+        {
+          "name": "Kiełbasa biała parzona z Wąchocka",
+          "date": "02.08.2010 r."
+        },
+        {
+          "name": "Kiełbasa łosieńska",
+          "date": "08.10.2010 r."
+        },
+        {
+          "name": "Polędwiczki świąteczne Prokopa",
+          "date": "08.10.2010 r."
+        },
+        {
+          "name": "Salceson cwaniak z Łosienia",
+          "date": "08.10.2010 r."
+        },
+        {
+          "name": "Kiełbasa radoszycka",
+          "date": "07.02.2011 r."
+        },
+        {
+          "name": "Kiełbasa swojska z Kunowa",
+          "date": "07.02.2011 r."
+        },
+        {
+          "name": "Udziec dworski z Kunowa",
+          "date": "11.01.2013 r."
+        },
+        {
+          "name": "Pasztetowa radoszycka",
+          "date": "11.01.2013 r."
+        },
+        {
+          "name": "Kaszanka szarbianka",
+          "date": "05.12.2013 r."
+        },
+        {
+          "name": "Kiełbasa z Pacanowa",
+          "date": "05.12.2013 r."
+        },
+        {
+          "name": "Szynka z Broniny",
+          "date": "14.01.2014 r."
+        },
+        {
+          "name": "Salceson bęczkowski",
+          "date": "21.04.2016 r."
+        },
+        {
+          "name": "Daleszycka szynka z beczki",
+          "date": "01.12.2016 r."
+        },
+        {
+          "name": "Wiejska szynka z Okoła",
+          "date": "21.12.2016 r."
+        },
+        {
+          "name": "Kiełbaśnica kazimierska",
+          "date": "21.12.2016 r."
+        },
+        {
+          "name": "Małyszyńska kiełbasa z dzika",
+          "date": "21.12.2016 r."
+        },
+        {
+          "name": "Salceson z Okoła",
+          "date": "19.06.2017 r."
+        },
+        {
+          "name": "Kiełbasa swojska",
+          "date": "19.06.2017 r."
+        }
+      ]
+    },
+    {
+      "produkty_rybolostwa": [
+        {
+          "name": "Karp z Rudy Malenieckiej",
+          "date": "10.04.2009 r."
+        },
+        {
+          "name": "Karp małyszyński",
+          "date": "14.07.2009 r."
+        },
+        {
+          "name": "Karp z Oksy",
+          "date": "17.11.2009 r."
+        },
+        {
+          "name": "Rytwiański karp",
+          "date": "07.09.2010 r."
+        },
+        {
+          "name": "Karp z Wójczy",
+          "date": "21.01.2011 r."
+        },
+        {
+          "name": "Rytwiański karp w galarecie",
+          "date": "19.01.2016 r."
+        }
+      ]
+    },
+    {
+      "warzywa_i_owoce": [
+        {
+          "name": "Wiśnia sokowa nadwiślanka",
+          "date": "06.09.2006 r."
+        },
+        {
+          "name": "Ser jabłeczny",
+          "date": "15.02.2007 r."
+        },
+        {
+          "name": "Konfitury z jarzębiny",
+          "date": "20.03.2007 r."
+        },
+        {
+          "name": "Kasza jaglana gierczycka",
+          "date": "20.04.2007 r."
+        },
+        {
+          "name": "Fasola korczyńska",
+          "date": "20.04.2007 r."
+        },
+        {
+          "name": "Truskawka buska faworytka",
+          "date": "03.09.2007 r."
+        },
+        {
+          "name": "Czerkieska mąka orkiszowa",
+          "date": "25.03.2008 r."
+        },
+        {
+          "name": "Truskawka bielińska ",
+          "date": "10.04.2009 r."
+        },
+        {
+          "name": "Susz owocowy dębniacki",
+          "date": "26.07.2010 r."
+        },
+        {
+          "name": "Jabłka sandomierskie",
+          "date": "07.02.2011 r."
+        },
+        {
+          "name": "Suszona damacha z Ponidzia",
+          "date": "05.12.2013 r."
+        },
+        {
+          "name": "Skalbmierskie ogórki kiszone",
+          "date": "14.01.2014 r."
+        },
+        {
+          "name": "Czosnek wójczański",
+          "date": "14.01.2014 r."
+        },
+        {
+          "name": "Kasza gryczana palona z Antoniowa",
+          "date": "01.12.2016 r."
+        },
+        {
+          "name": "Chrzan świętokrzyski",
+          "date": "01.12.2016 r."
+        },
+        {
+          "name": "Morela sandomierska zaleszczycka",
+          "date": "01.12.2016 r."
+        },
+        {
+          "name": "Konfitura z zielonych orzechów",
+          "date": "21.12.2016 r."
+        }
+      ]
+    },
+    {
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "Chleb bodzentyński",
+          "date": "20.04.2007 r."
+        },
+        {
+          "name": "Placek spod kamienia",
+          "date": "20.04.2007 r."
+        },
+        {
+          "name": "Chleb wiejski konecki",
+          "date": "20.04.2007 r."
+        },
+        {
+          "name": "Piernik z żytniej mąki",
+          "date": "20.04.2007 r."
+        },
+        {
+          "name": "Wólecka chałka pleciona",
+          "date": "07.09.2010 r."
+        },
+        {
+          "name": "Gryska z Bliżyna",
+          "date": "15.09.2010 r."
+        },
+        {
+          "name": "Krówka opatowska",
+          "date": "07.02.2011 r."
+        },
+        {
+          "name": "Chleb iwański",
+          "date": "07.02.2011 r."
+        },
+        {
+          "name": "Szczodroki",
+          "date": "08.06.2011 r."
+        },
+        {
+          "name": "Burocorz bogoryjski",
+          "date": "11.01.2013 r."
+        },
+        {
+          "name": "Pączek opatowski",
+          "date": "14.01.2014 r."
+        },
+        {
+          "name": "Chleb wąchocki",
+          "date": "31.07.2014 r."
+        },
+        {
+          "name": "Chleb żytni kielecki",
+          "date": "31.07.2014 r."
+        },
+        {
+          "name": "Chleb mieszany koprzywnicki",
+          "date": "01.12.2016 r."
+        },
+        {
+          "name": "Chleb skarbczak",
+          "date": "01.12.2016 r."
+        },
+        {
+          "name": "Chleb na maślance z Lipnika",
+          "date": "19.26.2017 r."
+        },
+        {
+          "name": "Tort czekoladowo-orzechowy",
+          "date": "19.06.2017 r."
+        }
+      ]
+    },
+    {
+      "oleje_i_tluszcze": [
+        {
+          "name": "Pińczowski olej z lnicy",
+          "date": "30.10.2008 r."
+        },
+        {
+          "name": "Sandomierski olej rzepakowy",
+          "date": "21.01.2011 r."
+        },
+        {
+          "name": "Masło jędrzejowskie",
+          "date": "08.06.2011 r."
+        },
+        {
+          "name": "Masło chmielnickie ",
+          "date": "11.01.2013 r."
+        }
+      ]
+    },
+    {
+      "miody": [
+        {
+          "name": "Fałkowski miód wielokwiatowy",
+          "date": "03.09.2007 r."
+        },
+        {
+          "name": "Świętokrzyski miód spadziowy",
+          "date": "30.10.2008 r."
+        },
+        {
+          "name": "Miód królewski z Osieka",
+          "date": "31.07.2014 r."
+        },
+        {
+          "name": "Miód spadziowy z Puszczy Jodłowej",
+          "date": "01.12.2016 r."
+        },
+        {
+          "name": "Mió nektarowow-spadziowy napękowski",
+          "date": "01.12.2016 r."
+        },
+        {
+          "name": "Miód akacjowy z Łążka",
+          "date": "01.12.2016 r."
+        }
+      ]
+    },
+    {
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "Zalewajka świętokrzyska",
+          "date": "06.09.2006 r."
+        },
+        {
+          "name": "Prazoki",
+          "date": "03.09.2007 r."
+        },
+        {
+          "name": "Kugiel z Czermna",
+          "date": "03.09.2007 r."
+        },
+        {
+          "name": "Słupiński siekaniec dworski",
+          "date": "21.01.2011 r."
+        },
+        {
+          "name": "Fitka kazimierska",
+          "date": "21.01.2011 r."
+        },
+        {
+          "name": "Rakowski ziemniak pieczony",
+          "date": "08.06.2011 r."
+        },
+        {
+          "name": "Żabieckie gały",
+          "date": "05.12.2013 r."
+        },
+        {
+          "name": "Jacentowski barszcz z kapustą",
+          "date": "01.12.2016 r."
+        }
+      ]
+    },
+    {
+      "napoje": [
+        {
+          "name": "Kwas burakowy po wzdolsku",
+          "date": "25.03.2008 r."
+        },
+        {
+          "name": "Sok z czarnej jagody z lipowskich lasów",
+          "date": "07.09.2010 r."
+        },
+        {
+          "name": "Opatkowickie wino chlebowe",
+          "date": "21.01.2011 r."
+        },
+        {
+          "name": "Kamcia - moskorzewska nalewka miętowa",
+          "date": "21.01.2011 r."
+        }
+      ]
+    },
+    {
+      "inne_produkty": [
+        {
+          "name": "Farsz z kaszy gryczanej",
+          "date": "17.12.2009 r."
+        }
+      ]
+    }
+  ]
+}

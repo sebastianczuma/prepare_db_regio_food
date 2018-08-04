@@ -1,0 +1,52 @@
+{
+  "wojewodztwa": [
+    {
+      "name": "dolnoslaskie"
+    },
+    {
+      "name": "kujawsko-pomorskie"
+    },
+    {
+      "name": "lubelskie"
+    },
+    {
+      "name": "lubuskie"
+    },
+    {
+      "name": "lodzkie"
+    },
+    {
+      "name": "malopolskie"
+    },
+    {
+      "name": "mazowieckie"
+    },
+    {
+      "name": "opolskie"
+    },
+    {
+      "name": "podkarpackie"
+    },
+    {
+      "name": "podlaskie"
+    },
+    {
+      "name": "pomorskie"
+    },
+    {
+      "name": "slaskie"
+    },
+    {
+      "name": "swietokrzyskie"
+    },
+    {
+      "name": "warminsko-mazurskie"
+    },
+    {
+      "name": "wielkopolskie"
+    },
+    {
+      "name": "zachodniopomorskie"
+    }
+  ]
+}

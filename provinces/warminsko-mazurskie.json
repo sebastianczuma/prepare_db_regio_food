@@ -1,0 +1,169 @@
+{
+  "warminsko-mazurskie": [
+    {
+      "produkty_mleczne": [
+        {
+          "name": "Ser salami mazurski",
+          "date": "25.09.2006 r."
+        },
+        {
+          "name": "Ser welski",
+          "date": "04.05.2007 r."
+        },
+        {
+          "name": "Mleko zsiadłe",
+          "date": "04.09.2008 r."
+        }
+      ]
+    },
+    {
+      "produkty_miesne": [
+        {
+          "name": "Mazurska szynka wędzona",
+          "date": "29.02.2008 r."
+        },
+        {
+          "name": "Mazurska kiełbasa wędzona",
+          "date": "29.02.2008 r."
+        },
+        {
+          "name": "Mazurski boczek wędzony",
+          "date": "29.02.2008 r."
+        },
+        {
+          "name": "Mazurska polędwica wędzona",
+          "date": "29.02.2008 r."
+        },
+        {
+          "name": "Mazurska słonina wędzona",
+          "date": "29.02.2008 r."
+        },
+        {
+          "name": "Mazurska karkówka wędzona",
+          "date": "29.02.2008 r."
+        },
+        {
+          "name": "Polędwica wędzona z mazurskiej masarni",
+          "date": "06.05.2008 r."
+        },
+        {
+          "name": "Baleron wędzony z mazurskiej masarni",
+          "date": "06.05.2008 r."
+        },
+        {
+          "name": "Boczek wędzony z mazurskiej masarni",
+          "date": "06.05.2008 r."
+        },
+        {
+          "name": "Kiełbasa jałowcowa z mazurskiej masarni",
+          "date": "06.05.2008 r."
+        },
+        {
+          "name": "Kiełbasa wiejska pieczona z mazurskiej masarni",
+          "date": "06.05.2008 r."
+        },
+        {
+          "name": "Szynka z mazurskiej masarni",
+          "date": "06.05.2008 r."
+        },
+        {
+          "name": "Szynka dylewska dojrzewająca",
+          "date": "07.06.2010 r."
+        },
+        {
+          "name": "Warmińska szynka wołowa wędzona",
+          "date": "17.03.2017 r."
+        },
+        {
+          "name": "Kiełbasa polska wędzona z Mazur",
+          "date": "30.11.2017 r."
+        }
+      ]
+    },
+    {
+      "produkty_rybolostwa": [
+        {
+          "name": "Kawior ze szczupaka",
+          "date": "18.07.2016 r."
+        }
+      ]
+    },
+    {
+      "warzywa_i_owoce": [
+        {
+          "name": "Syrop buraczany",
+          "date": "04.04.2006 r."
+        }
+      ]
+    },
+    {
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "Sękacz mazurski",
+          "date": "01.06.2006 r."
+        },
+        {
+          "name": "Brukowiec mazurski",
+          "date": "18.01.2010 r."
+        },
+        {
+          "name": "Fefernuszki",
+          "date": "06.03.2012 r."
+        },
+        {
+          "name": "Gofry pruskie",
+          "date": "17.03.2017 r."
+        },
+        {
+          "name": "Olsztyneckie jagodzianki ",
+          "date": "08.11.2017 r."
+        },
+        {
+          "name": "Anielskie ruchańce",
+          "date": "30.05.2018 r."
+        }
+      ]
+    },
+    {
+      "oleje_i_tluszcze": []
+    },
+    {
+      "miody": [
+        {
+          "name": "Miód Mazur Garbatych",
+          "date": "21.07.2010 r."
+        },
+        {
+          "name": "Miód lipowy z Barcji",
+          "date": "09.11.2012 r."
+        },
+        {
+          "name": "Miód wielokwiatowy z Barcji",
+          "date": "09.11.2012 r."
+        },
+        {
+          "name": "Miody Ziemi Oleckiej",
+          "date": "29.06.2016 r."
+        }
+      ]
+    },
+    {
+      "gotowe_dania_i_potrawy": []
+    },
+    {
+      "napoje": [
+        {
+          "name": "Niedźwiedziówka mazurska nalewka",
+          "date": "29.02.2008 r."
+        },
+        {
+          "name": "Okowita miodowa warmińska",
+          "date": "05.12.2013 r."
+        }
+      ]
+    },
+    {
+      "inne_produkty": []
+    }
+  ]
+}

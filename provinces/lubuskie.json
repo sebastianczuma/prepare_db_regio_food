@@ -1,0 +1,336 @@
+{
+  "lubuskie": [
+    {
+      "produkty_mleczne": [
+        {
+          "name": "Ser kozi zamkowy",
+          "date": "05.12.2013 r."
+        },
+        {
+          "name": "Ser twarogowy z mleka koziego - krajanka",
+          "date": "01.04.2016 r."
+        },
+        {
+          "name": "Ser kozi dojrzewający",
+          "date": "01.04.2016 r."
+        },
+        {
+          "name": "Twaróg kozi dojrzały wytapiany",
+          "date": "01.04.2016 r."
+        },
+        {
+          "name": "Ser dojrzewający z mleka krowiego",
+          "date": "21.04.2016 r."
+        },
+        {
+          "name": "Ser twarogowy z mleka krowiego - krajanka",
+          "date": "21.04.2016 r."
+        }
+      ]
+    },
+    {
+      "produkty_miesne": [
+        {
+          "name": "Schab tradycyjny słubicki",
+          "date": "16.04.2012 r."
+        },
+        {
+          "name": "Kiełbasa żarska",
+          "date": "05.12.2013 r."
+        },
+        {
+          "name": "Salceson wiejski",
+          "date": "06.02.2014 r."
+        },
+        {
+          "name": "Szynka tradycyjna",
+          "date": "07.10.2014 r."
+        },
+        {
+          "name": "Kiełbasa wiejska",
+          "date": "02.03.2015 r."
+        },
+        {
+          "name": "Kiełbasa podsuszana sławska z indykiem",
+          "date": "11.05.2016 r."
+        },
+        {
+          "name": "Kiełbasa sławska z indykiem",
+          "date": "11.05.2016 r."
+        },
+        {
+          "name": "Serdelki sławskie z indykiem",
+          "date": "11.05.2016 r."
+        },
+        {
+          "name": "Kiełbasa szynkowa sławska z indynkiem",
+          "date": "11.05.2016 r."
+        },
+        {
+          "name": "Kiełbasa kresowa dojrzewająca",
+          "date": "21.12.2016 r."
+        },
+        {
+          "name": "Kiełbasa zabużańska rzemieślnicza",
+          "date": "21.12.2016 r."
+        },
+        {
+          "name": "Szynka wędzona z komina",
+          "date": "20.12.2017 r."
+        }
+      ]
+    },
+    {
+      "produkty_rybolostwa": [
+        {
+          "name": "Mieszanka rybna w zalewie octowej",
+          "date": "24.01.2014 r."
+        },
+        {
+          "name": "Wojnowska ryba na kwaśno",
+          "date": "12.02.2015 r."
+        },
+        {
+          "name": "Paprykarz wojnowski",
+          "date": "01.04.2016 r."
+        },
+        {
+          "name": "Węgorz parowany po rybacku",
+          "date": "01.04.2016 r."
+        }
+      ]
+    },
+    {
+      "warzywa_i_owoce": [
+        {
+          "name": "Kapusta kwaszona nadnotecka",
+          "date": "26.04.2007 r."
+        },
+        {
+          "name": "Ogórki kiszone nadnoteckie",
+          "date": "11.09.2013 r."
+        },
+        {
+          "name": "Papierówka w syropie",
+          "date": "01.10.2013 r."
+        },
+        {
+          "name": "Jabłka odmiany Landsberska",
+          "date": "24.01.2014 r."
+        },
+        {
+          "name": "Śliwka gubinka",
+          "date": "02.07.2014 r."
+        },
+        {
+          "name": "Śliwa w occie",
+          "date": "26.10.2015 r."
+        },
+        {
+          "name": "Miodowa musztarda z dyni - pikantna i łagodna",
+          "date": "04.11.2016 r."
+        },
+        {
+          "name": "Powidła śliwkowe z węgierek",
+          "date": "30.05.2018 r."
+        }
+      ]
+    },
+    {
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "Bochen chleba starowiejskiego",
+          "date": "17.02.2006 r."
+        },
+        {
+          "name": "Paska bukowińska (pascha, chleb bukowiński)",
+          "date": "24.04.2006 r."
+        },
+        {
+          "name": "Strudel (strucla)",
+          "date": "24.04.2006 r."
+        },
+        {
+          "name": "Chleb domowy na zakwasie",
+          "date": "31.05.2012 r."
+        },
+        {
+          "name": "Chleb z dodatkiem nasion lnu",
+          "date": "31.05.2012 r."
+        },
+        {
+          "name": "Szarlotka z landsberską",
+          "date": "24.06.2013 r."
+        },
+        {
+          "name": "Lubuskie pierniki",
+          "date": "17.06.2014 r."
+        },
+        {
+          "name": "Chleb ze starego pieca",
+          "date": "02.03.2015 r."
+        },
+        {
+          "name": "Pączki lubuskie",
+          "date": "12.02.2016 r."
+        },
+        {
+          "name": "Babka ucierana",
+          "date": "14.03.2018 r."
+        },
+        {
+          "name": "Ciastka kręcone z maszynki - smalcówki",
+          "date": "14.03.2018 r."
+        },
+        {
+          "name": "Drożdżowiec",
+          "date": "30.05.2018 r."
+        }
+      ]
+    },
+    {
+      "oleje_i_tluszcze": [
+        {
+          "name": "Olej lniany tłoczony na zimno",
+          "date": "28.08.2015 r."
+        },
+        {
+          "name": "Masło sławskie",
+          "date": "30.05.2018 r."
+        }
+      ]
+    },
+    {
+      "miody": [
+        {
+          "name": "Miód wielokwiatowy łąkowy z Doliny Noteci",
+          "date": "01.03.2007 r."
+        },
+        {
+          "name": "Miód akacjowy",
+          "date": "19.12.2013 r."
+        },
+        {
+          "name": "Ziołomiód pokrzywowy",
+          "date": "26.01.2015 r."
+        },
+        {
+          "name": "Miód lipowy magdaleński",
+          "date": "01.04.2016 r."
+        },
+        {
+          "name": "Miód nektarowo-spadziowy",
+          "date": "17.03.2017 r."
+        },
+        {
+          "name": "Lubiszyński miód rzepakowy",
+          "date": "30.11.2017 r."
+        },
+        {
+          "name": "Miód wielokwiatowy z doliny Warty",
+          "date": "20.03.2018 r."
+        }
+      ]
+    },
+    {
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "Pierogi z kaszą gryczaną i twarogiem",
+          "date": "05.12.2013 r."
+        },
+        {
+          "name": "Pierogi z kapustą i grzybami leśnymi",
+          "date": "05.12.2013 r."
+        },
+        {
+          "name": "Gołąbki w kiszonej kapuście z ziemniakami",
+          "date": "07.10.2014 r."
+        },
+        {
+          "name": "Szynka z dzika pieczona",
+          "date": "25.03.2015 r."
+        },
+        {
+          "name": "Żur z ziołami ",
+          "date": "08.05.2017 r."
+        },
+        {
+          "name": "Kasla - karkówka w kapuście kiszonej",
+          "date": "08.05.2017 r."
+        },
+        {
+          "name": "Wołowina z karmelizowanej cebuli",
+          "date": "30.05.2018 r."
+        }
+      ]
+    },
+    {
+      "napoje": [
+        {
+          "name": "Wino gronowe",
+          "date": "17.02.2006 r."
+        },
+        {
+          "name": "Piwo wschowskie",
+          "date": "04.09.2008 r."
+        },
+        {
+          "name": "Miód pitny – Trójniak",
+          "date": "15.06.2009 r."
+        },
+        {
+          "name": "Jarzębiak",
+          "date": "07.07.2010 r."
+        },
+        {
+          "name": "Jarzębiak na winiaku",
+          "date": "07.07.2010 r."
+        },
+        {
+          "name": "Piwo zielonogórskie",
+          "date": "17.04.2013 r."
+        },
+        {
+          "name": "Piwo witnickie",
+          "date": "18.07.2013 r."
+        },
+        {
+          "name": "Naturalnie mętne soki z Solnik",
+          "date": "05.12.2013 r."
+        },
+        {
+          "name": "Wino jabłkowe",
+          "date": "11.04.2014 r."
+        },
+        {
+          "name": "Syrop z płatków róż",
+          "date": "11.04.2014 r."
+        },
+        {
+          "name": "Nalewka z owoców derenia",
+          "date": "15.05.2014 r."
+        },
+        {
+          "name": "Nalewka deptucha",
+          "date": "28.08.2015 r."
+        },
+        {
+          "name": "Nalewka sosnowa ",
+          "date": "26.10.2015 r."
+        },
+        {
+          "name": "Wino zielonogórskie gronowe",
+          "date": "12.02.2016 r."
+        }
+      ]
+    },
+    {
+      "inne_produkty": [
+        {
+          "name": "Ocet jabłkowo-miodowy",
+          "date": "19.01.2016 r."
+        }
+      ]
+    }
+  ]
+}

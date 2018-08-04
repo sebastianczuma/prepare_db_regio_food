@@ -1,0 +1,182 @@
+{
+  "dolnoslaskie": {
+    "produkty_mleczne": [
+      {
+        "name": "Ser zgorzelecki",
+        "date": "07.03.2008 r."
+      },
+      {
+        "name": "Ser kozi łomnicki",
+        "date": "21.07.2010 r."
+      },
+      {
+        "name": "Kamiennogórski ser pleśniowy",
+        "date": "12.08.2010 r."
+      },
+      {
+        "name": "Twaróg sudecki",
+        "date": "24.04.2013 r."
+      }
+    ],
+    "produkty_miesne": [
+      {
+        "name": "Słonina marynowana z Niemczy",
+        "date": "25.08.2011 r."
+      },
+      {
+        "name": "Mięso w kawałkach niemczańskie domowe",
+        "date": "25.08.2011 r."
+      },
+      {
+        "name": "Szynka wieprzowa niemczańska",
+        "date": "25.08.2011 r."
+      },
+      {
+        "name": "Kiełbasa niemczańska",
+        "date": "25.08.2011 r."
+      },
+      {
+        "name": "Kiełbasa galicjanka z Niemczy",
+        "date": "23.02.2012 r."
+      },
+      {
+        "name": "Przysmak wołyński z Niemczy",
+        "date": "23.02.2012 r."
+      },
+      {
+        "name": "Kiełbasa w słoiku z Przedgórza Sudeckiego",
+        "date": "21.04.2016 r."
+      }
+    ],
+    "produkty_rybolostwa": [
+      {
+        "name": "Karp milicki",
+        "date": "04.12.2007 r."
+      },
+      {
+        "name": "Pstrąg kłodzki",
+        "date": "05.10.2012 r."
+      },
+      {
+        "name": "Pstrąg kłodzki wędzony",
+        "date": "31.07.2014 r."
+      }
+    ],
+    "warzywa_i_owoce": [
+      {
+        "name": "Ogórki konserwowe ścinawskie",
+        "date": "24.04.2007 r."
+      },
+      {
+        "name": "Ogórki kwaszone ślężańskie",
+        "date": "23.07.2008 r."
+      },
+      {
+        "name": "Kapusta kwaszona ślężańska",
+        "date": "23.07.2008 r."
+      },
+      {
+        "name": "Syrop malinowy z Doliny Baryczy",
+        "date": "18.07.2013 r."
+      }
+    ],
+    "wyroby_piekarnicze_i_cukiernicze": [
+      {
+        "name": "Chleb gogołowicki",
+        "date": "12.05.2008 r."
+      },
+      {
+        "name": "Begle",
+        "date": "12.05.2008 r."
+      },
+      {
+        "name": "Ciasto z kruszonką z Ziemi Kłodzkiej",
+        "date": "23.07.2008 r."
+      },
+      {
+        "name": "Chleb chłopski z Rogowa Sobóckiego",
+        "date": "09.09.2009 r."
+      },
+      {
+        "name": "Chleb żytni domowy z Pomocnego",
+        "date": "15.02.2010 r."
+      },
+      {
+        "name": "Chleb pszenno-żytni na zakwasie z Pomocnego",
+        "date": "28.03.2011 r."
+      },
+      {
+        "name": "Miodowe pierniczki z Przemkowa",
+        "date": "25.08.2011 r."
+      },
+      {
+        "name": "Pszenno-żytnie pierniki z Oleśnicy",
+        "date": "19.12.2013 r."
+      },
+      {
+        "name": "Kołacz Ormian kuckich",
+        "date": "04.11.2016 r."
+      }
+    ],
+    "oleje_i_tluszcze": [
+      {
+        "name": "Masło tradycyjne",
+        "date": "27.06.2012 r."
+      }
+    ],
+    "miody": [
+      {
+        "name": "Miód wrzosowy z Borów Dolnośląskich",
+        "date": "28.09.2005 r."
+      },
+      {
+        "name": "Wielokwiatowy miód z Doliny Baryczy",
+        "date": "11.05.2007 r."
+      },
+      {
+        "name": "Sudecki miód gryczany",
+        "date": "10.08.2007 r."
+      },
+      {
+        "name": "Sudecki miód wielokwiatowy",
+        "date": "30.08.2007 r."
+      },
+      {
+        "name": "Miód lipowy krupiec z Ziemi Ząbkowickiej",
+        "date": "18.02.2013 r."
+      },
+      {
+        "name": "Ryczyński miód lipowy",
+        "date": "21.04.2016 r."
+      }
+    ],
+    "gotowe_dania_i_potrawy": [],
+    "napoje": [
+      {
+        "name": "Juha – kompot z suszonych owoców",
+        "date": "11.05.2007 r."
+      },
+      {
+        "name": "Wino śląskie",
+        "date": "11.06.2007 r."
+      },
+      {
+        "name": "Piwo książęce z Lwówka",
+        "date": "25.06.2010 r."
+      },
+      {
+        "name": "Tłoczony sok jabłkowy z Lutyni",
+        "date": "15.05.2012 r."
+      },
+      {
+        "name": "Jabłecznik trzebnicki (cydr)",
+        "date": "21.09.2012 r."
+      },
+      {
+        "name": "Likier karkonoski",
+        "date": "21.05.2013 r."
+      }
+    ],
+    "inne_produkty": []
+  }
+}

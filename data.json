@@ -1,0 +1,5807 @@
+{
+  "wojewodztwa": {
+    "dolnoslaskie": {
+      "produkty_mleczne": [
+        {
+          "name": "ser zgorzelecki"
+        },
+        {
+          "name": "ser kozi lomnicki"
+        },
+        {
+          "name": "kamiennogorski ser plesniowy"
+        },
+        {
+          "name": "twarog sudecki"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "slonina marynowana z niemczy"
+        },
+        {
+          "name": "mieso w kawalkach niemczanskie domowe"
+        },
+        {
+          "name": "szynka wieprzowa niemczanska"
+        },
+        {
+          "name": "kielbasa niemczanska"
+        },
+        {
+          "name": "kielbasa galicjanka z niemczy"
+        },
+        {
+          "name": "przysmak wolynski z niemczy"
+        },
+        {
+          "name": "kielbasa w sloiku z przedgorza sudeckiego"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "karp milicki"
+        },
+        {
+          "name": "pstrag klodzki"
+        },
+        {
+          "name": "pstrag klodzki wedzony"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "ogorki konserwowe scinawskie"
+        },
+        {
+          "name": "ogorki kwaszone slezanskie"
+        },
+        {
+          "name": "kapusta kwaszona slezanska"
+        },
+        {
+          "name": "syrop malinowy z doliny baryczy"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "chleb gogolowicki"
+        },
+        {
+          "name": "begle"
+        },
+        {
+          "name": "ciasto z kruszonka z ziemi klodzkiej"
+        },
+        {
+          "name": "chleb chlopski z rogowa sobockiego"
+        },
+        {
+          "name": "chleb zytni domowy z pomocnego"
+        },
+        {
+          "name": "chleb pszenno-zytni na zakwasie z pomocnego"
+        },
+        {
+          "name": "miodowe pierniczki z przemkowa"
+        },
+        {
+          "name": "pszenno-zytnie pierniki z olesnicy"
+        },
+        {
+          "name": "kolacz ormian kuckich"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "maslo tradycyjne"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miod wrzosowy z borow dolnoslaskich"
+        },
+        {
+          "name": "wielokwiatowy miod z doliny baryczy"
+        },
+        {
+          "name": "sudecki miod gryczany"
+        },
+        {
+          "name": "sudecki miod wielokwiatowy"
+        },
+        {
+          "name": "miod lipowy krupiec z ziemi zabkowickiej"
+        },
+        {
+          "name": "ryczynski miod lipowy"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [],
+      "napoje": [
+        {
+          "name": "juha kompot z suszonych owocow"
+        },
+        {
+          "name": "wino slaskie"
+        },
+        {
+          "name": "piwo ksiazece z lwowka"
+        },
+        {
+          "name": "tloczony sok jablkowy z lutyni"
+        },
+        {
+          "name": "jablecznik trzebnicki cydr"
+        },
+        {
+          "name": "likier karkonoski"
+        }
+      ],
+      "inne_produkty": []
+    },
+    "kujawsko-pomorskie": {
+      "produkty_mleczne": [
+        {
+          "name": "kajmak"
+        },
+        {
+          "name": "gzik"
+        },
+        {
+          "name": "ser kozi z mikanowa"
+        },
+        {
+          "name": "twarog z kujaw i ziemi dobrzynskiej"
+        },
+        {
+          "name": "lody koronowskie"
+        },
+        {
+          "name": "ser smazony z kminkiem"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "polgesek znany tez jako polgasek albo piersnik"
+        },
+        {
+          "name": "biala kielbasa w sloiku"
+        },
+        {
+          "name": "swiateczna szynka kujawska z koscia"
+        },
+        {
+          "name": "kaczka z weka"
+        },
+        {
+          "name": "okrasa gesia z czabrem"
+        },
+        {
+          "name": "leberka gesia"
+        },
+        {
+          "name": "szyja gesia nadziewana"
+        },
+        {
+          "name": "owijunki"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "powidla sliwkowe z doliny dolnej wisly"
+        },
+        {
+          "name": "sok z kapusty kwaszonej"
+        },
+        {
+          "name": "gruszki szaruszki w syropie"
+        },
+        {
+          "name": "fjutcyrop"
+        },
+        {
+          "name": "sliwka w occie"
+        },
+        {
+          "name": "kapusta modra szmurowana z rodzynkami"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "powidla sliwkowe z doliny dolnej wisly"
+        },
+        {
+          "name": "sok z kapusty kwaszonej"
+        },
+        {
+          "name": "gruszki szaruszki w syropie"
+        },
+        {
+          "name": "fjutcyrop"
+        },
+        {
+          "name": "sliwka w occie"
+        },
+        {
+          "name": "kapusta modra szmurowana z rodzynkami"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "mace borowiackie"
+        },
+        {
+          "name": "chleb z makiem ze stolna"
+        },
+        {
+          "name": "stolenski razowiec ze slonecznikiem"
+        },
+        {
+          "name": "chleb z kminkiem ze stolna"
+        },
+        {
+          "name": "mazurek orzechowy"
+        },
+        {
+          "name": "kujawiok wielkanocna baba drozdzowa"
+        },
+        {
+          "name": "amoniaczki"
+        },
+        {
+          "name": "placki na sodzie"
+        },
+        {
+          "name": "paczki ziemniaczano-dyniowe"
+        },
+        {
+          "name": "chleb zytni z ziemniakami"
+        },
+        {
+          "name": "ruchance drozdzowe"
+        },
+        {
+          "name": "piernik na karmelu brukowiec kujawski"
+        },
+        {
+          "name": "ciastka krolewskie z sosna krolewskiego"
+        },
+        {
+          "name": "kujawskie ciasto marchewkowe"
+        },
+        {
+          "name": "jablecznik kujawski"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "maslo wiejskie z woluszewa"
+        },
+        {
+          "name": "szary smalec po kujawsku"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miody z rejonu dolnej wisly"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "zur kujawski"
+        },
+        {
+          "name": "czarnina kujawska"
+        },
+        {
+          "name": "zupa kwas"
+        },
+        {
+          "name": "marchew krychano"
+        },
+        {
+          "name": "grzybowniczki"
+        },
+        {
+          "name": "kaczka nadziewana po kujawsku"
+        },
+        {
+          "name": "groch z kapusta"
+        },
+        {
+          "name": "wigilijna zupa z suszonych sliwek"
+        },
+        {
+          "name": "kluski z makiem"
+        },
+        {
+          "name": "rosopita"
+        },
+        {
+          "name": "zeberka w kapuscie"
+        },
+        {
+          "name": "kiszczok"
+        },
+        {
+          "name": "prazucha ziemniaczane fusze"
+        },
+        {
+          "name": "falszywy zajac"
+        },
+        {
+          "name": "poliwka"
+        },
+        {
+          "name": "szczawiowka zupa szczawiowa"
+        },
+        {
+          "name": "kujawskie pierogi z kapusta i grzybami"
+        },
+        {
+          "name": "kluski ziemniaczane z bialym serem"
+        },
+        {
+          "name": "kartoflanka po kujawsku"
+        },
+        {
+          "name": "kujawskie pierogi z serem"
+        },
+        {
+          "name": "bulki na parze pampuchy z kujaw"
+        },
+        {
+          "name": "pyzok placek ziemniaczany z dobrego"
+        },
+        {
+          "name": "kujawska bania z zacirkami"
+        },
+        {
+          "name": "kujawska parzybroda"
+        },
+        {
+          "name": "kujawska zupa z jajek"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "nalewka z czarnej porzeczki"
+        },
+        {
+          "name": "nalewka orzechowa 2"
+        },
+        {
+          "name": "nalewka z kwiatow glogu bulimaczka"
+        },
+        {
+          "name": "dziegielowka"
+        },
+        {
+          "name": "nalewka dereniowa"
+        },
+        {
+          "name": "ksiezycowka z kujaw"
+        },
+        {
+          "name": "piwo nakielskie jasne"
+        },
+        {
+          "name": "piwo nakielskie ciemne"
+        },
+        {
+          "name": "wino domowe z kujaw"
+        },
+        {
+          "name": "podpiwek kujawski"
+        },
+        {
+          "name": "kawa zbozowa z jeczmienia"
+        },
+        {
+          "name": "herbatki z ziolowych wiankow"
+        },
+        {
+          "name": "winko z chabru"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "mniszek bronislawski"
+        },
+        {
+          "name": "ciechocinska sol"
+        },
+        {
+          "name": "kulis-kwas z buraczkow"
+        },
+        {
+          "name": "placki z ciasta kluskowego pieczone na fajerkach"
+        }
+      ]
+    },
+    "lodzkie": {
+      "produkty_mleczne": [
+        {
+          "name": "kozi twarog z eufeminowa"
+        },
+        {
+          "name": "twarog tradycyjny"
+        },
+        {
+          "name": "sery kozie z druzbina"
+        },
+        {
+          "name": "ser twarogowy z siary"
+        },
+        {
+          "name": "ser twarogowy szczercowski"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "jagniecina ze swiniarki"
+        },
+        {
+          "name": "ges owsiana z boguslawic"
+        },
+        {
+          "name": "kielbasa nadolska tradycyjnie wedzona"
+        },
+        {
+          "name": "pasztetowa z nadolnej w petkach200"
+        },
+        {
+          "name": "jordanowska kielbasa jalowcowa"
+        },
+        {
+          "name": "nadolski boczek tradycyjnie wedzony"
+        },
+        {
+          "name": "wedzone kielbasy jordanowskie"
+        },
+        {
+          "name": "wedzonki szadkowskie"
+        },
+        {
+          "name": "szynka wielunska z lagi"
+        },
+        {
+          "name": "szynka cyganska zwana niedzwiedzia z zaborowa"
+        },
+        {
+          "name": "kielbasa chlopska"
+        },
+        {
+          "name": "kielbasa bilska"
+        },
+        {
+          "name": "kaszanka"
+        },
+        {
+          "name": "kielbasa swojska z bialej gory"
+        },
+        {
+          "name": "karczek pieczony z bialej gory"
+        },
+        {
+          "name": "boczek wedzony z zaborowa"
+        },
+        {
+          "name": "boczek wedzony luskany z szadku"
+        },
+        {
+          "name": "slonina wedzona z szadku"
+        },
+        {
+          "name": "kielbasy szadkowskie wedzone podsuszane"
+        },
+        {
+          "name": "pachwina wedzona z szadku"
+        },
+        {
+          "name": "kielbasa soltysa z bilskiej woli"
+        },
+        {
+          "name": "boczek wedzony z bilskiej woli"
+        },
+        {
+          "name": "szynka domowa z bilskiej woli"
+        },
+        {
+          "name": "salceson gospodarza"
+        },
+        {
+          "name": "wedzonka z beczki"
+        },
+        {
+          "name": "kaszanka cienka"
+        },
+        {
+          "name": "kielbasa felinowska"
+        },
+        {
+          "name": "baleron wedzony z zaborowa"
+        },
+        {
+          "name": "kielbasa z ksiezych mlynow"
+        },
+        {
+          "name": "pasztety z glowna"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "karp z grabi"
+        },
+        {
+          "name": "ryby wedzone tradycyjnie z woli moszczenickiej"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "chrzan znad srodkowej warty w laskach"
+        },
+        {
+          "name": "powidla sliwkowe lowickie"
+        },
+        {
+          "name": "ogorki kwaszone po lowicku"
+        },
+        {
+          "name": "ogorki konserwowe po lowicku"
+        },
+        {
+          "name": "cwikla z chrzanem po lowicku"
+        },
+        {
+          "name": "ogorek kwaszony spod wielunia"
+        },
+        {
+          "name": "chrzan nadwarcianski po staropolsku"
+        },
+        {
+          "name": "kompot wisniowy po lowicku"
+        },
+        {
+          "name": "szczaw konserwowy po lowicku"
+        },
+        {
+          "name": "przecier ogorkowy po lowicku"
+        },
+        {
+          "name": "nagawskie jablka pieczone z sokiem"
+        },
+        {
+          "name": "kapusta kiszona w calych glowach"
+        },
+        {
+          "name": "pikantna konfitura z dzikiego wina"
+        },
+        {
+          "name": "powidla z papierowek z kobylnik"
+        },
+        {
+          "name": "ogorki kiszone z rogowa"
+        },
+        {
+          "name": "konfitura agrestowa z osse"
+        },
+        {
+          "name": "konfitura z zurawiny z osse"
+        },
+        {
+          "name": "powidla sliwkowe z kaleczewa"
+        },
+        {
+          "name": "konfitura wisniowa z kaleczewa"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "chleb leczycki zytni razowy pelnoziarnisty"
+        },
+        {
+          "name": "chleb wiejski leczycki"
+        },
+        {
+          "name": "chleb zytni razowy pelnoziarnisty z bialej"
+        },
+        {
+          "name": "chleb wiejski na zakwasie z pieca ceglanego z bialej"
+        },
+        {
+          "name": "piernik z marchwi"
+        },
+        {
+          "name": "piernikowa chatka znad rzeki mrogi"
+        },
+        {
+          "name": "chleb staropolski z doliny mrogi"
+        },
+        {
+          "name": "chleb dmosinski na tradycyjnym zakwasie"
+        },
+        {
+          "name": "chleb zytni swiatnicki"
+        },
+        {
+          "name": "chleb razowy z doliny mrogi z ziarnami zboz"
+        },
+        {
+          "name": "chleb gryczany"
+        },
+        {
+          "name": "chleb nagawski wiecznie swiezy"
+        },
+        {
+          "name": "obrzedowy chleb z doliny mrogi"
+        },
+        {
+          "name": "tatarczuch z radomska"
+        },
+        {
+          "name": "chleb gospodarski z mrogi"
+        },
+        {
+          "name": "chleb zytni z mlekiem"
+        },
+        {
+          "name": "chleby zytnie szadkowskie"
+        },
+        {
+          "name": "ciastka ze skwarek sloninki"
+        },
+        {
+          "name": "chleb razowy parzony z ozorkowa"
+        },
+        {
+          "name": "obwarzanki tomaszowskie"
+        },
+        {
+          "name": "chleb kozacki z ozorkowa"
+        },
+        {
+          "name": "ciastka zwijane z marmolada"
+        },
+        {
+          "name": "babka gotowana"
+        },
+        {
+          "name": "rogaliki drozdzowe bez cukru"
+        },
+        {
+          "name": "paczki tradycyjne"
+        },
+        {
+          "name": "jablecznik znad mrogi"
+        },
+        {
+          "name": "rogaliki z powidlami sliwkowymi z okolic mrogi"
+        },
+        {
+          "name": "babka drozdzowa znad mrogi"
+        },
+        {
+          "name": "sernik z nagawek"
+        },
+        {
+          "name": "szarlotka z nagawek"
+        },
+        {
+          "name": "wyborowa krowka belchatowska"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "maslo nagawskie"
+        },
+        {
+          "name": "maslo z gluchowa"
+        },
+        {
+          "name": "maslo tradycyjne naturalne szczercowskie"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miody z doliny rzeki mrogi"
+        },
+        {
+          "name": "miody z gminy zelechlinek"
+        },
+        {
+          "name": "miod ziemi brzezinskiej wzniesien odzkich i rawki"
+        },
+        {
+          "name": "miody z doliny rzeki bzury"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "zalewajka z zasmazka"
+        },
+        {
+          "name": "obrowska zupa chrzanowa"
+        },
+        {
+          "name": "kapusta z grochem"
+        },
+        {
+          "name": "golabki z osin"
+        },
+        {
+          "name": "kaplonek wodzianka z galkowa"
+        },
+        {
+          "name": "polewka gruszkowa z galkowa"
+        },
+        {
+          "name": "kugiel z przedborza"
+        },
+        {
+          "name": "plendze kartoflane z wojcina"
+        },
+        {
+          "name": "jezowski zur z ziemniaczkami"
+        },
+        {
+          "name": "radomszczanska zalewajka"
+        },
+        {
+          "name": "kluski zelazne"
+        },
+        {
+          "name": "golonka z kapusta zasmazana"
+        },
+        {
+          "name": "pierogi z kapusta i grzybami z mrogi dolnej"
+        },
+        {
+          "name": "zupa z dyni z rogowa"
+        },
+        {
+          "name": "kotlety z platkow owsianych"
+        },
+        {
+          "name": "kluski nadziewane z kapusta zasmazana"
+        },
+        {
+          "name": "ksiezacka szynka jajeczna"
+        },
+        {
+          "name": " ubnicki zur smazony"
+        },
+        {
+          "name": "dziad kapusciany"
+        },
+        {
+          "name": "trzepka"
+        },
+        {
+          "name": "zupa z bani"
+        },
+        {
+          "name": "pierogi znad mrozycy"
+        },
+        {
+          "name": "pierogi z glowna"
+        },
+        {
+          "name": "cepeliny z nagawek"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "piwo laskie"
+        },
+        {
+          "name": "nalewka owocowa z nagawek"
+        },
+        {
+          "name": "ratafia malinowa z nagawek"
+        },
+        {
+          "name": "sok jablkowy z kaleczewa"
+        },
+        {
+          "name": "ratafia"
+        },
+        {
+          "name": "nalewka imbirowo-cytrynowa"
+        },
+        {
+          "name": "kwas chlebowy"
+        },
+        {
+          "name": "dmosinski syrop z malin"
+        },
+        {
+          "name": "nalewka truskawkowa z bachorzyna"
+        },
+        {
+          "name": "sok pomidorowy z kaleczewa"
+        },
+        {
+          "name": "nalewka z czarnej porzeczki"
+        },
+        {
+          "name": "nalewka pigwowa"
+        },
+        {
+          "name": "nalewka cierniowa"
+        },
+        {
+          "name": "syrop malinowy z lubowidzy"
+        },
+        {
+          "name": "nalewka sliwkowa z marianowa"
+        },
+        {
+          "name": "syrop z czarnego bzu z kaleczewa"
+        },
+        {
+          "name": "nalewka dereniowka"
+        }
+      ],
+      "inne_produkty": []
+    },
+    "lubelskie": {
+      "produkty_mleczne": [
+        {
+          "name": "ser zablocki"
+        },
+        {
+          "name": "sery z ziolami"
+        },
+        {
+          "name": "twarog z bychawy"
+        },
+        {
+          "name": "smietana z bychawy"
+        },
+        {
+          "name": "lody lubartowskie"
+        },
+        {
+          "name": "lody slawatyckie"
+        },
+        {
+          "name": "kefir nadwislanski"
+        },
+        {
+          "name": "maslanka nadwislanska"
+        },
+        {
+          "name": "twarog nadwislanski"
+        },
+        {
+          "name": "popiolek z krupego ser w popiele"
+        },
+        {
+          "name": "maslanka naturalna z bychawy"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "kaszanka nadwieprzanka"
+        },
+        {
+          "name": "kielbasa nadwieprzanska"
+        },
+        {
+          "name": "kaczka czarna nadziewana"
+        },
+        {
+          "name": "poledwica nadwieprzanska"
+        },
+        {
+          "name": "szynka nadwieprzanska"
+        },
+        {
+          "name": "baleron nadwieprzanski"
+        },
+        {
+          "name": "boczek nadwieprzanski"
+        },
+        {
+          "name": "swinia rasy pulawskiej"
+        },
+        {
+          "name": "ludwinskie prosie pieczone faszerowane"
+        },
+        {
+          "name": "kaszanka pieczona z dobroslawowa"
+        },
+        {
+          "name": "kielbasa wieprzowa z krzczonowa"
+        },
+        {
+          "name": "szynka wieprzowa z krzczonowa"
+        },
+        {
+          "name": "kielbasa wiejska z dobroslawowa"
+        },
+        {
+          "name": "pieczen z szynki dzika wedzona lub pieczona"
+        },
+        {
+          "name": "dzik w ciescie"
+        },
+        {
+          "name": "szynka domowa roztoczanska"
+        },
+        {
+          "name": "kaczka gradziarska"
+        },
+        {
+          "name": "kielbasa bronicka"
+        },
+        {
+          "name": "szynka wedzona z wisznic"
+        },
+        {
+          "name": "kielbasa krolewska wedzona z wisznic"
+        },
+        {
+          "name": "kielbasa swojska wedzona z wisznic"
+        },
+        {
+          "name": "poledwica wedzona z wisznic"
+        },
+        {
+          "name": "swojskie mieso wekowane ze zwierzynca"
+        },
+        {
+          "name": "kielbasa swojska bilgorajska"
+        },
+        {
+          "name": "boczek wedzony z wisznic"
+        },
+        {
+          "name": "baleron wedzony z wisznic"
+        },
+        {
+          "name": "watrobianka krzczonowska"
+        },
+        {
+          "name": "swinia rasy wielkiej bialej polskiej wbp"
+        },
+        {
+          "name": "swinia rasy polskiej bialej zwislouchej pbz"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "szyneczka z karpia z pustelni"
+        },
+        {
+          "name": "wedzone dzwonka karpia z pustelni"
+        },
+        {
+          "name": "karasie z polesia"
+        },
+        {
+          "name": "kotlety rybne z sugrow"
+        },
+        {
+          "name": "pasztet z karpia z sierskowoli"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "kapusta kwaszona krasnicka"
+        },
+        {
+          "name": "ogorki kiszone krasnickie"
+        },
+        {
+          "name": "gruszka suszona krasnicka"
+        },
+        {
+          "name": "malina krasnicka"
+        },
+        {
+          "name": "powidla sliwkowe z mikolajowki"
+        },
+        {
+          "name": "syrop malinowy z mikolajowki"
+        },
+        {
+          "name": "szarytka w marynacie"
+        },
+        {
+          "name": "tymianek z fajslawic"
+        },
+        {
+          "name": "konfitura rozana z konskowoli"
+        },
+        {
+          "name": "jablka krasnickie"
+        },
+        {
+          "name": "konfitura poziomkowa"
+        },
+        {
+          "name": "konfitura z owocow rozy"
+        },
+        {
+          "name": "truskawka z gminy pulawy"
+        },
+        {
+          "name": "cwikla z werbkowic"
+        },
+        {
+          "name": "dzem zurawinowy bilgorajski"
+        },
+        {
+          "name": "szparagi z janiszowa"
+        },
+        {
+          "name": "jablko jozefowskie"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "pierog pirog bilgorajski dawniej zwany krupniakiem"
+        },
+        {
+          "name": "sekacz podlaski"
+        },
+        {
+          "name": "marchwiaki z makiem"
+        },
+        {
+          "name": "racuchy z makiem"
+        },
+        {
+          "name": "pierog gryczany"
+        },
+        {
+          "name": "kodenski chleb razowy zytni"
+        },
+        {
+          "name": "cebularz lubelski"
+        },
+        {
+          "name": "gryczak janowski"
+        },
+        {
+          "name": "gryczok godziszowski"
+        },
+        {
+          "name": "rudnicki pierog jaglany"
+        },
+        {
+          "name": "piernik lubelski"
+        },
+        {
+          "name": "chleb ludwinski"
+        },
+        {
+          "name": "chleb ludwinski zytni"
+        },
+        {
+          "name": "zawijaki wygnanowskie"
+        },
+        {
+          "name": "paczki zakowolskie z powidlami z antonowek"
+        },
+        {
+          "name": "racuchy turowskie"
+        },
+        {
+          "name": "piernik zydowski"
+        },
+        {
+          "name": "chleb zytni wygnanowski"
+        },
+        {
+          "name": "pierniczki ozdobne"
+        },
+        {
+          "name": "wafle tortowe suche"
+        },
+        {
+          "name": "miodownik z jaszczowa"
+        },
+        {
+          "name": "paszteciki z grzybami"
+        },
+        {
+          "name": "makowiec lubartowski"
+        },
+        {
+          "name": "caluski pszczelowolskie"
+        },
+        {
+          "name": "chleb wiejski debowiecki"
+        },
+        {
+          "name": "chleb wiejski z otrebami"
+        },
+        {
+          "name": "chleb niedrzwicki"
+        },
+        {
+          "name": "ciasto staropolskie podhoreckie"
+        },
+        {
+          "name": "rogaliki polfrancuskie smietanowe z masa orzechowa i roza"
+        },
+        {
+          "name": "chleb zytni tradycyjny"
+        },
+        {
+          "name": "pralina z lublina"
+        },
+        {
+          "name": "szarlotka jozefowska"
+        },
+        {
+          "name": "ciastka przez maszynke"
+        },
+        {
+          "name": "cebulak zukowski"
+        },
+        {
+          "name": "sernik z kartoflami z jaszczowa"
+        },
+        {
+          "name": "baba babka drozdzowa z jablkami"
+        },
+        {
+          "name": "bulka wiejska"
+        },
+        {
+          "name": "chleb starowiejski"
+        },
+        {
+          "name": "chleb zytni naturalny"
+        },
+        {
+          "name": "chleb gryczany"
+        },
+        {
+          "name": "korowaj chleb weselny z paszenek"
+        },
+        {
+          "name": "ciastka z cukrem z perkowic"
+        },
+        {
+          "name": "racuchy drozdzowe z jablkami z dokudowa"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "olej swiateczny roztoczanski"
+        },
+        {
+          "name": "olej rzepakowy"
+        },
+        {
+          "name": "olej lniany"
+        },
+        {
+          "name": "olej tarnogrodzki"
+        },
+        {
+          "name": "maslo z bychawy"
+        },
+        {
+          "name": "maslo z opola lubelskiego"
+        },
+        {
+          "name": "oleje lniany rzepakowy slonecznikowy tloczone na zimno z turzych rogow"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miod fasolowy odmianowy z nektaru kwiatow fasoli tyczkowej piekny jas"
+        },
+        {
+          "name": "miod malinowy"
+        },
+        {
+          "name": "miod gryczany godziszowski"
+        },
+        {
+          "name": "miod gryczany z lubelszczyzny"
+        },
+        {
+          "name": "miod rzepakowy z roztocza"
+        },
+        {
+          "name": "nadwieprzanski miod wielokwiatowy"
+        },
+        {
+          "name": "nadwieprzanski miod lipowy"
+        },
+        {
+          "name": "naleczowski miod wielokwiatowy"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "parowance z kasza jaglana"
+        },
+        {
+          "name": "parowance z serem"
+        },
+        {
+          "name": "pierogi nowodworskie"
+        },
+        {
+          "name": "zawijas nasutowski"
+        },
+        {
+          "name": "kulebiak generalowej kickiej"
+        },
+        {
+          "name": "parowance zakowolskie z soczewica"
+        },
+        {
+          "name": "pierogi olszewnickie z kasza gryczana"
+        },
+        {
+          "name": "parowance brzozowickie z kapusta i grzybami"
+        },
+        {
+          "name": "pierogi zakowolskie ze smazonymi ziemniakami"
+        },
+        {
+          "name": "pierogi lipniackie z kapusta i grzybami"
+        },
+        {
+          "name": "pierogi zosinowskie z jagodami"
+        },
+        {
+          "name": "tertuny brzozowickie z soczewica"
+        },
+        {
+          "name": "pierogi turowskie z soczewica"
+        },
+        {
+          "name": "pyzy polskowolskie z miesem"
+        },
+        {
+          "name": "lubelski forszmak"
+        },
+        {
+          "name": "zupa cebulowa z goraja"
+        },
+        {
+          "name": "paszteciki niedrzwickie z kapusta i pieczarkami"
+        },
+        {
+          "name": "wolenskie kartoflaki"
+        },
+        {
+          "name": "zupa chlopska fajslawicka"
+        },
+        {
+          "name": "werbkowickie placki z soczewicy"
+        },
+        {
+          "name": "karczmiskie pierogi z bobru bobu"
+        },
+        {
+          "name": "jablczanka z fajslawic"
+        },
+        {
+          "name": "pierogi z czerwona fasola"
+        },
+        {
+          "name": "kapusta z grochem i smietana z gorzkowa"
+        },
+        {
+          "name": "karp w smietanie po poniatowsku"
+        },
+        {
+          "name": "chodelskie golabki z kiszonej kapusty"
+        },
+        {
+          "name": "zupa z karpia"
+        },
+        {
+          "name": "golasy izbickie"
+        },
+        {
+          "name": "kaczka po zamojsku"
+        },
+        {
+          "name": "kisiel z owsa owsiany"
+        },
+        {
+          "name": "zur zukowski"
+        },
+        {
+          "name": "flaki piaseckie"
+        },
+        {
+          "name": "slodkowska kapusta z grzybami"
+        },
+        {
+          "name": "kluski gryczane"
+        },
+        {
+          "name": "pierogi skromowskie z kasza jaglana serem i mieta"
+        },
+        {
+          "name": "parowance skromowskie z serem"
+        },
+        {
+          "name": "pierogi z bobem i miesem z dobryniowa"
+        },
+        {
+          "name": "podcos"
+        },
+        {
+          "name": "zawijoki janowickie"
+        },
+        {
+          "name": "kulebiak z perkowic"
+        },
+        {
+          "name": "pierogi perkowickie"
+        },
+        {
+          "name": "barszcz czeresniowy"
+        },
+        {
+          "name": "kolacz z jaglami z perkowic"
+        },
+        {
+          "name": "parowance wareniki kluski gotowane na parze z bubel granny"
+        },
+        {
+          "name": "dziedziuchy-placki z gotowanych ziemniakow z dokudowa"
+        },
+        {
+          "name": "karczmiski barszcz bialy"
+        },
+        {
+          "name": "golasy z kaszy gryczanej z serem z obaczewa malego"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "miod pitny poltorak"
+        },
+        {
+          "name": "miod pitny dwojniak"
+        },
+        {
+          "name": "miod pitny trojniak"
+        },
+        {
+          "name": "miod pitny czworniak"
+        },
+        {
+          "name": "malinoweczka"
+        },
+        {
+          "name": "grzaniec marcina z urzedowa"
+        },
+        {
+          "name": "naleweczka gruszkowka z krasnika"
+        },
+        {
+          "name": "nalewka poziomkowa lesna z krasnika"
+        },
+        {
+          "name": "witaminy eremity syrop z czarnego bzu"
+        },
+        {
+          "name": "nektar swietego eugeniusza miod ziolowy"
+        },
+        {
+          "name": "janowska nalewka miodowa"
+        },
+        {
+          "name": "zurawinowka momocka"
+        },
+        {
+          "name": "kwas chlebowy sapiezynski kodenski"
+        },
+        {
+          "name": "kordial zurawinowy krasnicki"
+        },
+        {
+          "name": "maliniak krasnicki-wodka malinowka"
+        },
+        {
+          "name": "nalewka ziemianska"
+        },
+        {
+          "name": "sok z maliny krasnickiej"
+        },
+        {
+          "name": "oranzada z kakolewnicy"
+        },
+        {
+          "name": "krupnik pszczelowolski"
+        },
+        {
+          "name": "warzonka krysztalowka"
+        },
+        {
+          "name": "nalewka z platkow rozy"
+        },
+        {
+          "name": "krasnickie domowe wino owocowe"
+        },
+        {
+          "name": "zurawinowka bilgorajska"
+        },
+        {
+          "name": "jablkowka z mikolajowki"
+        },
+        {
+          "name": "nadwislanski sok jablkowy"
+        },
+        {
+          "name": "syrop z platkow rozy"
+        },
+        {
+          "name": "syrop z owocow rozy"
+        },
+        {
+          "name": "napoj zniwny z rabarbaru i miety"
+        },
+        {
+          "name": "herbatka ksiecia sapiehy"
+        },
+        {
+          "name": "sok z pigwowca z konskowoli"
+        },
+        {
+          "name": "sok jablkowo-buraczkowy z wandalina"
+        },
+        {
+          "name": "herbatka rozana z ziolami z wandalina"
+        },
+        {
+          "name": "domowa nalewka z porzeczek i agrestu z opola lubelskiego"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "makaron jajeczny z ludwina"
+        },
+        {
+          "name": "chmiel krasnostawski"
+        },
+        {
+          "name": "chelmski makaron jajeczny"
+        }
+      ]
+    },
+    "lubuskie": {
+      "produkty_mleczne": [
+        {
+          "name": "ser kozi zamkowy"
+        },
+        {
+          "name": "ser twarogowy z mleka koziego krajanka"
+        },
+        {
+          "name": "ser kozi dojrzewajacy"
+        },
+        {
+          "name": "twarog kozi dojrzaly wytapiany"
+        },
+        {
+          "name": "ser dojrzewajacy z mleka krowiego"
+        },
+        {
+          "name": "ser twarogowy z mleka krowiego krajanka"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "schab tradycyjny slubicki"
+        },
+        {
+          "name": "kielbasa zarska"
+        },
+        {
+          "name": "salceson wiejski"
+        },
+        {
+          "name": "szynka tradycyjna"
+        },
+        {
+          "name": "kielbasa wiejska"
+        },
+        {
+          "name": "kielbasa podsuszana slawska z indykiem"
+        },
+        {
+          "name": "kielbasa slawska z indykiem"
+        },
+        {
+          "name": "serdelki slawskie z indykiem"
+        },
+        {
+          "name": "kielbasa szynkowa slawska z indykiem"
+        },
+        {
+          "name": "kielbasa kresowa dojrzewajaca"
+        },
+        {
+          "name": "kielbasa zabuzanska rzemieslnicza"
+        },
+        {
+          "name": "szynka wedzona z komina"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "mieszanka rybna w zalewie octowej"
+        },
+        {
+          "name": "wojnowska ryba na kwasno"
+        },
+        {
+          "name": "paprykarz wojnowski"
+        },
+        {
+          "name": "wegorz parowany po rybacku"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "kapusta kwaszona nadnotecka"
+        },
+        {
+          "name": "ogorki kiszone nadnoteckie"
+        },
+        {
+          "name": "papierowka w syropie"
+        },
+        {
+          "name": "jablka odmiany landsberska"
+        },
+        {
+          "name": "sliwka gubinka"
+        },
+        {
+          "name": "sliwa w occie"
+        },
+        {
+          "name": "miodowa musztarda z dyni pikantna i lagodna"
+        },
+        {
+          "name": "powidla sliwkowe z wegierek"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "bochen chleba starowiejskiego"
+        },
+        {
+          "name": "paska bukowinska pascha chleb bukowinski"
+        },
+        {
+          "name": "strudel strucla"
+        },
+        {
+          "name": "chleb domowy na zakwasie"
+        },
+        {
+          "name": "chleb z dodatkiem nasion lnu"
+        },
+        {
+          "name": "szarlotka z landsberska"
+        },
+        {
+          "name": "lubuskie pierniki"
+        },
+        {
+          "name": "chleb ze starego pieca"
+        },
+        {
+          "name": "paczki lubuskie"
+        },
+        {
+          "name": "babka ucierana"
+        },
+        {
+          "name": "ciastka krecone z maszynki smalcowki"
+        },
+        {
+          "name": "drozdzowiec"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "olej lniany tloczony na zimno"
+        },
+        {
+          "name": "maslo slawskie"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miod wielokwiatowy lakowy z doliny noteci"
+        },
+        {
+          "name": "miod akacjowy"
+        },
+        {
+          "name": "ziolomiod pokrzywowy"
+        },
+        {
+          "name": "miod lipowy magdalenski"
+        },
+        {
+          "name": "miod nektarowo-spadziowy"
+        },
+        {
+          "name": "lubiszynski miod rzepakowy"
+        },
+        {
+          "name": "miod wielokwiatowy z doliny warty"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "pierogi z kasza gryczana i twarogiem"
+        },
+        {
+          "name": "pierogi z kapusta i grzybami lesnymi"
+        },
+        {
+          "name": "golabki w kiszonej kapuscie z ziemniakami"
+        },
+        {
+          "name": "szynka z dzika pieczona"
+        },
+        {
+          "name": "zur z ziolami"
+        },
+        {
+          "name": "kasla karkowka w kapuscie kiszonej"
+        },
+        {
+          "name": "wolowina w karmelizowanej cebuli"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "wino gronowe"
+        },
+        {
+          "name": "piwo wschowskie"
+        },
+        {
+          "name": "miod pitny trojniak"
+        },
+        {
+          "name": "jarzebiak"
+        },
+        {
+          "name": "jarzebiak na winiaku"
+        },
+        {
+          "name": "piwo zielonogorskie"
+        },
+        {
+          "name": "piwo witnickie"
+        },
+        {
+          "name": "naturalnie metne soki z solnik"
+        },
+        {
+          "name": "wino jablkowe"
+        },
+        {
+          "name": "syrop z platkow roz"
+        },
+        {
+          "name": "nalewka z owocow derenia"
+        },
+        {
+          "name": "nalewka deptucha"
+        },
+        {
+          "name": "nalewka sosnowa sosnowka"
+        },
+        {
+          "name": "wino zielonogorskie gronowe"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "ocet jablkowo-miodowy"
+        }
+      ]
+    },
+    "malopolskie": {
+      "produkty_mleczne": [
+        {
+          "name": "oscypek oszczypek 2"
+        },
+        {
+          "name": "bryndza podhalanska"
+        },
+        {
+          "name": "zentyca"
+        },
+        {
+          "name": "redykolka"
+        },
+        {
+          "name": "bundz bunc"
+        },
+        {
+          "name": "ser gazdowski golka pucok kara"
+        },
+        {
+          "name": "lody nowotarskie"
+        },
+        {
+          "name": "sadeckie lody"
+        },
+        {
+          "name": "mleko od krow rasy polskiej czerwonej"
+        },
+        {
+          "name": "gomolki kowalowskie"
+        },
+        {
+          "name": "sery twarogowe niedojrzewajace"
+        },
+        {
+          "name": "smietana z limanowej"
+        },
+        {
+          "name": "zsiadle mleko z limanowej"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "kielbasa lisiecka"
+        },
+        {
+          "name": "tuszka gesi zatorskiej"
+        },
+        {
+          "name": "jagniecina podhalanska"
+        },
+        {
+          "name": "szynka podstolego"
+        },
+        {
+          "name": "szynka podstolego z noga"
+        },
+        {
+          "name": "kielbasa wiejska z podstolic"
+        },
+        {
+          "name": "boczek gotowany z podstolic"
+        },
+        {
+          "name": "kiszka z podstolic"
+        },
+        {
+          "name": "jagniecina jurajska z owcy olkuskiej"
+        },
+        {
+          "name": "tuszka zielononozki kuropatwianej"
+        },
+        {
+          "name": "smalec jurajski gotowany"
+        },
+        {
+          "name": "kielbasa piaszczanska"
+        },
+        {
+          "name": "tuszka golebia rasy rys polski z okolic proszowic"
+        },
+        {
+          "name": "wolowina z krowy rasy polskiej czerwono-bialej"
+        },
+        {
+          "name": "kielbasa proszowicka ze sloja"
+        },
+        {
+          "name": "boczek duszony w piwie"
+        },
+        {
+          "name": "mieso ze sloja z okolic proszowic"
+        },
+        {
+          "name": "kielbasa wiejska z proszowek"
+        },
+        {
+          "name": "baleron wedzony z proszowek"
+        },
+        {
+          "name": "schab wedzony z proszowek"
+        },
+        {
+          "name": "szynka wedzona z proszowek"
+        },
+        {
+          "name": "boczek wiejski z proszowek"
+        },
+        {
+          "name": "kielbasa wiejska iwkowska"
+        },
+        {
+          "name": "wedzonka iwkowska"
+        },
+        {
+          "name": "szynka iwkowska"
+        },
+        {
+          "name": "kielbasa podhalanska ze skrzypnego"
+        },
+        {
+          "name": "kielbasa wiejska sadecka"
+        },
+        {
+          "name": "poledwica wiejska sadecka tradycyjna"
+        },
+        {
+          "name": "szynka swojska sadecka tradycyjna"
+        },
+        {
+          "name": "karczek sadecki tradycyjny"
+        },
+        {
+          "name": "wedzonka sadecka tradycyjna"
+        },
+        {
+          "name": "golonka sadecka tradycyjna"
+        },
+        {
+          "name": "boczek sadecki tradycyjny"
+        },
+        {
+          "name": "kabanos wiejski z andrychowa"
+        },
+        {
+          "name": "kielbasa z gospody z andrychowa"
+        },
+        {
+          "name": "kielbasa krucha z andrychowa"
+        },
+        {
+          "name": "kielbasa wiejska z galaretka z nowej wsi szlacheckiej"
+        },
+        {
+          "name": "kielbasa wiejska z galaretka z andrychowa"
+        },
+        {
+          "name": "szynka wiejska sadecka tradycyjna"
+        },
+        {
+          "name": "kielbasa swojska sadecka"
+        },
+        {
+          "name": "kielbasa starowiejska sadecka"
+        },
+        {
+          "name": "kielbasa wiejska podegrodzka"
+        },
+        {
+          "name": "slonina rosolona podegrodzka"
+        },
+        {
+          "name": "szynka podegrodzka"
+        },
+        {
+          "name": "boczek podegrodzki"
+        },
+        {
+          "name": "kielbasa tuchowska"
+        },
+        {
+          "name": "kielbasa wiejska tuchowska"
+        },
+        {
+          "name": "kielbasa wiejska raciechowicka"
+        },
+        {
+          "name": "schab tradycyjny raciechowicki"
+        },
+        {
+          "name": "szynka tradycyjna raciechowicka"
+        },
+        {
+          "name": "boczek tradycyjny raciechowicki"
+        },
+        {
+          "name": "kielbasa krakowska sucha"
+        },
+        {
+          "name": "kaszanka proszowicka"
+        },
+        {
+          "name": "pasztet proszowicki"
+        },
+        {
+          "name": "glowizna proszowicka"
+        },
+        {
+          "name": "boczek domowy z kasinki"
+        },
+        {
+          "name": "kielbasa malopolska"
+        },
+        {
+          "name": "kielbasa swojska tradycyjna z kasinki"
+        },
+        {
+          "name": "synecka tradycyjna z kasinki"
+        },
+        {
+          "name": "kielbasa wiejska z czernichowa"
+        },
+        {
+          "name": "kielbasa schabowa tradycyjna z czernichowa"
+        },
+        {
+          "name": "poledwica tradycyjna z czernichowa"
+        },
+        {
+          "name": "szynka tradycyjna z czernichowa"
+        },
+        {
+          "name": "boczek tradycyjny z czernichowa"
+        },
+        {
+          "name": "kielbasa tradycyjnie wyrabiana"
+        },
+        {
+          "name": "soldra soldrzyna spiska"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "karp zatorski"
+        },
+        {
+          "name": "karp zatorski wedzony"
+        },
+        {
+          "name": "karp w zalewie octowej"
+        },
+        {
+          "name": "karp osiecki"
+        },
+        {
+          "name": "pstrag ojcowski potokowy"
+        },
+        {
+          "name": "pstrag ojcowski teczowy"
+        },
+        {
+          "name": "pulpeciki z karpia w zalewie octowej"
+        },
+        {
+          "name": "fileciki karpiowe w pomidorach"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "jablka lackie"
+        },
+        {
+          "name": "jablko z raciechowic"
+        },
+        {
+          "name": "charsznicka kapusta kwaszona"
+        },
+        {
+          "name": "nasiona fasoli piekny jas z doliny dunajca"
+        },
+        {
+          "name": "suska sechlonska"
+        },
+        {
+          "name": " ukowicka sliwka suszona"
+        },
+        {
+          "name": "polska fasola z orzelkiem"
+        },
+        {
+          "name": "ogorki kiszone w studni"
+        },
+        {
+          "name": "dzem z platkow roz"
+        },
+        {
+          "name": "nadwislanski ogorek konserwowy z kanny"
+        },
+        {
+          "name": "susorki iwkowskie"
+        },
+        {
+          "name": "zakliczynski sok malinowy"
+        },
+        {
+          "name": "konfitura borowkowo-jablkowa"
+        },
+        {
+          "name": "maliny z brzeznej"
+        },
+        {
+          "name": "sliwki w zalewie korzennej z wolicy"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "precelek krakowski"
+        },
+        {
+          "name": "chleb pradnicki"
+        },
+        {
+          "name": "jodlownicki kolacz z serem"
+        },
+        {
+          "name": "obwarzanek krakowski"
+        },
+        {
+          "name": "chleb jurajski"
+        },
+        {
+          "name": "chleb zarnowy z omnej"
+        },
+        {
+          "name": "ciasteczka wysmienite"
+        },
+        {
+          "name": "bajgiel z kazimierza"
+        },
+        {
+          "name": "kukielka lisiecka"
+        },
+        {
+          "name": "kolacz jurajski"
+        },
+        {
+          "name": "kukielka podegrodzka"
+        },
+        {
+          "name": "chleb mecinski"
+        },
+        {
+          "name": "bugle zembrzyckie"
+        },
+        {
+          "name": "sernik jurajski"
+        },
+        {
+          "name": "orawskie zawijance weselne"
+        },
+        {
+          "name": "chleb orawski na lisciu kapusty"
+        },
+        {
+          "name": "koziolki"
+        },
+        {
+          "name": "paluszki krakowskie"
+        },
+        {
+          "name": "sernik krolewski"
+        },
+        {
+          "name": "kreciolki"
+        },
+        {
+          "name": "placki z blachy"
+        },
+        {
+          "name": "chleb zytni gruszowski"
+        },
+        {
+          "name": "blachorze"
+        },
+        {
+          "name": "prolzioki"
+        },
+        {
+          "name": "kukielka uszewska"
+        },
+        {
+          "name": "wojnickie kukielki"
+        },
+        {
+          "name": "podplomyk z cebula"
+        },
+        {
+          "name": "razowiec lipnicki"
+        },
+        {
+          "name": "podplomyk lelowicki"
+        },
+        {
+          "name": "chleb swiateczny"
+        },
+        {
+          "name": "cwibak z fasoli z bakaliami"
+        },
+        {
+          "name": "buchta bolecinska"
+        },
+        {
+          "name": "radoczanski jablecznik"
+        },
+        {
+          "name": "chleb siedliszowski"
+        },
+        {
+          "name": "chleb podegrodzki"
+        },
+        {
+          "name": "obwarzanek pobiedrski"
+        },
+        {
+          "name": "placki pasterskie"
+        },
+        {
+          "name": "sodowki mogilenskie"
+        },
+        {
+          "name": "chleb inwaldzki"
+        },
+        {
+          "name": "koscielecka strucla makowa"
+        },
+        {
+          "name": "grulownik twaroznik spiski"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "maslo rzuchowskie"
+        }
+      ],
+      "miody": [
+        {
+          "name": "malopolski miod spadziowy"
+        },
+        {
+          "name": "sadecki miod spadziowy"
+        },
+        {
+          "name": "suski miod spadziowy z drzew iglastych"
+        },
+        {
+          "name": "miod wielokwiatowy lesny z podksieza"
+        },
+        {
+          "name": "miod nawlociowy z gminy skrzyszow"
+        },
+        {
+          "name": "miod ze spadzi jodlowej z pogorza roznowskiego"
+        },
+        {
+          "name": "miod spadziowy z beskidu wyspowego"
+        },
+        {
+          "name": "miod ze spadzi iglastej z harbutowic"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "zurek po krakowsku"
+        },
+        {
+          "name": "barszcz czerwony krakowski"
+        },
+        {
+          "name": "sulkowicka krzonowka"
+        },
+        {
+          "name": "ziemniaki po cabansku"
+        },
+        {
+          "name": "pierogi lomniczanskie"
+        },
+        {
+          "name": "moskol"
+        },
+        {
+          "name": "zupa zoproska"
+        },
+        {
+          "name": "krzonowka po orawsku"
+        },
+        {
+          "name": "salata po orawsku"
+        },
+        {
+          "name": "siuspaj"
+        },
+        {
+          "name": "strzaska"
+        },
+        {
+          "name": "kapusta po goralsku"
+        },
+        {
+          "name": "tarcioki kluski scykane bukty"
+        },
+        {
+          "name": "kluski haluski"
+        },
+        {
+          "name": "kaszana kiszka z kapusta zasmazana"
+        },
+        {
+          "name": "prazone prazonki polanskie"
+        },
+        {
+          "name": "kapusniorka z grzybami"
+        },
+        {
+          "name": "zolipskie pirogi"
+        },
+        {
+          "name": "strojcowskie zawijoki z ziemniakow"
+        },
+        {
+          "name": "rosol polski"
+        },
+        {
+          "name": "kasza pecak z kapusta"
+        },
+        {
+          "name": "fitka z lelowic"
+        },
+        {
+          "name": "siusbak kasza z grochem"
+        },
+        {
+          "name": "wolanska kura nadziewana peerelka"
+        },
+        {
+          "name": "galki sadczane"
+        },
+        {
+          "name": "imbramowska kapusta na zurze"
+        },
+        {
+          "name": "hulajdy"
+        },
+        {
+          "name": "pasztet z fasoli z marchewka lub grzybami"
+        },
+        {
+          "name": "zupa karpielanka"
+        },
+        {
+          "name": "dziadki kokuszczanskie"
+        },
+        {
+          "name": "mirowska parzybroda"
+        },
+        {
+          "name": "sakiewka ziemniaczana"
+        },
+        {
+          "name": "kladzionki ziemniaczane witanowickie"
+        },
+        {
+          "name": "pierogi z fasola piekny jas"
+        },
+        {
+          "name": "kleczanska zupa wigilijna jasiek ze sliwka"
+        },
+        {
+          "name": "pierogi koscieleckie"
+        },
+        {
+          "name": "placek po rytersku"
+        },
+        {
+          "name": "wieconka swiecelina spiska na cieplo"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "sliwowica acka"
+        },
+        {
+          "name": "sliwowica wyborna"
+        },
+        {
+          "name": "jarzebinka"
+        },
+        {
+          "name": "jarzebiak izdebnicki"
+        },
+        {
+          "name": "czar pustyni"
+        },
+        {
+          "name": "zytko"
+        },
+        {
+          "name": "wino domowe rzuchowskie"
+        },
+        {
+          "name": "nalewka lazowska jalowcowka"
+        },
+        {
+          "name": "imbirowka iwkowska"
+        },
+        {
+          "name": "miodowka pogorska"
+        },
+        {
+          "name": "polywka"
+        },
+        {
+          "name": "lipnicka lipina"
+        },
+        {
+          "name": "fasolowka"
+        },
+        {
+          "name": "miodowka ryterska"
+        },
+        {
+          "name": "ratafia z kwiatami czarnego bzu i glogu"
+        },
+        {
+          "name": " ososinski sok tloczony z jablek"
+        },
+        {
+          "name": "wino z jablek i platkow rozy z wolicy"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "sol wielicka"
+        },
+        {
+          "name": "balsam kapucynski"
+        },
+        {
+          "name": "syropy owocowe"
+        },
+        {
+          "name": "jajko zielononozki kuropatwianej"
+        },
+        {
+          "name": "wisnicki makaron domowy tradycyjny"
+        },
+        {
+          "name": "kiszone rydze z gminy uscie gorlickie"
+        }
+      ]
+    },
+    "mazowieckie": {
+      "produkty_mleczne": [
+        {
+          "name": "kozi ser twarogowy z ceglowa"
+        },
+        {
+          "name": "kozi ser twarogowy suszony"
+        },
+        {
+          "name": "ser ziemny z kornicy"
+        },
+        {
+          "name": "ser kozi z jakubowa"
+        },
+        {
+          "name": "ser kozi mlodziak"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "kielbasa nadbuzanska jalowcowa sucha"
+        },
+        {
+          "name": "kielbasa ojcowa z sobien jezior"
+        },
+        {
+          "name": "pasztet z sobien jezior"
+        },
+        {
+          "name": "poledwiczki wedzone podsuszane"
+        },
+        {
+          "name": "poledwica kurpiowska"
+        },
+        {
+          "name": "kogutki z radziwillowa"
+        },
+        {
+          "name": "pasztet domowy szydlowiecki"
+        },
+        {
+          "name": "kielbasa szydlowiecka pieczona z oczkiem"
+        },
+        {
+          "name": "kaszanka szydlowiecka z watrobka w kostke krojona"
+        },
+        {
+          "name": "kielbasa staropolska szydlowiecka"
+        },
+        {
+          "name": "skolatowska sloninka przysmak mysliwego"
+        },
+        {
+          "name": "perliczki z grabiny radziwillowskiej"
+        },
+        {
+          "name": "bolimowski golab nadworny rys"
+        },
+        {
+          "name": "kaplon staropolski kaplun staropolski"
+        },
+        {
+          "name": "pularda mazowiecka"
+        },
+        {
+          "name": "czarna kiszka ze starych litewnik"
+        },
+        {
+          "name": "kielbasa ze starych litewnik"
+        },
+        {
+          "name": "kielbasa palcowka"
+        },
+        {
+          "name": "maciek mazowiecki"
+        },
+        {
+          "name": "szynka pieczona w chlebie"
+        },
+        {
+          "name": "salceson wizytowy"
+        },
+        {
+          "name": "szynka zdziechowska"
+        },
+        {
+          "name": "kielbasa z watroba z kornicy"
+        },
+        {
+          "name": "szynka debowa z tynki"
+        },
+        {
+          "name": "kielbasa wiejska zdziechowska"
+        },
+        {
+          "name": "kielbasa wiejska z lipska"
+        },
+        {
+          "name": "pomasta"
+        },
+        {
+          "name": "kielbasa olszycka podsuszana"
+        },
+        {
+          "name": "pasztet z miesa wieprzowego z kornicy"
+        },
+        {
+          "name": "polgesek z radziwillowa"
+        },
+        {
+          "name": "baleron kurpiowski"
+        },
+        {
+          "name": "schab parzony kurpiowski"
+        },
+        {
+          "name": "szynka kurpiowska"
+        },
+        {
+          "name": "kielbasa wiejska kurpiowska"
+        },
+        {
+          "name": "kaczka z jablkami z chojnowskiego dworu"
+        },
+        {
+          "name": "pasztet domowy z dworu zygmunty"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "pasta rybna z radziwillowa"
+        },
+        {
+          "name": "sledz w oleju z radziwillowa"
+        },
+        {
+          "name": "sofor-kurpiowska polewka rybna"
+        },
+        {
+          "name": "karp marynowany z rzeki rawki"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "jablka grojeckie"
+        },
+        {
+          "name": "podchmielone wisienki zakroczymskie"
+        },
+        {
+          "name": "konfitura wisniowa zakroczymska"
+        },
+        {
+          "name": "czosnek latowicki"
+        },
+        {
+          "name": "papryka przytycka"
+        },
+        {
+          "name": "marmolada z antonowek"
+        },
+        {
+          "name": "konfitura borowkowa z gruszka"
+        },
+        {
+          "name": "konfitura truskawkowa"
+        },
+        {
+          "name": "ogorki kiszone z lisciem debu"
+        },
+        {
+          "name": "kozienicki ogorek kiszony"
+        },
+        {
+          "name": "sos dyniowo ziolowy"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "baba z chleba zytniego"
+        },
+        {
+          "name": "panska skorka"
+        },
+        {
+          "name": "sojka mazowiecka"
+        },
+        {
+          "name": "fafernuchy"
+        },
+        {
+          "name": "chleb razowy radziwillowski"
+        },
+        {
+          "name": "chleb zytni ciemny z grebkowa"
+        },
+        {
+          "name": "mazowieckie ciastka ze skwarek"
+        },
+        {
+          "name": "nadbuzanski chleb wiejski na zakwasie"
+        },
+        {
+          "name": "bulki drozdzowe jagodzianki"
+        },
+        {
+          "name": "korowaj weselny"
+        },
+        {
+          "name": "amoniaczki"
+        },
+        {
+          "name": "razowka z kozienic"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "mazowieckie maslo klarowane"
+        },
+        {
+          "name": "olej lniany tloczony na zimno"
+        },
+        {
+          "name": "maslo z kwasnej smietany"
+        },
+        {
+          "name": "maslo smietankowe z radziwillowa"
+        },
+        {
+          "name": "olej rzepakowy z winnik tloczony na zimno"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miod kurpiowski"
+        },
+        {
+          "name": "miod nadbuzanski"
+        },
+        {
+          "name": "miody z grebkowa"
+        },
+        {
+          "name": "miody marianskie"
+        },
+        {
+          "name": "miod wielokwiatowy lakowy z kornicy"
+        },
+        {
+          "name": "miod wielokwiatowy ziemi tluszczanskiej"
+        },
+        {
+          "name": "perla urzecza miod nawlociowy"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "kapusta z olejem lnianym i grzybami"
+        },
+        {
+          "name": "pierogi z ziemniakami szlachcice"
+        },
+        {
+          "name": "slimak winny z radziwillowa"
+        },
+        {
+          "name": "rosol dworski z kaplona"
+        },
+        {
+          "name": "czarnina ze mchowa"
+        },
+        {
+          "name": "kornickie jaja faszerowane"
+        },
+        {
+          "name": "nalesniki starokornickie"
+        },
+        {
+          "name": "placki ziemniaczane pieczone na blasze"
+        },
+        {
+          "name": "golonka faszerowana grzybami lesnymi z rudki"
+        },
+        {
+          "name": "bendzwaly szlacheckie"
+        },
+        {
+          "name": "marchwianka"
+        },
+        {
+          "name": "cebula duszona ze skwarkami z sypniewa"
+        },
+        {
+          "name": "barszcz zabielany z kiszonej kapusty na skorkach wieprzowych z sypniewa"
+        },
+        {
+          "name": "barszcz czerwony zabielany z ziemak"
+        },
+        {
+          "name": "rosol z prosnianek z jastrzabki"
+        },
+        {
+          "name": "czernickie pierogi"
+        },
+        {
+          "name": "szlachcianka jajecznica z troszyna"
+        },
+        {
+          "name": "jednorojski malon zupa z dyni z jednorozca"
+        },
+        {
+          "name": "pierogi z jagodami z myszynca"
+        },
+        {
+          "name": "zawijas kartoflany ze szwelic"
+        },
+        {
+          "name": "kiszka ziemniaczana"
+        },
+        {
+          "name": "rejbak kurpiowski"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "miodowe piwo mazowieckie"
+        },
+        {
+          "name": "piwo z ciechanowa"
+        },
+        {
+          "name": "nalewka wisniowa zakroczymska"
+        },
+        {
+          "name": "likier jajeczny radziwillowski"
+        },
+        {
+          "name": "miodolada mazowiecka"
+        },
+        {
+          "name": "kompot z jablek z radziwillowa"
+        },
+        {
+          "name": "lipowka kornicka"
+        },
+        {
+          "name": "soki miodowe z grebkowa"
+        },
+        {
+          "name": "kwas chlebowy na miodzie z grebkowa"
+        },
+        {
+          "name": "krupnik z grebkowa"
+        },
+        {
+          "name": "wino miodowe z grebkowa"
+        },
+        {
+          "name": "piwo kozicowe"
+        },
+        {
+          "name": "domowa nalewka z tarniny"
+        },
+        {
+          "name": "syrop z czarnego bzu z puszczy marianskiej"
+        },
+        {
+          "name": "tloczony sok jablkowy z doliny radomki"
+        },
+        {
+          "name": "herbatka z czarnego bzu z puszczy marianskiej"
+        },
+        {
+          "name": "sok z czarnego bzu z puszczy marianskiej"
+        },
+        {
+          "name": "nalewka nadbuzanska owocowa mirabelka"
+        },
+        {
+          "name": "nalewka staropolska na pedach sosny z omianek"
+        },
+        {
+          "name": "nalewki staropolskie wisniowe z omianek"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "makaron radziwillowski"
+        },
+        {
+          "name": "jaja z radziwillowa"
+        },
+        {
+          "name": "jaja perlicze z grabiny radziwillowskiej"
+        },
+        {
+          "name": "powidla olenderskie"
+        },
+        {
+          "name": "jastrzabki"
+        }
+      ]
+    },
+    "opolskie": {
+      "produkty_mleczne": [
+        {
+          "name": "ser domowy smazony z kminkiem z czosnkiem bez przypraw"
+        },
+        {
+          "name": "domowy ser parzony z kminkiem"
+        },
+        {
+          "name": "ser twarogowy z olesna"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "opolska rolada wolowa"
+        },
+        {
+          "name": "krupnioki z gorek"
+        },
+        {
+          "name": "zymloki z gorek bulczanka z gorek"
+        },
+        {
+          "name": "leberwurst drobno mielony z gorek watrobianka z gorek"
+        },
+        {
+          "name": "leberwurst grubo mielony z gorek pasztetowa z gorek"
+        },
+        {
+          "name": "salceson ozorkowy z gorek presswurst ozorkowy z gorek"
+        },
+        {
+          "name": "salceson bialy z gorek presswurst bialy z gorek"
+        },
+        {
+          "name": "zymlok opolski bialy"
+        },
+        {
+          "name": "modziki"
+        },
+        {
+          "name": "krupniok slaski"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "harynki w cebulowej zolzie"
+        },
+        {
+          "name": "karp niemodlinski"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "jablka odmiany berlepsch znane tez pod nazwa niemiecka goldrenette freiherr von berlepsch roter berlepsch"
+        },
+        {
+          "name": "stara odmiana jabloni konigin"
+        },
+        {
+          "name": "stara odmiana jabloni ksiaze albrecht pruski"
+        },
+        {
+          "name": "jablka odmiany grafsztynek prawdziwy zwany tez grafsztynkiem z grafsztynu nazwy niemieckie gravensteiner haferapfel"
+        },
+        {
+          "name": "jablka odmiany wealthy"
+        },
+        {
+          "name": "modro kapusta tj kapusta czerwona"
+        },
+        {
+          "name": "kapusta kiszona z bobrowy"
+        },
+        {
+          "name": "ogorkowe pikle"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "jez ciasto tortowe z masa kremowa z czarnej porzeczki"
+        },
+        {
+          "name": "chalwy sezamowe"
+        },
+        {
+          "name": "chleb gogolinski"
+        },
+        {
+          "name": "sliszki potrawa wigilijna"
+        },
+        {
+          "name": "kolocz slaski"
+        },
+        {
+          "name": "kretowina ciasto biszkoptowe o smaku czekoladowym"
+        },
+        {
+          "name": "buchty slaskie czyli kluski drozdzowe gotowane na parze"
+        },
+        {
+          "name": "opolskie ciasteczka ze skwarek szpyrek"
+        },
+        {
+          "name": "krajanki"
+        },
+        {
+          "name": "anyzki"
+        },
+        {
+          "name": "chleb mleczny praszkowski"
+        },
+        {
+          "name": "chrustchrustekchrustkifaworki"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "olej glubczycki rzepakowy tloczony na zimno"
+        },
+        {
+          "name": "maslo z olesna"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miody popielowskie z borow stobrawskich"
+        },
+        {
+          "name": "miody rudnickie"
+        },
+        {
+          "name": "miody wolczynskie"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "golabki z kaszy gryczanej i ziemniakow"
+        },
+        {
+          "name": "kartoffelsalat"
+        },
+        {
+          "name": "placki kartoflane z blachy"
+        },
+        {
+          "name": "pierog postny ze starych kolni"
+        },
+        {
+          "name": "molcka potrawa wigilijna"
+        },
+        {
+          "name": "kluski slaskie tzw biole kluski"
+        },
+        {
+          "name": "wodzionka"
+        },
+        {
+          "name": "scierka opolska"
+        },
+        {
+          "name": "germuszka zwana tez warmuszka biermuszka"
+        },
+        {
+          "name": "siemieniotka"
+        },
+        {
+          "name": "slaski zur na maslance"
+        },
+        {
+          "name": "slaskie niebo"
+        },
+        {
+          "name": "oberiba na gesto"
+        },
+        {
+          "name": "panczkraut kapusta kiszona z ziemniakami"
+        },
+        {
+          "name": "makowka opolska"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "nalewka orzechowa2"
+        },
+        {
+          "name": "test"
+        },
+        {
+          "name": "kompot z kwity"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "tej ziolowy"
+        },
+        {
+          "name": "kroszonka opolska"
+        },
+        {
+          "name": "makaron domowy z makowic"
+        },
+        {
+          "name": "nudle"
+        }
+      ]
+    },
+    "podkarpackie": {
+      "produkty_mleczne": [
+        {
+          "name": "ser kozi woloski bialy lub wedzony"
+        },
+        {
+          "name": "bryndza kozia"
+        },
+        {
+          "name": "gomolki"
+        },
+        {
+          "name": "ser kozi podkarpacki bialy i wedzony"
+        },
+        {
+          "name": "ser zolty smazony podkarpacki"
+        },
+        {
+          "name": "ser bialy z handzlowki"
+        },
+        {
+          "name": "ser kornaka w zalewie ziolowej"
+        },
+        {
+          "name": "serek twarogowy ziarnisty"
+        },
+        {
+          "name": "ser wielkanocny"
+        },
+        {
+          "name": "szyszki piwne"
+        },
+        {
+          "name": "ser kozi dojrzewajacy bieszczadzki"
+        },
+        {
+          "name": "bundz kozi"
+        },
+        {
+          "name": "ser krowi lemkowski"
+        },
+        {
+          "name": "bryndza lemkowska"
+        },
+        {
+          "name": "bundz lemkowski"
+        },
+        {
+          "name": "ser woloski krowi"
+        },
+        {
+          "name": "ser twarogowy lasowiacki"
+        },
+        {
+          "name": "ser wedzony z mleka krowiego"
+        },
+        {
+          "name": "smietana lasowiacka"
+        },
+        {
+          "name": "twarog wiejski z jasienicy rosielnej"
+        },
+        {
+          "name": "ser bieszczadzki wedzony"
+        },
+        {
+          "name": "ser krowi dojrzewajacy wolczan"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "kielbasa markowska"
+        },
+        {
+          "name": "przysmak zapiekany markowski"
+        },
+        {
+          "name": "kielbasa swojska krajana"
+        },
+        {
+          "name": "pasztet zapiekany"
+        },
+        {
+          "name": "kielbasa glogowska"
+        },
+        {
+          "name": "szynka wiejska markowska"
+        },
+        {
+          "name": "salceson dukielski"
+        },
+        {
+          "name": "kiszka pasztetowa dukielska"
+        },
+        {
+          "name": "kiszka kaszana regionalna dukielska"
+        },
+        {
+          "name": "kaszanka wiejska pilznenska"
+        },
+        {
+          "name": "salceson wiejski pilznenski"
+        },
+        {
+          "name": "kielbasa swojska pilznenska"
+        },
+        {
+          "name": "szynka swojska pilznenska"
+        },
+        {
+          "name": "szynka biesiadna pilznenska"
+        },
+        {
+          "name": "golonka podkarpacka z pilzna"
+        },
+        {
+          "name": "wiejska pieczona z gorna"
+        },
+        {
+          "name": "kielbasa sucha pieczona z gorna"
+        },
+        {
+          "name": "golonka w sloju z gorna"
+        },
+        {
+          "name": "kielbasianka z gorna"
+        },
+        {
+          "name": "udziec wieprzowy pieczony z koscia"
+        },
+        {
+          "name": "szynka tradycyjna z gorna"
+        },
+        {
+          "name": "studzienina z gorna"
+        },
+        {
+          "name": "boczek pieczony z gorna"
+        },
+        {
+          "name": "schab tradycyjny z gorna"
+        },
+        {
+          "name": "salceson swojski radomyski"
+        },
+        {
+          "name": "kielbasa wiejska dulcza"
+        },
+        {
+          "name": "boczek wedzony radomyski"
+        },
+        {
+          "name": "boczek w sloju z gorna"
+        },
+        {
+          "name": "kielbasa swojska brzezinska"
+        },
+        {
+          "name": "kielbasa pieczona swiateczna po pysznicku"
+        },
+        {
+          "name": "pasztet w sloju tradycyjny z gorna"
+        },
+        {
+          "name": "salceson wiejski markowski"
+        },
+        {
+          "name": "poledwica swojska pilznenska"
+        },
+        {
+          "name": "boczek swojski pilznenski"
+        },
+        {
+          "name": "kielbasa debowiecka"
+        },
+        {
+          "name": "chwalowskie zeberka wedzone w wekach"
+        },
+        {
+          "name": "kielbasa wiejska jodlowska"
+        },
+        {
+          "name": "szynka swojska wedzona z hermanowej"
+        },
+        {
+          "name": "szynka pieczona z hermanowej"
+        },
+        {
+          "name": "kielbasa swojska z hermanowej"
+        },
+        {
+          "name": "boczek z wetliny"
+        },
+        {
+          "name": "kielbasa smalcowka"
+        },
+        {
+          "name": "salceson debowiecki"
+        },
+        {
+          "name": "slonina wedzona rekrucka"
+        },
+        {
+          "name": "kielbasa wiejska"
+        },
+        {
+          "name": "karczek wedzony po debowiecku"
+        },
+        {
+          "name": "kielbasa wiejska wierzawicka"
+        },
+        {
+          "name": "schab wedzony markowski"
+        },
+        {
+          "name": "kielbasa swojska drobiowo-wieprzowa pilznenska"
+        },
+        {
+          "name": "kielbasa wiejska pilznenska"
+        },
+        {
+          "name": "kielbasa polsucha z gorna"
+        },
+        {
+          "name": "kielbasa szynkowa z markowej"
+        },
+        {
+          "name": "boczek wedzony debowiecki"
+        },
+        {
+          "name": "kielbasa markowska sucha"
+        },
+        {
+          "name": "szynka swojska z gorna"
+        },
+        {
+          "name": "szynka wiejska wiazana radomyska"
+        },
+        {
+          "name": "szynka wedzona dulcza"
+        },
+        {
+          "name": "kabanos wieprzowy wierzawicki"
+        },
+        {
+          "name": "schab wedzony smerecki"
+        },
+        {
+          "name": "kielbasa swojska z wierzeic wierzawice"
+        },
+        {
+          "name": "baleron z wierzeic wierzawice"
+        },
+        {
+          "name": "baleron wedzony radomyski"
+        },
+        {
+          "name": "kielbasa wiejska z wielopola"
+        },
+        {
+          "name": "szynka z wieolpola"
+        },
+        {
+          "name": "poledwiczka wedzona z wierzeic wierzawice"
+        },
+        {
+          "name": "boczek wedzony wolski"
+        },
+        {
+          "name": "boczek wedzony z wierzeic wierzawice"
+        },
+        {
+          "name": "kielbasa wiejska wolska"
+        },
+        {
+          "name": "schab wedzony radomyski"
+        },
+        {
+          "name": "poledwiczka wedzona radomyska"
+        },
+        {
+          "name": "szynka wedzona markowska z ziolami"
+        },
+        {
+          "name": "kielbasa swojska z czarnej"
+        },
+        {
+          "name": "schab wedzony z wierzeic"
+        },
+        {
+          "name": "szynka wedzona wierzawicka"
+        },
+        {
+          "name": "kielbasa swojska jodlowska"
+        },
+        {
+          "name": "kielbasa sielska"
+        },
+        {
+          "name": "konserwy tradycyjne miesne"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "karp po starzawsku"
+        },
+        {
+          "name": "lasowiacki karp w galarecie"
+        },
+        {
+          "name": "karp wedzony z rudy rozanieckiej"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "powidla krzeszowskie"
+        },
+        {
+          "name": "roza ucierana podkarpacka"
+        },
+        {
+          "name": "deren kiszony podkarpacki"
+        },
+        {
+          "name": "powidlo galicyjskie z kotla"
+        },
+        {
+          "name": "ogorki kiszone z handzlowki"
+        },
+        {
+          "name": "suszone plasterki jablek z pruchnika"
+        },
+        {
+          "name": "gruszki w syropie miodowym"
+        },
+        {
+          "name": "pruchnicka gruszka suszona"
+        },
+        {
+          "name": "pruchnicka suszona sliwka wegierka"
+        },
+        {
+          "name": "powidla sliwkowe"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "staropolski chleb sanacyjny pieczony na drewnie i lisciach kapusty"
+        },
+        {
+          "name": "chleb flisacki dawniej zwany chrupackim"
+        },
+        {
+          "name": "chleb chwalowski"
+        },
+        {
+          "name": "krupiak"
+        },
+        {
+          "name": "proziaki"
+        },
+        {
+          "name": "rzeszowski kolacz weselny"
+        },
+        {
+          "name": "kruszonka lasowiacka"
+        },
+        {
+          "name": "chrupaczki"
+        },
+        {
+          "name": "chleb razowy lancucki na lisciu kapusty"
+        },
+        {
+          "name": "makowiec sedziszowski"
+        },
+        {
+          "name": "serowiec sedziszowski"
+        },
+        {
+          "name": "sedziszowskie ciasto z jagodami"
+        },
+        {
+          "name": "chleb sedziszowski zytni"
+        },
+        {
+          "name": "futomski bulwiok"
+        },
+        {
+          "name": "tort chlebowy z korniaktowa"
+        },
+        {
+          "name": "amoniaczki korniaktowskie"
+        },
+        {
+          "name": "bulka brytfon"
+        },
+        {
+          "name": "biszkopty jaroslawskie"
+        },
+        {
+          "name": "serownik sernik handzlowski"
+        },
+        {
+          "name": "handzlowska bulka pszenna"
+        },
+        {
+          "name": "chleb swojski brzezinski"
+        },
+        {
+          "name": "chleb koziarniacki"
+        },
+        {
+          "name": "kukielka z kasza jaglana"
+        },
+        {
+          "name": "szyszka weselna grodziska"
+        },
+        {
+          "name": "korowal weselny"
+        },
+        {
+          "name": "handzlowski chleb domowy"
+        },
+        {
+          "name": "chleb pszenno-razowy z piecowiska"
+        },
+        {
+          "name": "jezowskie kapusniaki z kasza tatarczana"
+        },
+        {
+          "name": "pierozki lezachowskie pieczone z kasza gryczana"
+        },
+        {
+          "name": "placek z jablkami"
+        },
+        {
+          "name": "siemieniaki orzechowe"
+        },
+        {
+          "name": "jagodzianki"
+        },
+        {
+          "name": "chleb zytni na zakwasie z ziemi mieleckiej"
+        },
+        {
+          "name": "pierog z kaszy gryczanej"
+        },
+        {
+          "name": "chleb pszenny dabrowicki"
+        },
+        {
+          "name": "goscinnik chlebowy"
+        },
+        {
+          "name": "syrnik z krupami"
+        },
+        {
+          "name": "wilijnik"
+        },
+        {
+          "name": "podplomyk"
+        },
+        {
+          "name": "szarlotka domowa ze swiezych i prazonych jablek"
+        },
+        {
+          "name": "placek rzeszowiak"
+        },
+        {
+          "name": "pierog jaglany brzozanski"
+        },
+        {
+          "name": "lizaki wigilijne ulanowskie"
+        },
+        {
+          "name": "bandurzak"
+        },
+        {
+          "name": "kapusniaczki drozdzowe"
+        },
+        {
+          "name": "strucla makowa brzozowska"
+        },
+        {
+          "name": "tort z fasoli piekny jas"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "olej podkarpacki"
+        },
+        {
+          "name": "maslo domowe z handzlowki"
+        },
+        {
+          "name": "maslo lasowiackie"
+        },
+        {
+          "name": "maslo z jasienicy rosielnej"
+        }
+      ],
+      "miody": [
+        {
+          "name": "podkarpacki miod spadziowy"
+        },
+        {
+          "name": "miod lubaczowski"
+        },
+        {
+          "name": "miod z korzenicy wielokwiatowy i nektarowo-spadziowy"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "kapusta z kasza jeczmienna po lasowiacku"
+        },
+        {
+          "name": "panepuchy"
+        },
+        {
+          "name": "kacapoly lub klegle"
+        },
+        {
+          "name": "pierogi z kapusta i grzybami pilznenski"
+        },
+        {
+          "name": "pierogi z miesem pilznenskie"
+        },
+        {
+          "name": "pierogi pilznenskie z borowkami"
+        },
+        {
+          "name": "pierogi ruskie pilznenskie"
+        },
+        {
+          "name": "golabki pilznenskie"
+        },
+        {
+          "name": "kapusta ziemniaczana"
+        },
+        {
+          "name": "zur rzeszowski"
+        },
+        {
+          "name": "razowe pierogi z wiercan"
+        },
+        {
+          "name": "pamula glinicka"
+        },
+        {
+          "name": "maczka z gesi po dachnowsku"
+        },
+        {
+          "name": "golabki z nowego siola"
+        },
+        {
+          "name": "pierog dachnowski z kasza gryczana i ziemniakami"
+        },
+        {
+          "name": "pierogi z kaszy jaglanej z serem"
+        },
+        {
+          "name": "kwas z gasek zielonych"
+        },
+        {
+          "name": "handzlowska serwatka wielkanocna"
+        },
+        {
+          "name": "kapusta wigilijna po pysznicku"
+        },
+        {
+          "name": "studzionka bobowo-serowa"
+        },
+        {
+          "name": "pieczone pierogi sw jacka"
+        },
+        {
+          "name": "zalewajka"
+        },
+        {
+          "name": "barszcz kwaszony z buraka cwiklowego"
+        },
+        {
+          "name": "pierogi z soczewica"
+        },
+        {
+          "name": "placki kapusciane szandorki"
+        },
+        {
+          "name": "jezowskie pierogi z kasza jaglana i twarogiem"
+        },
+        {
+          "name": "golabki z kaszy gryczanej z tartymi ziemniakami z sosem grzybowym"
+        },
+        {
+          "name": "kaczka lezachowska pieczona"
+        },
+        {
+          "name": "zrazy z baraniny w sosie wlasnym"
+        },
+        {
+          "name": "fujarki pastusze"
+        },
+        {
+          "name": "ryba pyrowa"
+        },
+        {
+          "name": "niedzwiedz chlopski"
+        },
+        {
+          "name": "zupa z jagod"
+        },
+        {
+          "name": "zupa dziadowska"
+        },
+        {
+          "name": "kolduny"
+        },
+        {
+          "name": "bieszczadzkie pierogi"
+        },
+        {
+          "name": "barszcz bialy wielkanocny"
+        },
+        {
+          "name": "pierogi razowe z lalina"
+        },
+        {
+          "name": "pierogi z bobem"
+        },
+        {
+          "name": "niwiskie pierogi z kapusta kiszona"
+        },
+        {
+          "name": "niwiski krupnik"
+        },
+        {
+          "name": "kwas wigilijny"
+        },
+        {
+          "name": "pierogi ruskie razowe"
+        },
+        {
+          "name": "kapusta z grochem i kasza jaglana"
+        },
+        {
+          "name": "ziemniak faszerowany po rzeszowsku"
+        },
+        {
+          "name": "pstragowska banianka"
+        },
+        {
+          "name": "pamula werynska"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "kruszon"
+        },
+        {
+          "name": "gorecki kompot z suszu"
+        },
+        {
+          "name": "orzechowka krzeszowska"
+        },
+        {
+          "name": "lasowiacka nalewka z pigwy"
+        },
+        {
+          "name": "lasowiacka nalewka zurawinowa"
+        },
+        {
+          "name": "soki z owocow tloczone na zimno z ziemi ancuckiej"
+        },
+        {
+          "name": "sok z owocow czarnego bzu"
+        },
+        {
+          "name": "orzechowka jasielska"
+        },
+        {
+          "name": "wisniowka jasielska"
+        },
+        {
+          "name": "sliwowica krzeszowska"
+        },
+        {
+          "name": "malinowka jasielska"
+        },
+        {
+          "name": "herbata miodowo-lipowa"
+        },
+        {
+          "name": "dereniowka bask z albigowej"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "galicyjski ocet jablkowy"
+        }
+      ]
+    },
+    "podlaskie": {
+      "produkty_mleczne": [
+        {
+          "name": "ser korycinski swojski"
+        },
+        {
+          "name": "ser podlaski"
+        },
+        {
+          "name": "ser gouda"
+        },
+        {
+          "name": "ser podpuszczkowy dojrzewajacy wizajny"
+        },
+        {
+          "name": "sery biale deserowe litewskie"
+        },
+        {
+          "name": "ser narwianski"
+        },
+        {
+          "name": "ser suszony podlaski"
+        },
+        {
+          "name": "ser typu szwajcarskiego z wizajn"
+        },
+        {
+          "name": "twarog hajnowski"
+        },
+        {
+          "name": "klinek dabrowski"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "kumpia wieprzowa z komina"
+        },
+        {
+          "name": "kindziuk z punska"
+        },
+        {
+          "name": "kumpiak podlaski"
+        },
+        {
+          "name": "wedzonka wedzone"
+        },
+        {
+          "name": "kump nadbuzanski z cwiartki"
+        },
+        {
+          "name": "szynka wedzona z ejszeryszek"
+        },
+        {
+          "name": "boczek wedzony z ejszeryszek"
+        },
+        {
+          "name": "kielbasa chlopska z ejszeryszek"
+        },
+        {
+          "name": "poledwica wedzona z ejszeryszek"
+        },
+        {
+          "name": "karkowka wedzona z ejszeryszek"
+        },
+        {
+          "name": "golonka faszerowana z ejszeryszek"
+        },
+        {
+          "name": "kielbasa z ejszeryszek"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "sejnenski szczupak faszerowany"
+        },
+        {
+          "name": "ryby slodkowodne wedzone metoda tradycyjna"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "kruszewski ogorek herbowy"
+        },
+        {
+          "name": "ogorki kwaszone narwianskie"
+        },
+        {
+          "name": "kruszewska kapusta kiszona"
+        },
+        {
+          "name": "nadbuzanska kawa zoledziowka"
+        },
+        {
+          "name": "kapusta z beczki kiszona w glowce"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "chleb staropolski chleb zytni"
+        },
+        {
+          "name": "pieczywo obrzedowe weselne korowaj lipski i gaski weselne"
+        },
+        {
+          "name": "chleb pytlowy wolski na zakwasie"
+        },
+        {
+          "name": "chleb zytni wolski"
+        },
+        {
+          "name": "sekacz sejnenski bankuchen"
+        },
+        {
+          "name": "chleb domowy na kalmusie z punska"
+        },
+        {
+          "name": "mrowisko"
+        },
+        {
+          "name": "makowiec z ejszeryszek"
+        },
+        {
+          "name": "chleb na zakwasie z sadka"
+        },
+        {
+          "name": "sekacz z suchowoli"
+        },
+        {
+          "name": "hajnowski marcinek"
+        },
+        {
+          "name": "augustowska jagodzianka"
+        },
+        {
+          "name": "chleb zytni z pieca"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "maslo tradycyjne z filipowa"
+        },
+        {
+          "name": "maslo swojskie"
+        }
+      ],
+      "miody": [
+        {
+          "name": "lipiec bialowieski"
+        },
+        {
+          "name": "miod wielokwiat z sejnenszczyzny"
+        },
+        {
+          "name": "miod augustowski"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "pierekaczewnik"
+        },
+        {
+          "name": "kartacze"
+        },
+        {
+          "name": "kiszka ziemniaczana"
+        },
+        {
+          "name": "babka ziemniaczana"
+        },
+        {
+          "name": "kolduny litewskie"
+        },
+        {
+          "name": "cholodziec litewski chlodnik"
+        },
+        {
+          "name": "soczewiaki sejnenskie"
+        },
+        {
+          "name": "bliny po litewsku"
+        },
+        {
+          "name": "kartacze sejnenskie cepeliny"
+        },
+        {
+          "name": "pierogi wigierskie"
+        },
+        {
+          "name": "kociolek cyganski"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "sliwowica mirabelka"
+        },
+        {
+          "name": "miod kwarciany debniak"
+        },
+        {
+          "name": "podlaska samogonka zbozowa"
+        },
+        {
+          "name": "nalewka zenicha"
+        },
+        {
+          "name": "buza boza"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "nadbuzanskie grzyby marynowane"
+        },
+        {
+          "name": "nadbuzanskie grzyby suszone"
+        },
+        {
+          "name": "pisanka lipska"
+        }
+      ]
+    },
+    "pomorskie": {
+      "produkty_mleczne": [
+        {
+          "name": "miod z maslanki"
+        },
+        {
+          "name": "ser plesniowy camembert slupski chlopczyk"
+        },
+        {
+          "name": "ser topiony na parze z kminkiem"
+        },
+        {
+          "name": "twarog zulawski z marzecina"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "okrasa z gesiny obona"
+        },
+        {
+          "name": "kaczka po pomorsku"
+        },
+        {
+          "name": "udziec barani z owcy pomorskiej z czosnkiem"
+        },
+        {
+          "name": "kurczak wedzony po kociewsku"
+        },
+        {
+          "name": "potrawka z kury po kociewsku"
+        },
+        {
+          "name": "szynka w ciescie"
+        },
+        {
+          "name": "kielbasa biala surowa"
+        },
+        {
+          "name": "metka"
+        },
+        {
+          "name": "boczek wieprzowy wedzony"
+        },
+        {
+          "name": "szynka wieprzowa wedzona"
+        },
+        {
+          "name": "czarny salceson blutka"
+        },
+        {
+          "name": "watrobianka leberka"
+        },
+        {
+          "name": "kaszanka po kaszubsku"
+        },
+        {
+          "name": "kielbasa worszta"
+        },
+        {
+          "name": "wieprzowina w slojach z zulaw"
+        },
+        {
+          "name": "piersnik debogorski"
+        },
+        {
+          "name": "szynka wieprzowa gotowana peklowka gotowana"
+        },
+        {
+          "name": "wolowina szmurowana po kaszubsku"
+        },
+        {
+          "name": "kielbasa z piekla z czarna gorczyca"
+        },
+        {
+          "name": "bitki dominikanskie"
+        },
+        {
+          "name": "kaczka z jablkami z borow tucholskich"
+        },
+        {
+          "name": "pieczen boczkowa z marzecina"
+        },
+        {
+          "name": "kielbasa kaszubska jalowiecka"
+        },
+        {
+          "name": "karbonada karbonadel karmonadel"
+        },
+        {
+          "name": "szynka z kolnierzykiem"
+        },
+        {
+          "name": "kielbasa choczewska"
+        },
+        {
+          "name": "kaszubska kielbasa sloikowa"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "hylyng opiekany z cebula sledz po kaszubsku"
+        },
+        {
+          "name": "wegorz wedzony po kaszubsku"
+        },
+        {
+          "name": "sledz pomorski solony z beczki w zalewie slodko-kwasnej"
+        },
+        {
+          "name": "ikra smazona z kaszub"
+        },
+        {
+          "name": "watroba mietusa lub dorsza po kaszubsku"
+        },
+        {
+          "name": "surowy losos baltycki solony"
+        },
+        {
+          "name": "klopsiki z pomuchla dorsza po kaszubsku"
+        },
+        {
+          "name": "sledzie marynowane w oleju"
+        },
+        {
+          "name": "klopsy rybne w zalewie octowej"
+        },
+        {
+          "name": "kotlety kaszubskie"
+        },
+        {
+          "name": "sielawa wedzona morenka"
+        },
+        {
+          "name": "szczupak z jezior radunskich"
+        },
+        {
+          "name": "salatka sledziowa po kaszubsku"
+        },
+        {
+          "name": "rolmopsy ze sledzia baltyckiego w zalewie slodko kwasnej"
+        },
+        {
+          "name": "pasztet z dorsza pasztet z pomuchla"
+        },
+        {
+          "name": "sledz baltycki po rybacku"
+        },
+        {
+          "name": "ryba na kwasno"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "konfitura z zurawiny po mermecku"
+        },
+        {
+          "name": "mermecka przystawka z zurawiny do mies"
+        },
+        {
+          "name": "kociewska bania dynia po krolewsku"
+        },
+        {
+          "name": "powidla sliwkowe z doliny dolnej wisly"
+        },
+        {
+          "name": "truskawka kaszubska lub kaszebsko malena"
+        },
+        {
+          "name": "pikle kociewskie"
+        },
+        {
+          "name": "zurawina z jablkiem i chrzanem"
+        },
+        {
+          "name": "borowka z gruszka po pomorsku"
+        },
+        {
+          "name": "konfitura borowkowa z borow tucholskich"
+        },
+        {
+          "name": "czarna jagoda we wlasnym soku"
+        },
+        {
+          "name": "powislanska sliwka w occie"
+        },
+        {
+          "name": "jablko czerninskie"
+        },
+        {
+          "name": "zurawina z kaszub ucierana na surowo"
+        },
+        {
+          "name": "gruszka gdanczonka w occie"
+        },
+        {
+          "name": "galaretka porzeczkowa galaretka ze swietojonki"
+        },
+        {
+          "name": "konfitura z truskawek kaszubskich"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "mlodzowy kuch z kruszonka"
+        },
+        {
+          "name": "chleb slowinski"
+        },
+        {
+          "name": "fefernuski kociewskie"
+        },
+        {
+          "name": "grochowinki kociewskie chrusciki faworki"
+        },
+        {
+          "name": "kaszubski chleb zytni na ziemniakach"
+        },
+        {
+          "name": "kaszubski sernik z ziemniakami"
+        },
+        {
+          "name": "marcepanowe serduszka z piekla"
+        },
+        {
+          "name": "rogalik z wisniami"
+        },
+        {
+          "name": "wianek debrznenski"
+        },
+        {
+          "name": "piernik z kamionki"
+        },
+        {
+          "name": "kociewski chleb wiejski na serwatce"
+        },
+        {
+          "name": "wiejska kociewska drozdzowka kiszona"
+        },
+        {
+          "name": "ruchanki"
+        },
+        {
+          "name": "szpajza cytronszpajza deser jajeczny krem jajeczny"
+        },
+        {
+          "name": "mleko gdanskie"
+        },
+        {
+          "name": "purcle kaszubskie paczki"
+        },
+        {
+          "name": "chleb pumpernikiel"
+        },
+        {
+          "name": "kaszubski kuch marchewny"
+        },
+        {
+          "name": "kukle kaszubskie"
+        },
+        {
+          "name": "tort gdanski"
+        },
+        {
+          "name": "wafle gdanskie"
+        },
+        {
+          "name": "chleb z pirsna"
+        },
+        {
+          "name": "bombomy z dekla"
+        },
+        {
+          "name": "balabuchy marzecinskie"
+        },
+        {
+          "name": "amoniaczki ciasteczka na niedziele"
+        },
+        {
+          "name": "szneka z glanca drozdzowka z lukrem"
+        },
+        {
+          "name": "pulwerkuch deszny kuch ciasto proszkowe"
+        },
+        {
+          "name": "kaszubskie orzechy z marchwi"
+        },
+        {
+          "name": "kaszubski chleb zytni"
+        },
+        {
+          "name": "kapusniaczki zulawskie"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "olej rzepakowy tloczony na zimno"
+        },
+        {
+          "name": "maslo kociewskie"
+        },
+        {
+          "name": "smalec z gesi pomorskiej"
+        },
+        {
+          "name": "smalec ze skwarkami smolt ze szperkama"
+        },
+        {
+          "name": "szmalec kociewski ze skrzeczkami"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miod kaszubski"
+        },
+        {
+          "name": "miod pszczolkowski"
+        },
+        {
+          "name": "miod lesny z biernatki"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "kiszka kaszubska cziszka kaszebska"
+        },
+        {
+          "name": "zupa z zoltej brukwi zupa z zoltich wrekow"
+        },
+        {
+          "name": "buraczki pruskie preussische rote beete"
+        },
+        {
+          "name": "czernina kaszubska czornina"
+        },
+        {
+          "name": "mermecka galaretka z zurawiny"
+        },
+        {
+          "name": "rosol pomorski"
+        },
+        {
+          "name": "mus truskawkowy kremowe malene"
+        },
+        {
+          "name": "pulki kaszubskie"
+        },
+        {
+          "name": "plince kaszubskie"
+        },
+        {
+          "name": "szandar kociewski"
+        },
+        {
+          "name": "kaszubska zupa brzadowa"
+        },
+        {
+          "name": "kaszubska jajecznica na wegorzu praznica"
+        },
+        {
+          "name": "zylc galareta z nozek"
+        },
+        {
+          "name": "kaszubska polewka z kminkiem"
+        },
+        {
+          "name": "polewka grzybowa po kaszubsku"
+        },
+        {
+          "name": "polewka kaszubska"
+        },
+        {
+          "name": "pierog z gomolka z kociewia"
+        },
+        {
+          "name": "polewka z ryb po kaszubsku"
+        },
+        {
+          "name": "zupa kaszubska"
+        },
+        {
+          "name": "szadolce i kulanki kaszubskie"
+        },
+        {
+          "name": "kaszubskie kluski ziemniaczane"
+        },
+        {
+          "name": "pierogi z kasza gryczana"
+        },
+        {
+          "name": "kociewska polewka owocowo grzybowa"
+        },
+        {
+          "name": "pyzy borowiackie"
+        },
+        {
+          "name": "kociewska zapiekanka z grzybow"
+        },
+        {
+          "name": "kociewskie kluski ziemniaczane"
+        },
+        {
+          "name": "kaszubskie kluski ziemniaczane lyzka kladzione"
+        },
+        {
+          "name": "golce nadzy klosczy kluski ziemniaczane"
+        },
+        {
+          "name": "drobne miaso drobne mieso potrawka z podrobow"
+        },
+        {
+          "name": "pomorskie borowiki suszone w smietanie"
+        },
+        {
+          "name": "sztuka miesa z gdanska w ciescie francuzkiem"
+        },
+        {
+          "name": "borowiacka polewka z maslanki"
+        },
+        {
+          "name": "zuchel blacharz sztydrych kartoflak"
+        },
+        {
+          "name": "zupa zagraj dziadowska zupa"
+        },
+        {
+          "name": "stupka sos sledziowy na zaklepce"
+        },
+        {
+          "name": "kociewski salceson z grzybow"
+        },
+        {
+          "name": "szmorowono kapustaszmurowana kapustaduszona kapusta na wedzonce"
+        },
+        {
+          "name": "golabki z peczaku z grzybami"
+        },
+        {
+          "name": "szarpak szarpaki kapusniak borowiacki"
+        },
+        {
+          "name": "ges pomorska pieczona"
+        },
+        {
+          "name": "sos zimny zulawski"
+        },
+        {
+          "name": "zupa z pasternaka"
+        },
+        {
+          "name": "parzybroda kapusniak ze swiezej kapusty po borowiacku"
+        },
+        {
+          "name": "zacierka z matewkizacierka z kozielka"
+        },
+        {
+          "name": "kociewska zupa szczawiowa"
+        },
+        {
+          "name": "psiocha z dolnego powisla"
+        },
+        {
+          "name": "zur z kaszub"
+        },
+        {
+          "name": "golonka po pomorsku"
+        },
+        {
+          "name": "golce kociewskie z miesem"
+        },
+        {
+          "name": "zupa z zielonych gasek z borow tucholskich"
+        },
+        {
+          "name": "pierogi debnickie z jagniecymi podrobami"
+        },
+        {
+          "name": "gryz kociewski deser"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "nalewka onisiowka"
+        },
+        {
+          "name": "zurawinowka po mermecku"
+        },
+        {
+          "name": "sok z zurawiny po mermecku"
+        },
+        {
+          "name": "syrop z zurawiny po mermecku"
+        },
+        {
+          "name": "lecznicza nalewka jarzebinowa jarzebiak"
+        },
+        {
+          "name": "jagodzica po kociewsku"
+        },
+        {
+          "name": "kociewska herbata z lipy i bzu czarnego z miodem lipowym"
+        },
+        {
+          "name": "sok z kwiatu czarnego bzu"
+        },
+        {
+          "name": "kaszubski miod pitny"
+        },
+        {
+          "name": "nebrowianka nalewka sliwkowa"
+        },
+        {
+          "name": "wodka gdanska"
+        },
+        {
+          "name": "kaszubska nalewka bursztynowa"
+        },
+        {
+          "name": "nalewka jagodowa"
+        },
+        {
+          "name": "choczewskie wino z rozy"
+        },
+        {
+          "name": "brejka kawa po kaszubsku"
+        },
+        {
+          "name": "piwo pomorskie"
+        },
+        {
+          "name": "nalewka malinowka z malin lesnych ze wzgorz szymbarskich"
+        },
+        {
+          "name": "nalewka ze swietojonki czerwonej porzeczki"
+        },
+        {
+          "name": "nalewka na miodzie lipowym"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "syrop z mniszka lekarskiego"
+        },
+        {
+          "name": "kociewski borowik szlachetny w zalewie octowej"
+        },
+        {
+          "name": "prawdziwki suszone z borow tucholskich"
+        },
+        {
+          "name": "ocet z powislanskiej sliwki"
+        },
+        {
+          "name": "syrop z pedow sosny"
+        }
+      ]
+    },
+    "slaskie": {
+      "produkty_mleczne": [
+        {
+          "name": "ser klagany"
+        },
+        {
+          "name": "ser woloski wedzony"
+        },
+        {
+          "name": "oscypek oszczypek"
+        },
+        {
+          "name": "bryndza zywiecka"
+        },
+        {
+          "name": "bundz grudka"
+        },
+        {
+          "name": "zetyca"
+        },
+        {
+          "name": "bryndza woloska wedzona"
+        },
+        {
+          "name": "ser domowy zalezok"
+        },
+        {
+          "name": "ser gazdowski golka"
+        },
+        {
+          "name": "redykolka"
+        },
+        {
+          "name": "slaska kiszka"
+        },
+        {
+          "name": "twarog krzepicki"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "krupniok slaski"
+        },
+        {
+          "name": "zymlok slaski zemlok zemlouk bulczanka"
+        },
+        {
+          "name": "siewierska ges pieczona"
+        },
+        {
+          "name": "siewierska kaczka pieczona"
+        },
+        {
+          "name": "zoladki z gesi po siewiersku"
+        },
+        {
+          "name": "nec necowka poledwica w otrzewnej"
+        },
+        {
+          "name": "szynka wieprzowa parzona porebska"
+        },
+        {
+          "name": "jagniecina beskidzka"
+        },
+        {
+          "name": "kaszanka pieczona szczekocinska"
+        },
+        {
+          "name": "cieszynska kita wedzona"
+        },
+        {
+          "name": "szczekocinska kielbasa siekana na slomie pieczona"
+        },
+        {
+          "name": "beskidzkie szpyrki wyrzoski"
+        },
+        {
+          "name": "kielbasa porebska"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "zlotopotocki pstrag z rusztu"
+        },
+        {
+          "name": "zlotopotocki karp smazony"
+        },
+        {
+          "name": "karp golyski"
+        },
+        {
+          "name": "bestwinski karp krolewski"
+        },
+        {
+          "name": "pstrag gorski"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "bob bober"
+        },
+        {
+          "name": "borowka brusznica siewierska"
+        },
+        {
+          "name": "slaskie pieczki"
+        },
+        {
+          "name": "dynia w winie po cieszynsku"
+        },
+        {
+          "name": "cieszynskie pieczoki"
+        },
+        {
+          "name": "cieszynska dynia"
+        },
+        {
+          "name": "marmelada z dyni po cieszynsku"
+        },
+        {
+          "name": "kwaki brukiew karpiel z podbeskidzia"
+        },
+        {
+          "name": "jablka zniwowki"
+        },
+        {
+          "name": "sliwka zniwka lipowska"
+        },
+        {
+          "name": "kompot ze sliwki zniwki"
+        },
+        {
+          "name": "powidla ze sliwki zniwki"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "zozworki imbirki"
+        },
+        {
+          "name": "chleb herbski"
+        },
+        {
+          "name": "ciastka ze szpyrek"
+        },
+        {
+          "name": "murzin wielkanocny"
+        },
+        {
+          "name": "buchciki buchciczki"
+        },
+        {
+          "name": "kolocz weselny cieszynski"
+        },
+        {
+          "name": "krepliki kreple"
+        },
+        {
+          "name": "kolocz weselny slaski"
+        },
+        {
+          "name": "szpajza cytrynowa krem cytrynowy"
+        },
+        {
+          "name": "koszyki koszyczki"
+        },
+        {
+          "name": "dolki racuchy drozdzowe"
+        },
+        {
+          "name": "drobne ciasteczka cieszynskie"
+        },
+        {
+          "name": "slaski piernik tradycyjny"
+        },
+        {
+          "name": "chleb zwykly slawkowski"
+        },
+        {
+          "name": "brutfaniok krupiczniok"
+        },
+        {
+          "name": "chleb cebulowy z tarnowskich gor"
+        },
+        {
+          "name": "zareckie obwarzanki odpustowe"
+        },
+        {
+          "name": "chleb tatarczuch"
+        },
+        {
+          "name": "cieszynski szodon z wina"
+        },
+        {
+          "name": "strudel jablkowy z podbeskidzia"
+        },
+        {
+          "name": "pierniki zywieckie"
+        },
+        {
+          "name": "chleb jurajski mieszany jasny"
+        },
+        {
+          "name": "cieszynskie herbatniki ze skwarkow"
+        },
+        {
+          "name": "slaskie oblaty"
+        },
+        {
+          "name": "cieszynskie ciasto do zapiekania kielbas"
+        },
+        {
+          "name": "slaskie kolaczyki wykwintne"
+        },
+        {
+          "name": "chleb klobucki mieszany"
+        },
+        {
+          "name": "slaski chrustekchrustfaworki"
+        },
+        {
+          "name": "cieszynski chlebiczek owocowy wielkanocny"
+        },
+        {
+          "name": "kopa ornontowicka"
+        },
+        {
+          "name": "szplitry i szpliterki z radzionkowa"
+        },
+        {
+          "name": "kluski z miodem"
+        },
+        {
+          "name": "kolocz kolacz miedzyrzecki"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "smalec gesi z siewierza"
+        },
+        {
+          "name": "maslo krzepickie"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miod z nektaru kwiatow jurajskich"
+        },
+        {
+          "name": "miod rzepakowy ziemi cieszynskiej"
+        },
+        {
+          "name": "miod lipowo-spadziowy ziemi cieszynskiej"
+        },
+        {
+          "name": "miody z ziemi zywieckiej"
+        },
+        {
+          "name": "miody z gminy porabka"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "ciulim lelowski"
+        },
+        {
+          "name": "porebskie prazonki"
+        },
+        {
+          "name": "garus garusek kwasne"
+        },
+        {
+          "name": "siemieniatka siemieniotka konopiotka"
+        },
+        {
+          "name": "placki z blachy ze szpyrkami lub z wyrzoskami"
+        },
+        {
+          "name": "polesniki polizniki"
+        },
+        {
+          "name": "bachor"
+        },
+        {
+          "name": "szalot slaski salatka sledziowa"
+        },
+        {
+          "name": "kluski biale slaskie"
+        },
+        {
+          "name": "zur slaski"
+        },
+        {
+          "name": "zebroczka"
+        },
+        {
+          "name": "zacierka zaglebiowska"
+        },
+        {
+          "name": "makowki makielki"
+        },
+        {
+          "name": "prazuchy"
+        },
+        {
+          "name": "kwasnica"
+        },
+        {
+          "name": "moczka bryja"
+        },
+        {
+          "name": "modro kapusta salatka z czerwonej kapusty"
+        },
+        {
+          "name": "rolada wolowa slaska"
+        },
+        {
+          "name": "zur z tluczonymi kartoflami ziemniakami"
+        },
+        {
+          "name": "kubus kubusz"
+        },
+        {
+          "name": "wodzionka wodzianka"
+        },
+        {
+          "name": "polewka na maslance z ziemniakami"
+        },
+        {
+          "name": "czernina czarnina szwarc"
+        },
+        {
+          "name": "kapusta z grochem po czestochowsku"
+        },
+        {
+          "name": "slaska parzybroda parzy broda"
+        },
+        {
+          "name": "watrobki gesie po siewiersku"
+        },
+        {
+          "name": "zurek siewierski"
+        },
+        {
+          "name": "hekele hekerle gornoslaskie"
+        },
+        {
+          "name": "babraczka cieszynska"
+        },
+        {
+          "name": "schab sztygarski"
+        },
+        {
+          "name": "karminadle karbinadle kardinadle"
+        },
+        {
+          "name": "wajecznica smazylnica czyli jajecznica po cieszynsku"
+        },
+        {
+          "name": "cieszynska kiszona kapusta z zaprazka"
+        },
+        {
+          "name": "jaskolcze gniazda"
+        },
+        {
+          "name": "rosol z nudlami rosol z makaronem"
+        },
+        {
+          "name": "bigos slaski"
+        },
+        {
+          "name": "jurajski zur na grzybach"
+        },
+        {
+          "name": "flaki po cieszynsku pajszle"
+        },
+        {
+          "name": "cieszynska fasola fazola becok na sypko"
+        },
+        {
+          "name": "rosol z golebi golabki w rosole po slasku"
+        },
+        {
+          "name": "cieszynskie sosy moczki krzonowy grzybowy cebulowy"
+        },
+        {
+          "name": "garnuszek gorniczy"
+        },
+        {
+          "name": "grochowka po czestochowsku"
+        },
+        {
+          "name": "ciapkapusta"
+        },
+        {
+          "name": "chuda jewa"
+        },
+        {
+          "name": "galuszki kluski po cieszynsku"
+        },
+        {
+          "name": "schab w kapuscie po beskidzku"
+        },
+        {
+          "name": "golonko po beskidzku"
+        },
+        {
+          "name": "beskidzkie jelita"
+        },
+        {
+          "name": "kluchy polom bite"
+        },
+        {
+          "name": "kluski z tarcinami"
+        },
+        {
+          "name": "gruszki z miesem"
+        },
+        {
+          "name": "krolik po slasku"
+        },
+        {
+          "name": "jajecznica po wilamowsku szusterpop molfonkuch"
+        },
+        {
+          "name": "zupa ziemniaczana ziemnioczonka po meszniansku"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "warzonka"
+        },
+        {
+          "name": "miodula miodunka miodonka"
+        },
+        {
+          "name": "tatarczowka"
+        },
+        {
+          "name": "cieszynska herbata z zielin"
+        },
+        {
+          "name": "cieszynska herbata przeciw kaszlowi"
+        },
+        {
+          "name": "napoj z kwiatow czarnego bzu"
+        },
+        {
+          "name": "piwo raciborskie"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "makaron z rudnik"
+        }
+      ]
+    },
+    "swietokrzyskie": {
+      "produkty_mleczne": [
+        {
+          "name": "jedrzejowski twarozek smietankowy"
+        },
+        {
+          "name": "ser kozi z machor"
+        },
+        {
+          "name": "twarog poltlusty z pierzchnicy"
+        },
+        {
+          "name": "zagajnicki koziarz"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "dzionie rakowskie"
+        },
+        {
+          "name": "salceson kurozwecki"
+        },
+        {
+          "name": "kielbasa swojska wachocka hycowana"
+        },
+        {
+          "name": "salceson ozorkowy wiejski"
+        },
+        {
+          "name": "chmielnicka ges pieczona"
+        },
+        {
+          "name": "szynka sznurowana wachocka"
+        },
+        {
+          "name": "poledwica tradycyjna z wachocka"
+        },
+        {
+          "name": "kielbasa biala parzona z wachocka"
+        },
+        {
+          "name": "kielbasa losienska"
+        },
+        {
+          "name": "poledwiczki swiateczne prokopa"
+        },
+        {
+          "name": "salceson cwaniak z osienia"
+        },
+        {
+          "name": "kielbasa radoszycka"
+        },
+        {
+          "name": "kielbasa swojska z kunowa"
+        },
+        {
+          "name": "udziec dworski z kunowa"
+        },
+        {
+          "name": "pasztetowa radoszycka"
+        },
+        {
+          "name": "kaszanka szarbianka"
+        },
+        {
+          "name": "kielbasa z pacanowa"
+        },
+        {
+          "name": "szynka z broniny"
+        },
+        {
+          "name": "salceson beczkowski"
+        },
+        {
+          "name": "daleszycka szynka z beczki"
+        },
+        {
+          "name": "wiejska szynka z okola"
+        },
+        {
+          "name": "kielbasnica kazimierska"
+        },
+        {
+          "name": "malyszynska kielbasa z dzika"
+        },
+        {
+          "name": "salceson z okola"
+        },
+        {
+          "name": "kielbasa swojska opatowska"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "karp z rudy malenieckiej"
+        },
+        {
+          "name": "karp malyszynski"
+        },
+        {
+          "name": "karp z oksy"
+        },
+        {
+          "name": "rytwianski karp"
+        },
+        {
+          "name": "karp z wojczy"
+        },
+        {
+          "name": "rytwianski karp w galarecie"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "wisnia sokowa nadwislanka"
+        },
+        {
+          "name": "ser jableczny"
+        },
+        {
+          "name": "konfitury z jarzebiny"
+        },
+        {
+          "name": "kasza jaglana gierczycka"
+        },
+        {
+          "name": "fasola korczynska"
+        },
+        {
+          "name": "truskawka buska faworytka"
+        },
+        {
+          "name": "czerkieska maka orkiszowa"
+        },
+        {
+          "name": "truskawka bielinska"
+        },
+        {
+          "name": "susz owocowy debniacki"
+        },
+        {
+          "name": "jablka sandomierskie"
+        },
+        {
+          "name": "suszona damacha z ponidzia"
+        },
+        {
+          "name": "skalbmierskie ogorki kiszone"
+        },
+        {
+          "name": "czosnek wojczanski"
+        },
+        {
+          "name": "kasza gryczana palona z antoniowa"
+        },
+        {
+          "name": "chrzan swietokrzyski"
+        },
+        {
+          "name": "morela sandomierska zaleszczycka"
+        },
+        {
+          "name": "konfitura z zielonych orzechow"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "chleb bodzentynski"
+        },
+        {
+          "name": "placek spod kamienia"
+        },
+        {
+          "name": "chleb wiejski konecki"
+        },
+        {
+          "name": "piernik z zytniej maki"
+        },
+        {
+          "name": "wolecka chalka pleciona"
+        },
+        {
+          "name": "gryska z blizyna"
+        },
+        {
+          "name": "krowka opatowska"
+        },
+        {
+          "name": "chleb iwanski"
+        },
+        {
+          "name": "szczodroki"
+        },
+        {
+          "name": "burocorz bogoryjski"
+        },
+        {
+          "name": "paczek opatowski"
+        },
+        {
+          "name": "chleb wachocki"
+        },
+        {
+          "name": "chleb zytni kielecki"
+        },
+        {
+          "name": "chleb mieszany koprzywnicki"
+        },
+        {
+          "name": "chleb skarbczak"
+        },
+        {
+          "name": "chleb na maslance z lipnika"
+        },
+        {
+          "name": "tort czekoladowo orzechowy z rzuchowa"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "pinczowski olej z lnicy"
+        },
+        {
+          "name": "sandomierski olej rzepakowy"
+        },
+        {
+          "name": "maslo jedrzejowskie"
+        },
+        {
+          "name": "maslo chmielnickie"
+        }
+      ],
+      "miody": [
+        {
+          "name": "falkowski miod wielokwiatowy"
+        },
+        {
+          "name": "swietokrzyski miod spadziowy"
+        },
+        {
+          "name": "miod krolewski z osieka"
+        },
+        {
+          "name": "miod spadziowy z puszczy jodlowej"
+        },
+        {
+          "name": "miod nektarowo spadziowy napekowski"
+        },
+        {
+          "name": "miod akacjowy z azka"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "zalewajka swietokrzyska"
+        },
+        {
+          "name": "prazoki"
+        },
+        {
+          "name": "kugiel z czermna"
+        },
+        {
+          "name": "slupianski siekaniec dworski"
+        },
+        {
+          "name": "fitka kazimierska"
+        },
+        {
+          "name": "rakowski ziemniak pieczony"
+        },
+        {
+          "name": "zabieckie galy"
+        },
+        {
+          "name": "jacentowski barszcz z kapusta"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "kwas burakowy po wzdolsku"
+        },
+        {
+          "name": "sok z czarnej jagody z lipowskich lasow"
+        },
+        {
+          "name": "opatkowickie wino chlebowe"
+        },
+        {
+          "name": "kamcia moskorzewska nalewka mietowa"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "farsz z kaszy gryczanej"
+        }
+      ]
+    },
+    "warminsko-mazurskie": {
+      "produkty_mleczne": [
+        {
+          "name": "ser salami mazurski"
+        },
+        {
+          "name": "ser welski"
+        },
+        {
+          "name": "mleko zsiadle"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "mazurska szynka wedzona"
+        },
+        {
+          "name": "mazurska kielbasa wedzona"
+        },
+        {
+          "name": "mazurski boczek wedzony"
+        },
+        {
+          "name": "mazurska poledwica wedzona"
+        },
+        {
+          "name": "mazurska slonina wedzona"
+        },
+        {
+          "name": "mazurska karkowka wedzona"
+        },
+        {
+          "name": "poledwica wedzona z mazurskiej masarni"
+        },
+        {
+          "name": "baleron wedzony z mazurskiej masarni"
+        },
+        {
+          "name": "boczek wedzony z mazurskiej masarni"
+        },
+        {
+          "name": "kielbasa jalowcowa z mazurskiej masarni"
+        },
+        {
+          "name": "kielbasa wiejska pieczona z mazurskiej masarni"
+        },
+        {
+          "name": "szynka z mazurskiej masarni"
+        },
+        {
+          "name": "szynka dylewska dojrzewajaca"
+        },
+        {
+          "name": "warminska szynka wolowa wedzona"
+        },
+        {
+          "name": "kielbasa polska wedzona z mazur"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "kawior ze szczupaka"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "syrop buraczany"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "sekacz mazurski"
+        },
+        {
+          "name": "brukowiec mazurski"
+        },
+        {
+          "name": "fefernuszki"
+        },
+        {
+          "name": "gofry pruskie"
+        },
+        {
+          "name": "olsztyneckie jagodzianki"
+        }
+      ],
+      "oleje_i_tluszcze": [],
+      "miody": [
+        {
+          "name": "miod mazur garbatych"
+        },
+        {
+          "name": "miod lipowy z barcji"
+        },
+        {
+          "name": "miod wielokwiatowy z barcji"
+        },
+        {
+          "name": "miody ziemi oleckiej"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [],
+      "napoje": [
+        {
+          "name": "niedzwiedziowka mazurska nalewka"
+        },
+        {
+          "name": "okowita miodowa warminska"
+        }
+      ],
+      "inne_produkty": []
+    },
+    "wielkopolskie": {
+      "produkty_mleczne": [
+        {
+          "name": "wielkopolski ser smazony"
+        },
+        {
+          "name": "serek twarogowy kozi witoldzinski"
+        },
+        {
+          "name": "gzik wielkopolski"
+        },
+        {
+          "name": "ser liliput wielkopolski"
+        },
+        {
+          "name": "serek smietankowy wielkopolski"
+        },
+        {
+          "name": "twarog tradycyjny"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "kielbasa jalowcowa rokietnicka"
+        },
+        {
+          "name": "wielkopolska wieprzowina zlotnicka"
+        },
+        {
+          "name": "wedzonka ostrzeszowska"
+        },
+        {
+          "name": "udziec wieprzowy ostrzeszowski"
+        },
+        {
+          "name": "kielbasa wiejska ostrzeszowska"
+        },
+        {
+          "name": "kielbasa nowotomyska"
+        },
+        {
+          "name": "polgeski wedzone"
+        },
+        {
+          "name": "kielbasa wiejska kruszewska"
+        },
+        {
+          "name": "salceson wiejski kruszewski"
+        },
+        {
+          "name": "watrobianka wiejska kruszewska"
+        },
+        {
+          "name": "udziec pieczony ze swini zlotnickiej bialej"
+        },
+        {
+          "name": "jagniecina z owcy rasy wielkopolskiej"
+        },
+        {
+          "name": "wedzonka krotoszynska"
+        },
+        {
+          "name": "kielbasa biala parzona wielkopolska"
+        },
+        {
+          "name": "kielbasa polska wedzona"
+        },
+        {
+          "name": "szynka tylna gotowana sznurowana"
+        },
+        {
+          "name": "kielbaski rawickie"
+        },
+        {
+          "name": "leberka wielkopolska"
+        },
+        {
+          "name": "bulczanka grodziska"
+        },
+        {
+          "name": "kaszanka rychtalska"
+        },
+        {
+          "name": "salceson ozorowy grodziski"
+        },
+        {
+          "name": "pasztetowa grodziska"
+        },
+        {
+          "name": "kielbasa grodziska"
+        },
+        {
+          "name": "salceson bialy z wielkopolski"
+        },
+        {
+          "name": "salceson czarny z wielkopolski"
+        },
+        {
+          "name": "kielbasa swojska nadnotecka"
+        },
+        {
+          "name": "wielkopolska pieczen z dzika"
+        },
+        {
+          "name": "szynka wielkopolska dojrzewajaca wedzona"
+        },
+        {
+          "name": "szynka staropolska"
+        },
+        {
+          "name": "poledwica staropolska"
+        },
+        {
+          "name": "szynka swojska wedzona"
+        },
+        {
+          "name": "szynka olchowa wielkopolska"
+        },
+        {
+          "name": "kielbasa chlopska suszona"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "sielawa wedzona z jeziora powidzkiego"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "ogorek kiszony osiecki"
+        },
+        {
+          "name": "susz wigilijny wielkopolski"
+        },
+        {
+          "name": "marynata z korbola"
+        },
+        {
+          "name": "szabel w zalewie"
+        },
+        {
+          "name": "wielkopolskie kompoty"
+        },
+        {
+          "name": "szparag kiszony pakoslawski"
+        },
+        {
+          "name": "wielkopolski dzem z wisni sokowki"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "andruty kaliskie"
+        },
+        {
+          "name": "chleb zytni wielkopolski"
+        },
+        {
+          "name": "poznanski pumpernikel adama"
+        },
+        {
+          "name": "chleb z komorowa"
+        },
+        {
+          "name": "chleb cyganski"
+        },
+        {
+          "name": "piernik z krzywinia figurka sw mikolaja"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "olej rydzowy"
+        },
+        {
+          "name": "maslo wielkopolskie"
+        },
+        {
+          "name": "olej rzepakowy wielkopolski"
+        },
+        {
+          "name": "olej z pestek dyni wielkopolski"
+        },
+        {
+          "name": "wielkopolski olej lniany tloczony na zimno"
+        },
+        {
+          "name": "maslo ze strzalkowa"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miod witoslawski"
+        },
+        {
+          "name": "miody z kopaszewa"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "pierogi z wargowa"
+        },
+        {
+          "name": "szare kluski"
+        },
+        {
+          "name": "kaczka pieczona po wielkopolsku"
+        },
+        {
+          "name": "golonka po wielkopolsku"
+        },
+        {
+          "name": "czernina czarnina czarna zalewajka"
+        },
+        {
+          "name": "zrazy zawijane po wielkopolsku"
+        },
+        {
+          "name": "ges owsiana ostrzeszowska"
+        },
+        {
+          "name": "galart zimne nozki studzienina"
+        },
+        {
+          "name": "zur na kielbasie"
+        },
+        {
+          "name": "parzybroda"
+        },
+        {
+          "name": "bigos wielkopolski"
+        },
+        {
+          "name": "slepe ryby"
+        },
+        {
+          "name": "plyndze plendze plindze placki kartoflane"
+        },
+        {
+          "name": "wielkopolski rosol z kury"
+        },
+        {
+          "name": "barszcz czerwony czysty na wywarze grzybowym"
+        },
+        {
+          "name": "rumpuc ajntopf"
+        },
+        {
+          "name": "pieczen z jeleniowatych w warzywach po wielkopolsku"
+        },
+        {
+          "name": "karp smazony z sosem szarym"
+        },
+        {
+          "name": "bambrzok bambrzak"
+        },
+        {
+          "name": "szlachetna poleweczka z ziemi turkowskiej"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "miodowka witoslawska"
+        },
+        {
+          "name": "piwo noteckie"
+        },
+        {
+          "name": "domowe soki tloczone na zimno ze swiezych owocow ziemi kaliskiej"
+        },
+        {
+          "name": "wino z czarnej porzeczki black currant wine"
+        },
+        {
+          "name": "piwo czarne"
+        },
+        {
+          "name": "wielkopolskie jablkowe soki tloczone na zimno z dodatkami innych owocow"
+        },
+        {
+          "name": "napoj z hycki hyczki kwiatu czarnego bzu"
+        },
+        {
+          "name": "benedyktynka"
+        },
+        {
+          "name": "wielkopolska nalewka z wisni sokowki"
+        },
+        {
+          "name": "piwo z bojanowa"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "borowik wielkopolski"
+        },
+        {
+          "name": "wielkopolskie grzyby solone"
+        }
+      ]
+    },
+    "zachodniopomorskie": {
+      "produkty_mleczne": [
+        {
+          "name": "ser baltycki"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "name": "pasztet z gesi"
+        },
+        {
+          "name": "szynka swidwinska"
+        },
+        {
+          "name": "kielbasa krucha domowa"
+        },
+        {
+          "name": "wedzony udziec wieprzowy z przelewic"
+        }
+      ],
+      "produkty_rybolostwa": [
+        {
+          "name": "paprykarz szczecinski"
+        },
+        {
+          "name": "sielawa wedzona z pojezierza drawskiego"
+        },
+        {
+          "name": "sieja miedwienska sieja miedwianska"
+        },
+        {
+          "name": "miedwienskie miedwianskie ryby wedzone"
+        },
+        {
+          "name": "sledzie po szczecinsku"
+        },
+        {
+          "name": "sledzik kolobrzeski"
+        }
+      ],
+      "warzywa_i_owoce": [
+        {
+          "name": "ogorek kolobrzeski"
+        },
+        {
+          "name": "kapusta kiszona z beczki"
+        },
+        {
+          "name": "jeziorowy ogorek kiszony"
+        },
+        {
+          "name": "konfitura szczecinska z owocow rozy"
+        },
+        {
+          "name": "konfitura szczecinska z zielonych pomidorow"
+        },
+        {
+          "name": "ziemniak wyszoborski"
+        }
+      ],
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "chleb razowy koprzywienski"
+        },
+        {
+          "name": "pierniki szczecinskie"
+        },
+        {
+          "name": "chleb wiejski wojenny"
+        },
+        {
+          "name": "chleb gwdowski"
+        },
+        {
+          "name": "choszczenska strucla z makiem"
+        },
+        {
+          "name": "chleb szczecinski"
+        },
+        {
+          "name": "krowka szczecinecka"
+        },
+        {
+          "name": "paszteciki gwdowskie"
+        },
+        {
+          "name": "jabluszka w koszulkach"
+        },
+        {
+          "name": "serca kaziukowe kaziukowe serducha"
+        }
+      ],
+      "oleje_i_tluszcze": [
+        {
+          "name": "maslo ostrowieckie"
+        }
+      ],
+      "miody": [
+        {
+          "name": "miod drahimski"
+        },
+        {
+          "name": "miody przelewickie"
+        },
+        {
+          "name": "miody waleckie"
+        },
+        {
+          "name": "akacjowy miod cedynski"
+        },
+        {
+          "name": "miody z lasu swietej marii"
+        },
+        {
+          "name": "miody puszczy barlinieckiej"
+        },
+        {
+          "name": "miody pojezierza choszczenskiego"
+        },
+        {
+          "name": "miody debickie"
+        },
+        {
+          "name": "miody rusinowskie"
+        }
+      ],
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "pasztecik szczecinski"
+        },
+        {
+          "name": "kiszka szwedzka"
+        },
+        {
+          "name": "holubcie bielkowskie"
+        },
+        {
+          "name": "belczanskie zupy piwne"
+        }
+      ],
+      "napoje": [
+        {
+          "name": "nalewka ze sliwek z debiny"
+        },
+        {
+          "name": "wino ze sliwek"
+        },
+        {
+          "name": "miod pitny trojniak"
+        },
+        {
+          "name": "trojniak wolinski lesny"
+        },
+        {
+          "name": "lipianskie piwo zaczynaj"
+        },
+        {
+          "name": "miod pitny trojniak cedynski"
+        }
+      ],
+      "inne_produkty": [
+        {
+          "name": "kiszka szwedzka"
+        }
+      ]
+    }
+  }
+}

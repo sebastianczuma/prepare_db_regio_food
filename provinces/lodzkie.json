@@ -1,0 +1,583 @@
+{
+  "lodzkie": [
+    {
+      "produkty_mleczne": [
+        {
+          "name": "Kozi ser z Eufeminowa",
+          "date": "25.03.2009 r."
+        },
+        {
+          "name": "Twaróg tradycyjny",
+          "date": "15.02.2010 r."
+        },
+        {
+          "name": "Sery kozie z Drużbina",
+          "date": "03.11.2011 r."
+        },
+        {
+          "name": "Ser twarogowy z siary",
+          "date": "01.02.2017 r."
+        },
+        {
+          "name": "Ser twarogowy szczercowski ",
+          "date": "17.03.2017 r."
+        }
+      ]
+    },
+    {
+      "produkty_miesne": [
+        {
+          "name": "Jagnięcina ze świniarki",
+          "date": "01.02.2008 r."
+        },
+        {
+          "name": "Gęś owsiana z Bogusławic",
+          "date": "19.02.2008 r."
+        },
+        {
+          "name": "Kiełbasa nadolska tradycyjnie wędzona",
+          "date": "26.01.2009 r."
+        },
+        {
+          "name": "Pasztetowa z Nadolnej w pętkach",
+          "date": "26.01.2009 r."
+        },
+        {
+          "name": "Jordanowska kiełbasa jałowcowa",
+          "date": "25.03.2009 r."
+        },
+        {
+          "name": "Nadolski boczek tradycyjnie wędzony",
+          "date": "28.05.2009 r."
+        },
+        {
+          "name": "Wędzone kiełbasy jordanowskie",
+          "date": "15.06.2009 r."
+        },
+        {
+          "name": "Wędzonki szadkowskie",
+          "date": "21.09.2010 r."
+        },
+        {
+          "name": "Szynka wieluńska z lagi",
+          "date": "14.04.2011 r."
+        },
+        {
+          "name": "Szynka cygańska zwana niedźwiedzią z Zaborowa",
+          "date": "02.06.2011 r."
+        },
+        {
+          "name": "Kiełbasa chłopska",
+          "date": "02.06.2011 r."
+        },
+        {
+          "name": "Kiełbasa bilska",
+          "date": "14.05.2013 r."
+        },
+        {
+          "name": "Kaszanka",
+          "date": "27.06.2013 r."
+        },
+        {
+          "name": "Kiełbasa swojska z Białej Góry",
+          "date": "27.06.2013 r."
+        },
+        {
+          "name": "Karczek pieczony z Białej Góry",
+          "date": "27.06.2013 r."
+        },
+        {
+          "name": "Boczek wędzony z Zaborowa",
+          "date": "21.11.2014 r."
+        },
+        {
+          "name": "Boczek wędzony łuskany z Szadku",
+          "date": "21.11.2014 r."
+        },
+        {
+          "name": "Słonina wędzona z Szadku",
+          "date": "21.11.2014 r."
+        },
+        {
+          "name": "Kiełbasy szadkowskie wędzone podsuszane",
+          "date": "27.11.2014 r."
+        },
+        {
+          "name": "Pachwina wędzona z Szadku",
+          "date": "27.11.2014 r."
+        },
+        {
+          "name": "Kiełbasa sołtysa z Bilskiej Woli",
+          "date": "27.11.2014 r."
+        },
+        {
+          "name": "Boczek wędzony z Bilskiej Woli ",
+          "date": "27.11.2014 r."
+        },
+        {
+          "name": "Szynka domowa z Bilskiej Woli",
+          "date": "09.12.2014 r."
+        },
+        {
+          "name": "Salceson gospodarza",
+          "date": "19.01.2016 r."
+        },
+        {
+          "name": "Wędzonka z beczki",
+          "date": "19.01.2016 r."
+        },
+        {
+          "name": "Kaszanka cienka",
+          "date": "19.01.2016 r."
+        },
+        {
+          "name": "Kiełbasa felinowska",
+          "date": "19.01.2016 r."
+        },
+        {
+          "name": "Baleron wędzony z Zaborowa",
+          "date": "01.12.2016 r."
+        },
+        {
+          "name": "Kiełbasa z Księżych Młynów",
+          "date": "08.05.2017 r."
+        },
+        {
+          "name": "Pasztety z Głowna",
+          "date": "27.09.2017 r."
+        }
+      ]
+    },
+    {
+      "produkty_rybolostwa": [
+        {
+          "name": "Karp z Grabi",
+          "date": "01.04.2016 r."
+        },
+        {
+          "name": "Ryby wędzone tradycyjnie z Woli Moszczenickiej",
+          "date": "21.12.2016 r."
+        }
+      ]
+    },
+    {
+      "warzywa_i_owoce": [
+        {
+          "name": "Chrzan znad Środkowej Warty, w laskach",
+          "date": "12.02.2007 r."
+        },
+        {
+          "name": "Powidła śliwkowe łowickie",
+          "date": "28.08.2007 r."
+        },
+        {
+          "name": "Ogórki kwaszone po łowicku",
+          "date": "28.08.2007 r."
+        },
+        {
+          "name": "Ogórki konserwowe po łowicku",
+          "date": "28.08.2007 r."
+        },
+        {
+          "name": "Ćwikła z chrzanem po łowicku",
+          "date": "21.12.2007 r."
+        },
+        {
+          "name": "Ogórek kwaszony spod Wielunia",
+          "date": "22.02.2008 r."
+        },
+        {
+          "name": "Chrzan nadwarciański po staropolsku",
+          "date": "22.02.2008 r."
+        },
+        {
+          "name": "Kompot wiśniowy po łowicku",
+          "date": "27.03.2008 r."
+        },
+        {
+          "name": "Szczaw konserwowy po łowicku",
+          "date": "27.03.2008 r."
+        },
+        {
+          "name": "Przecier ogórkowy po łowicku",
+          "date": "27.03.2008 r."
+        },
+        {
+          "name": "Nagawskie jabłka pieczone z sokiem",
+          "date": "07.10.2008 r."
+        },
+        {
+          "name": "Kapusta kiszona w całych głowach",
+          "date": "27.07.2012 r."
+        },
+        {
+          "name": "Pikantna konfitura z dzikiego wina",
+          "date": "27.11.2014 r."
+        },
+        {
+          "name": "Powidła z papierówek z Kobylnik",
+          "date": "25.09.2015 r."
+        },
+        {
+          "name": "Ogórki kiszone z Rogowa",
+          "date": "09.03.2016 r."
+        },
+        {
+          "name": "Konfitura agrestowa z Osse",
+          "date": "01.04.2016 r."
+        },
+        {
+          "name": "Konfitura z żurawiny z Osse",
+          "date": "21.12.2016 r."
+        },
+        {
+          "name": "Powidła śliwkowe z Kałęczowa",
+          "date": "10.07.2017 r."
+        },
+        {
+          "name": "Konfitura wiśniowa z Kałęczowa",
+          "date": "10.07.2017 r."
+        }
+      ]
+    },
+    {
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "Chleb łęczycki żytni razowy pełnoziarnisty",
+          "date": "26.10.2006 r."
+        },
+        {
+          "name": "Chleb wiejski łęczycki",
+          "date": "26.10.2006 r."
+        },
+        {
+          "name": "Chleb żytni razowy pełnoziarnisty z Białej",
+          "date": "22.02.2008 r."
+        },
+        {
+          "name": "Chleb wiejski na zakwasie z pieca ceglanego z Białej",
+          "date": "22.02.2008 r."
+        },
+        {
+          "name": "Piernik z marchwi",
+          "date": "03.03.2008 r."
+        },
+        {
+          "name": "Piernikowa chatka znad rzeki Mrogi",
+          "date": "10.09.2008 r."
+        },
+        {
+          "name": "Chleb staropolski z doliny Mrogi",
+          "date": "10.09.2008 r."
+        },
+        {
+          "name": "Chleb dmosiński na tradycyjnym zakwasie",
+          "date": "25.09.2008 r."
+        },
+        {
+          "name": "Chleb żytni świątnicki",
+          "date": "19.11.2008 r."
+        },
+        {
+          "name": "Chleb razowy z Doliny Mrogi z ziarnami zbóż",
+          "date": "15.01.2009 r."
+        },
+        {
+          "name": "Chleb gryczany",
+          "date": "15.01.2009 r."
+        },
+        {
+          "name": "Chleb nagawski wiecznie świeży",
+          "date": "20.03.2009 r."
+        },
+        {
+          "name": "Obrzędowy chleb z Doliny Mrogi",
+          "date": "25.03.2009 r."
+        },
+        {
+          "name": "Tatarczuch z Radomska",
+          "date": "04.11.2009 r."
+        },
+        {
+          "name": "Chleb gospodarski z Mrogi",
+          "date": "17.05.2010 r."
+        },
+        {
+          "name": "Chleb żytni z mlekiem",
+          "date": "24.06.2010 r."
+        },
+        {
+          "name": "Chleby żytnie szadkowskie",
+          "date": "21.09.2010 r."
+        },
+        {
+          "name": "Ciastka ze skwarek (słoninki)",
+          "date": "30.12.2011 r."
+        },
+        {
+          "name": "Chleb razowy parzony z Ozorkowa",
+          "date": "14.12.2012 r."
+        },
+        {
+          "name": "Obwarzanki tomaszowskie",
+          "date": "14.05.2013 r."
+        },
+        {
+          "name": "Chleb kozacki z Ozorkowa",
+          "date": "21.10.2013 r."
+        },
+        {
+          "name": "Ciastka zawijane z marmoladą",
+          "date": "18.07.2016 r."
+        },
+        {
+          "name": "Babka gotowana",
+          "date": "22.09.2016 r."
+        },
+        {
+          "name": "Rogaliki drożdżowe bez cukru",
+          "date": "14.10.2016 r."
+        },
+        {
+          "name": "Pączki tradycyjne",
+          "date": "14.10.2016 r."
+        },
+        {
+          "name": "Jabłecznik znad Mrogi",
+          "date": "10.07.2017 r."
+        },
+        {
+          "name": "Rogaliki z powidłami śliwkowymi z okolic Mrogi",
+          "date": "10.07.2017 r."
+        },
+        {
+          "name": "Babka drożdzowa znad Mrogi",
+          "date": "10.07.2017 r."
+        },
+        {
+          "name": "Sernik z Nagawek",
+          "date": "11.08.2017 r."
+        },
+        {
+          "name": "Szarlotka z Nagawek",
+          "date": "11.08.2017 r."
+        },
+        {
+          "name": "Wybora krówka bełchatowska ",
+          "date": "30.11.2017 r."
+        }
+      ]
+    },
+    {
+      "oleje_i_tluszcze": [
+        {
+          "name": "Masło nagawskie",
+          "date": "25.09.2008 r."
+        },
+        {
+          "name": "Masło z Głuchowa",
+          "date": "24.06.2010 r."
+        },
+        {
+          "name": "Masło tradycyjne naturalne szczercowskie",
+          "date": "17.03.2017 r."
+        }
+      ]
+    },
+    {
+      "miody": [
+        {
+          "name": "Miody z doliny rzeki Mrogi",
+          "date": "07.05.2008 r."
+        },
+        {
+          "name": "Miody z gminy Żelechlinek",
+          "date": "15.02.2011 r."
+        },
+        {
+          "name": "Miód Ziemi Brzezińskiej, Wzniesień Łódzkich i Rawki",
+          "date": "27.07.2012 r."
+        },
+        {
+          "name": "Miody z doliny rzeki Bzury",
+          "date": "30.11.2017 r."
+        }
+      ]
+    },
+    {
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "Zalewajka z zasmażką",
+          "date": "22.01.2008 r."
+        },
+        {
+          "name": "Obrowska zupa chrzanowa",
+          "date": "03.03.2008 r."
+        },
+        {
+          "name": "Kapusta z grochem",
+          "date": "05.05.2008 r."
+        },
+        {
+          "name": "Gołąbki z Osin",
+          "date": "08.08.2008 r."
+        },
+        {
+          "name": "Kapłonek (wodzianka) z Gałkowa",
+          "date": "26.01.2009 r."
+        },
+        {
+          "name": "Polewka gruszkowa z Gałkowa",
+          "date": "05.03.2009 r."
+        },
+        {
+          "name": "Kugiel z Przedborza",
+          "date": "18.05.2009 r."
+        },
+        {
+          "name": "Plendze kartoflane z Wójcina",
+          "date": "18.05.2009 r."
+        },
+        {
+          "name": "Jeżowski żur z ziemniaczkami",
+          "date": "28.05.2009 r."
+        },
+        {
+          "name": "Radomszczańska zalewajka",
+          "date": "21.12.2009 r."
+        },
+        {
+          "name": "Kluski żelazne",
+          "date": "12.02.2016 r."
+        },
+        {
+          "name": "Golonka z kapustą zasmażaną",
+          "date": "11.05.2016 r."
+        },
+        {
+          "name": "Pierogi z kapustą i grzybami z Mrogi Dolnej",
+          "date": "15.06.2016 r."
+        },
+        {
+          "name": "Zupa z dyni z Rogowa",
+          "date": "15.06.2016 r."
+        },
+        {
+          "name": "Kotlety z płatków owsianych",
+          "date": "15.06.2016 r."
+        },
+        {
+          "name": "Kluski nadziewane z kapustą zasmażaną",
+          "date": "14.09.2016 r. "
+        },
+        {
+          "name": "Księżacka szynka jajeczna",
+          "date": "04.11.2016 r."
+        },
+        {
+          "name": "Łubnicki żur smażony",
+          "date": "04.11.2016 r."
+        },
+        {
+          "name": "Dziad kapuściany",
+          "date": "04.11.2016 r."
+        },
+        {
+          "name": "Trzepka",
+          "date": "04.11.2016 r."
+        },
+        {
+          "name": "Zupa z bani",
+          "date": "04.11.2016 r."
+        },
+        {
+          "name": "Pierogi znad Mrożycy ",
+          "date": "27.09.2017 r."
+        },
+        {
+          "name": "Pierogi z Głowna",
+          "date": "23.01.2018 r."
+        },
+        {
+          "name": "Cepeliny z Nagawek",
+          "date": "29.03.2018 r."
+        }
+      ]
+    },
+    {
+      "napoje": [
+        {
+          "name": "Piwo łaskie",
+          "date": "25.09.2008 r."
+        },
+        {
+          "name": "Nalewka owocowa z Nagawek",
+          "date": "25.09.2008 r."
+        },
+        {
+          "name": "Ratafia malinowa z Nagawek",
+          "date": "28.05.2009 r."
+        },
+        {
+          "name": "Sok jabłkowy z Kałęczewa",
+          "date": "15.02.2011 r."
+        },
+        {
+          "name": "Ratafia",
+          "date": "02.06.2011 r."
+        },
+        {
+          "name": "Nalewka imbirowo-cytrynowa",
+          "date": "02.06.2011 r."
+        },
+        {
+          "name": "Kwas chlebowy",
+          "date": "02.06.2011 r."
+        },
+        {
+          "name": "Dmosiński syrop z malin",
+          "date": "27.07.2012 r."
+        },
+        {
+          "name": "Nalewka truskawkowa z Bachorzyna",
+          "date": "17.04.2013 r."
+        },
+        {
+          "name": "Sok pomidorowy z Kałęczewa",
+          "date": "22.02.2016 r."
+        },
+        {
+          "name": "Nalewka z czarnej porzeczki",
+          "date": "15.06.2016 r."
+        },
+        {
+          "name": "Nalewka pigwowa",
+          "date": "15.06.2016 r."
+        },
+        {
+          "name": "Nalewka cierniowa",
+          "date": "15.06.2016 r."
+        },
+        {
+          "name": "Syrop malinowy z Lubowidzy",
+          "date": "12.01.2017 r."
+        },
+        {
+          "name": "Nalewka śliwkowa z Marianowa",
+          "date": "10.07.2017 r."
+        },
+        {
+          "name": "Syrop z czarnego bzu z Kałęczewa",
+          "date": "10.07.2017 r."
+        },
+        {
+          "name": "Nalewka dereniówka",
+          "date": "29.03.2018 r."
+        }
+      ]
+    },
+    {
+      "inne_produkty": []
+    }
+  ]
+}

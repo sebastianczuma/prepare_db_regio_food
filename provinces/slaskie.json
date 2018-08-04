@@ -1,0 +1,624 @@
+{
+  "slaskie": [
+    {
+      "produkty_mleczne": [
+        {
+          "name": "Ser klagany",
+          "date": "09.05.2006 r."
+        },
+        {
+          "name": "Ser wołoski wędzony",
+          "date": "09.05.2006 r."
+        },
+        {
+          "name": "Oscypek (oszczypek)",
+          "date": "25.09.2006 r."
+        },
+        {
+          "name": "Bryndza żywiecka",
+          "date": "07.02.2007 r."
+        },
+        {
+          "name": "Bundz / grudka",
+          "date": "15.02.2007 r."
+        },
+        {
+          "name": "Żętyca",
+          "date": "01.02.2008 r."
+        },
+        {
+          "name": "Bryndza wołoska wędzona",
+          "date": "05.03.2008 r."
+        },
+        {
+          "name": "Ser domowy – zależok",
+          "date": "25.04.2008 r."
+        },
+        {
+          "name": "Ser gazdowski – gołka",
+          "date": "13.11.2008 r."
+        },
+        {
+          "name": "Redykołka",
+          "date": "12.12.2008 r."
+        },
+        {
+          "name": "Śląska kiszka",
+          "date": "20.01.2009 r."
+        },
+        {
+          "name": "Twaróg krzepicki",
+          "date": "27.07.2012 r."
+        }
+      ]
+    },
+    {
+      "produkty_miesne": [
+        {
+          "name": "Krupniok śląski",
+          "date": "28.02.2006 r."
+        },
+        {
+          "name": "Żymlok śląski / zemlok / zemlouk / bułczanka",
+          "date": "12.01.2007 r."
+        },
+        {
+          "name": "Siewierska gęś pieczona",
+          "date": "07.02.2007 r."
+        },
+        {
+          "name": "Siewierska kaczka pieczona",
+          "date": "20.11.2007 r."
+        },
+        {
+          "name": "Żołądki z gęsi po siewiersku",
+          "date": "20.11.2007 r."
+        },
+        {
+          "name": "Nec / necówka – polędwica w otrzewnej",
+          "date": "01.02.2008 r."
+        },
+        {
+          "name": "Szynka wieprzowa parzona porębska",
+          "date": "06.08.2008 r."
+        },
+        {
+          "name": "Jagnięcina beskidzka",
+          "date": "12.12.2008 r."
+        },
+        {
+          "name": "Kaszanka pieczona szczekocińska",
+          "date": "12.12.2008 r."
+        },
+        {
+          "name": "Cieszyńska kita wędzona",
+          "date": "20.01.2009 r."
+        },
+        {
+          "name": "Szczekocińska kiełbasa siekana na słomie pieczona",
+          "date": "16.03.2009 r."
+        },
+        {
+          "name": "Beskidzkie szpyrki (wyrzoski)",
+          "date": "02.06.2011 r."
+        },
+        {
+          "name": "Kiełbasa Porębska",
+          "date": "21.09.2012 r."
+        }
+      ]
+    },
+    {
+      "produkty_rybolostwa": [
+        {
+          "name": "Złotopotocki pstrąg z rusztu",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Złotopotocki karp smażony",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Karp gołyski",
+          "date": "20.11.2012 r."
+        },
+        {
+          "name": "Bestwiński karp królewski",
+          "date": "17.06.2014 r."
+        },
+        {
+          "name": "Pstrąg górski",
+          "date": "05.08.2015 r."
+        }
+      ]
+    },
+    {
+      "warzywa_i_owoce": [
+        {
+          "name": "Bób / bober",
+          "date": "26.03.2007 r."
+        },
+        {
+          "name": "Borówka / brusznica siewierska",
+          "date": "20.11.2007 r."
+        },
+        {
+          "name": "Śląskie pieczki",
+          "date": "20.02.2008 r."
+        },
+        {
+          "name": "Dynia w winie po cieszyńsku",
+          "date": "26.03.2008 r."
+        },
+        {
+          "name": "Cieszyńskie pieczoki",
+          "date": "16.02.2009 r."
+        },
+        {
+          "name": "Cieszyńska dynia",
+          "date": "14.05.2009 r."
+        },
+        {
+          "name": "Marmelada z dyni po cieszyńsku",
+          "date": "14.07.2009 r."
+        },
+        {
+          "name": "Kwaki/brukiew/karpiel z Podbeskidzia",
+          "date": "10.03.2011 r."
+        },
+        {
+          "name": "Jabłka żniwówki",
+          "date": "20.11.2012 r."
+        },
+        {
+          "name": "Śliwka żniwka lipowska",
+          "date": "17.02.2017 r."
+        },
+        {
+          "name": "Kompot ze śliwki żniwki",
+          "date": "17.02.2017 r."
+        },
+        {
+          "name": "Powidła ze śliwki żniwki",
+          "date": "17.02.2017 r."
+        }
+      ]
+    },
+    {
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "Zozworki / Imbirki",
+          "date": "28.02.2006 r."
+        },
+        {
+          "name": "Chleb „Herbski”",
+          "date": "28.02.2006 r."
+        },
+        {
+          "name": "Ciastka ze szpyrek",
+          "date": "13.03.2006 r."
+        },
+        {
+          "name": "Murzin wielkanocny",
+          "date": "13.03.2006 r."
+        },
+        {
+          "name": "Buchciki / buchciczki",
+          "date": "09.05.2006 r."
+        },
+        {
+          "name": "Kołocz weselny cieszyński",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Krepliki / kreple",
+          "date": "31.08.2006 r."
+        },
+        {
+          "name": "Kołocz weselny śląski",
+          "date": "31.08.2006 r."
+        },
+        {
+          "name": "Szpajza cytrynowa (krem cytrynowy)",
+          "date": "12.09.2006 r."
+        },
+        {
+          "name": "Koszyki / koszyczki",
+          "date": "26.03.2007 r."
+        },
+        {
+          "name": "Dołki – racuchy drożdżowe",
+          "date": "26.03.2007 r."
+        },
+        {
+          "name": "Drobne ciasteczka cieszyńskie",
+          "date": "09.10.2007 r."
+        },
+        {
+          "name": "Śląski piernik tradycyjny",
+          "date": "09.10.2007 r."
+        },
+        {
+          "name": "Chleb zwykły sławkowski",
+          "date": "21.12.2007 r."
+        },
+        {
+          "name": "Brutfaniok / krupiczniok",
+          "date": "05.03.2008 r."
+        },
+        {
+          "name": "Chleb cebulowy z Tarnowskich Gór",
+          "date": "28.03.2008 r."
+        },
+        {
+          "name": "Żareckie obwarzanki odpustowe",
+          "date": "29.04.2008 r."
+        },
+        {
+          "name": "Chleb tatarczuch",
+          "date": "08.12.2008 r."
+        },
+        {
+          "name": "Cieszyński szodon z wina",
+          "date": "30.01.2009 r."
+        },
+        {
+          "name": "Strudel jabłkowy z Podbeskidzia",
+          "date": "16.02.2009 r."
+        },
+        {
+          "name": "Pierniki żywieckie",
+          "date": "24.06.2009 r."
+        },
+        {
+          "name": "Chleb jurajski mieszany jasny",
+          "date": "14.07.2009 r."
+        },
+        {
+          "name": "Cieszyńskie herbatniki ze skwarków",
+          "date": "17.05.2010 r."
+        },
+        {
+          "name": "Śląskie oblaty",
+          "date": "17.05.2010 r."
+        },
+        {
+          "name": "Cieszyńskie ciasto do zapiekania kiełbas",
+          "date": "17.05.2010 r."
+        },
+        {
+          "name": "Śląskie kołaczyki wykwintne",
+          "date": "17.05.2010 r."
+        },
+        {
+          "name": "Chleb kłobucki mieszany",
+          "date": "15.09.2010 r."
+        },
+        {
+          "name": "Śląski chrustek/chrust/faworki",
+          "date": "28.03.2011 r."
+        },
+        {
+          "name": "Cieszyński chlebiczek owocowy wielkanocny",
+          "date": "16.05.2011 r."
+        },
+        {
+          "name": "Kopa ornontowicka",
+          "date": "21.12.2012 r."
+        },
+        {
+          "name": "Szplitry i szpliterki z Radzionkowa",
+          "date": "29.07.2013 r."
+        },
+        {
+          "name": "Kluski z miodem",
+          "date": "29.07.2013 r."
+        },
+        {
+          "name": "Kołocz/kołacz międzyrzecki",
+          "date": "19.04.2018 r."
+        }
+      ]
+    },
+    {
+      "oleje_i_tluszcze": [
+        {
+          "name": "Smalec gęsi z Siewierza",
+          "date": "20.11.2007 r."
+        },
+        {
+          "name": "Masło krzepickie",
+          "date": "06.02.2012 r."
+        }
+      ]
+    },
+    {
+      "miody": [
+        {
+          "name": "Miód z nektaru kwiatów jurajskich",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Miód rzepakowy Ziemi Cieszyńskiej",
+          "date": "05.05.2008 r."
+        },
+        {
+          "name": "Miód lipowo-spadziowy Ziemi Cieszyńskiej",
+          "date": "05.05.2008 r."
+        },
+        {
+          "name": "Miody z Ziemi Żywieckiej",
+          "date": "17.03.2017 r."
+        },
+        {
+          "name": "Miody z gminy Porąbka",
+          "date": "11.10.2017 r."
+        }
+      ]
+    },
+    {
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "Ciulim lelowski",
+          "date": "28.02.2006 r."
+        },
+        {
+          "name": "Porębskie prażonki",
+          "date": "13.03.2006 r."
+        },
+        {
+          "name": "Garus / garusek / kwaśne",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Siemieniatka / siemieniotka / konopiotka",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Placki z blachy ze szpyrkami lub z wyrzoskami",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Poleśniki (poliźniki)",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Bachor",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Szałot śląski (sałatka śledziowa)",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Kluski białe śląskie",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Żur śląski",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Żebroczka",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Zacierka zagłębiowska",
+          "date": "22.08.2006 r."
+        },
+        {
+          "name": "Makówki / makiełki",
+          "date": "31.08.2006 r."
+        },
+        {
+          "name": "Prażuchy",
+          "date": "31.08.2006 r."
+        },
+        {
+          "name": "Kwaśnica",
+          "date": "31.08.2006 r."
+        },
+        {
+          "name": "Moczka / bryja",
+          "date": "31.08.2006 r."
+        },
+        {
+          "name": "„Modro kapusta”–sałatka z czerwonej kapusty",
+          "date": "31.08.2006 r."
+        },
+        {
+          "name": "Rolada wołowa śląska",
+          "date": "12.09.2006 r."
+        },
+        {
+          "name": "Żur z tłuczonymi kartoflami (ziemniakami)",
+          "date": "28.09.2006 r."
+        },
+        {
+          "name": "Kubuś / kubusz",
+          "date": "07.02.2007 r."
+        },
+        {
+          "name": "Wodzionka / wodzianka",
+          "date": "15.02.2007 r."
+        },
+        {
+          "name": "Polewka na maślance z ziemniakami",
+          "date": "26.03.2007 r."
+        },
+        {
+          "name": "Czernina / czarnina / szwarc",
+          "date": "26.03.2007 r."
+        },
+        {
+          "name": "Kapusta z grochem po częstochowsku",
+          "date": "26.03.2007 r."
+        },
+        {
+          "name": "Śląska parzybroda / parzy-broda",
+          "date": "28.09.2007 r."
+        },
+        {
+          "name": "Wątróbki gęsie po siewiersku",
+          "date": "20.11.2007 r."
+        },
+        {
+          "name": "Żurek siewierski",
+          "date": "20.11.2007 r."
+        },
+        {
+          "name": "Hekele / hekerle górnośląskie",
+          "date": "18.12.2007 r."
+        },
+        {
+          "name": "Babraczka cieszyńska",
+          "date": "18.12.2007 r."
+        },
+        {
+          "name": "Schab sztygarski",
+          "date": "18.12.2007 r."
+        },
+        {
+          "name": "Karminadle / karbinadle / kardinadle",
+          "date": "17.01.2008 r."
+        },
+        {
+          "name": "Wajecznica / smażylnica, czyli jajecznica po cieszyńsku",
+          "date": "01.02.2008 r."
+        },
+        {
+          "name": "Cieszyńska kiszona kapusta z zaprażką",
+          "date": "20.02.2008 r."
+        },
+        {
+          "name": "Jaskółcze gniazda",
+          "date": "26.03.2008 r."
+        },
+        {
+          "name": "Rosół z nudlami (rosół z makaronem)",
+          "date": "26.03.2008 r."
+        },
+        {
+          "name": "Bigos śląski",
+          "date": "13.11.2008 r."
+        },
+        {
+          "name": "Jurajski żur na grzybach",
+          "date": "08.12.2008 r."
+        },
+        {
+          "name": "Flaki po cieszyńsku (Pajszle)",
+          "date": "15.01.2009 r."
+        },
+        {
+          "name": "Cieszyńska fasola / fazola / becok na sypko",
+          "date": "15.01.2009 r."
+        },
+        {
+          "name": "Rosół z gołębi (gołąbki w rosole) po śląsku",
+          "date": "15.01.2009 r."
+        },
+        {
+          "name": "Cieszyńskie sosy (moczki): krzónowy, grzybowy, cebulowy",
+          "date": "30.01.2009 r."
+        },
+        {
+          "name": "Garnuszek górniczy",
+          "date": "23.03.2009 r."
+        },
+        {
+          "name": "Grochówka po częstochowsku",
+          "date": "17.05.2010 r."
+        },
+        {
+          "name": "Ciapkapusta",
+          "date": "17.05.2010 r."
+        },
+        {
+          "name": "Chuda Jewa",
+          "date": "10.03.2011 r."
+        },
+        {
+          "name": "Gałuszki – kluski po cieszyńsku",
+          "date": "16.05.2011 r."
+        },
+        {
+          "name": "Schab w kapuście po beskidzku",
+          "date": "16.05.2011 r."
+        },
+        {
+          "name": "Golonko po beskidzku",
+          "date": "02.06.2011 r."
+        },
+        {
+          "name": "Beskidzkie jelita",
+          "date": "02.06.2011 r."
+        },
+        {
+          "name": "Kluchy połom bite",
+          "date": "17.06.2011 r."
+        },
+        {
+          "name": "Kluski z tarcinami",
+          "date": "23.09.2011 r."
+        },
+        {
+          "name": "Gruszki z mięsem",
+          "date": "21.09.2012 r."
+        },
+        {
+          "name": "Królik po śląsku",
+          "date": "12.06.2013 r."
+        },
+        {
+          "name": "Jajecznica po wilamowsku/ szusterpop/ mołfonküch",
+          "date": "29.07.2013 r."
+        },
+        {
+          "name": "Zupa ziemniaczana – ziemnioczonka po meszniańsku",
+          "date": "29.07.2013 r."
+        }
+      ]
+    },
+    {
+      "napoje": [
+        {
+          "name": "Warzonka",
+          "date": "21.08.2006 r."
+        },
+        {
+          "name": "Miodula / miodunka / miodonka",
+          "date": "31.08.2006 r."
+        },
+        {
+          "name": "Tatarczówka",
+          "date": "17.01.2008 r."
+        },
+        {
+          "name": "Cieszyńska herbata z zielin",
+          "date": "20.02.2008 r."
+        },
+        {
+          "name": "Cieszyńska herbata przeciw kaszlowi",
+          "date": "26.03.2008 r."
+        },
+        {
+          "name": "Napój z kwiatów czarnego bzu",
+          "date": "20.11.2012 r."
+        },
+        {
+          "name": "Piwo raciborskie",
+          "date": "08.05.2017 r."
+        }
+      ]
+    },
+    {
+      "inne_produkty": [
+        {
+          "name": "Makaron z Rudnik",
+          "date": "28.03.2011 r."
+        }
+      ]
+    }
+  ]
+}

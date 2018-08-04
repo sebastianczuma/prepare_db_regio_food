@@ -1,0 +1,292 @@
+{
+  "opolskie": [
+    {
+      "produkty_mleczne": [
+        {
+          "name": "Ser domowy smażony z kminkiem, z czosnkiem, bez przypraw",
+          "date": "10.10.2005 r."
+        },
+        {
+          "name": "Domowy ser parzony z kminkiem",
+          "date": "28.08.2006 r."
+        },
+        {
+          "name": "Ser twarogowy z Olesna",
+          "date": "30.10.2013 r."
+        }
+      ]
+    },
+    {
+      "produkty_miesne": [
+        {
+          "name": "Opolska rolada wołowa",
+          "date": "19.01.2007 r."
+        },
+        {
+          "name": "Krupnioki z Górek",
+          "date": "06.02.2007 r."
+        },
+        {
+          "name": "Zymloki z Górek / bułczanka z Górek",
+          "date": "06.02.2007 r."
+        },
+        {
+          "name": "Leberwurst drobno mielony z Górek / wątrobianka z Górek",
+          "date": "06.02.2007 r."
+        },
+        {
+          "name": "Leberwurst grubo mielony z Górek / pasztetowa z Górek",
+          "date": "06.02.2007 r."
+        },
+        {
+          "name": "Salceson ozorkowy z Górek / presswurst ozorkowy z Górek",
+          "date": "06.02.2007 r."
+        },
+        {
+          "name": "Salceson biały z Górek / presswurst biały z Górek",
+          "date": "06.02.2007 r."
+        },
+        {
+          "name": "Żymlok opolski biały",
+          "date": "08.03.2007 r."
+        },
+        {
+          "name": "Modziki",
+          "date": "14.01.2014 r."
+        },
+        {
+          "name": "Krupniok śląski",
+          "date": "27.10.2014 r."
+        }
+      ]
+    },
+    {
+      "produkty_rybolostwa": [
+        {
+          "name": "Harynki w cebulowej zołzie",
+          "date": "03.01.2008 r."
+        },
+        {
+          "name": "Karp niemodliński",
+          "date": "25.05.2015 r."
+        }
+      ]
+    },
+    {
+      "warzywa_i_owoce": [
+        {
+          "name": "Jabłka odmiany Berlepsch, znane też pod nazwą niemiecką Goldrenette Freiherr von Berlepsch, Roter Berlepsch",
+          "date": "28.08.2006 r."
+        },
+        {
+          "name": "Stara odmiana jabłoni Königin",
+          "date": "28.08.2006 r."
+        },
+        {
+          "name": "Stara odmiana jabłoni Książę Albrecht Pruski (nazwa niemiecka Prinz Albrecht von Preuβen, Albrechtsapfel)",
+          "date": "28.08.2006 r."
+        },
+        {
+          "name": "Jabłka odmiany Grafsztynek prawdziwy, zwany też Grafsztynkiem z Grafsztynu (nazwy niemieckie Gravensteiner, Haferapfel)",
+          "date": "28.08.2006 r."
+        },
+        {
+          "name": "Jabłka odmiany Wealthy",
+          "date": "28.08.2006 r."
+        },
+        {
+          "name": "Modro kapusta (tj. kapusta czerwona)",
+          "date": "19.01.2007 r."
+        },
+        {
+          "name": "Kapusta kiszona z Bobrowy ",
+          "date": "04.09.2007 r."
+        },
+        {
+          "name": "Ogórkowe pikle",
+          "date": "14.05.2013 r."
+        }
+      ]
+    },
+    {
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "Jeż – ciasto tortowe z masą kremową z czarnej porzeczki",
+          "date": "10.10.2005 r."
+        },
+        {
+          "name": "Chałwy sezamowe",
+          "date": "09.01.2006 r."
+        },
+        {
+          "name": "Chleb gogoliński",
+          "date": "19.01.2007 r."
+        },
+        {
+          "name": "Śliszki – potrawa wigilijna",
+          "date": "07.02.2007 r."
+        },
+        {
+          "name": "Kołocz śląski",
+          "date": "05.03.2007 r."
+        },
+        {
+          "name": "Kretowina – ciasto biszkoptowe o smaku czekoladowym",
+          "date": "05.03.2007 r."
+        },
+        {
+          "name": "Buchty śląskie, czyli kluski drożdżowe gotowane na parze",
+          "date": "06.03.2007 r."
+        },
+        {
+          "name": "Opolskie ciasteczka ze skwarek (szpyrek)",
+          "date": "21.12.2007 r."
+        },
+        {
+          "name": "Krajanki",
+          "date": "12.08.2010 r."
+        },
+        {
+          "name": "Anyżki",
+          "date": "10.01.2011 r."
+        },
+        {
+          "name": "Chleb mleczny praszkowski",
+          "date": "02.06.2011 r."
+        },
+        {
+          "name": "Chrust/Chrustek/Chrustki/Faworki",
+          "date": "11.04.2014 r."
+        }
+      ]
+    },
+    {
+      "oleje_i_tluszcze": [
+        {
+          "name": "Olej głubczycki rzepakowy tłoczony na zimno",
+          "date": "14.04.2011 r."
+        },
+        {
+          "name": "Masło z Olesna",
+          "date": "27.03.2013 r."
+        }
+      ]
+    },
+    {
+      "miody": [
+        {
+          "name": "Miody Popielowskie z Borów Stobrawskich",
+          "date": "14.11.2007 r."
+        },
+        {
+          "name": "Miody rudnickie",
+          "date": "15.09.2010 r."
+        },
+        {
+          "name": "Miody wołczyńskie",
+          "date": "11.04.2014 r."
+        }
+      ]
+    },
+    {
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "Gołąbki z kaszy gryczanej i ziemniaków",
+          "date": "09.01.2006 r."
+        },
+        {
+          "name": "Kartoffelsalat (też szałot śląski, szałot kartoflany z boczkiem wędzonym)",
+          "date": "28.08.2006 r."
+        },
+        {
+          "name": "Placki kartoflane z blachy",
+          "date": "25.09.2006 r."
+        },
+        {
+          "name": "Pieróg postny ze Starych Kolni",
+          "date": "25.09.2006 r."
+        },
+        {
+          "name": "Mołcka – potrawa wigilijna",
+          "date": "25.09.2006 r."
+        },
+        {
+          "name": "Kluski śląskie (tzw. biołe kluski)",
+          "date": "19.01.2007 r."
+        },
+        {
+          "name": "Wodzionka",
+          "date": "06.02.2007 r."
+        },
+        {
+          "name": "Ścierka opolska",
+          "date": "07.02.2007 r."
+        },
+        {
+          "name": "Germuszka (zwana też warmuszką, biermuszką)",
+          "date": "05.03.2007 r."
+        },
+        {
+          "name": "Siemieniotka",
+          "date": "14.05.2007 r."
+        },
+        {
+          "name": "Śląski żur na maślance",
+          "date": "14.05.2007 r."
+        },
+        {
+          "name": "Śląskie niebo",
+          "date": "14.05.2007 r."
+        },
+        {
+          "name": "Oberiba na gęsto",
+          "date": "01.12.2010 r."
+        },
+        {
+          "name": "Pańczkraut – kapusta kiszona z ziemniakami",
+          "date": "03.11.2011 r."
+        },
+        {
+          "name": "Makówka opolska",
+          "date": "30.12.2011 r."
+        }
+      ]
+    },
+    {
+      "napoje": [
+        {
+          "name": "Nalewka orzechowa",
+          "date": "10.10.2005 r."
+        },
+        {
+          "name": "Piwo miodowe",
+          "date": "30.10.2007 r."
+        },
+        {
+          "name": "Kompot z kwity",
+          "date": "06.06.2014 r."
+        }
+      ]
+    },
+    {
+      "inne_produkty": [
+        {
+          "name": "Tej ziołowy",
+          "date": "14.05.2007 r."
+        },
+        {
+          "name": "Kroszonka opolska",
+          "date": "30.08.2007 r."
+        },
+        {
+          "name": "Makaron domowy z Makowic",
+          "date": "15.06.2009 r."
+        },
+        {
+          "name": "Nudle",
+          "date": "17.06.2014 r."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "podlaskie": [
+    {
+      "produkty_mleczne": [
+        {
+          "name": "Ser koryciński „swojski",
+          "date": "19.09.2005 r."
+        },
+        {
+          "name": "Ser podlaski",
+          "date": "06.01.2006 r."
+        },
+        {
+          "name": "Ser gouda",
+          "date": "06.01.2006 r."
+        },
+        {
+          "name": "Ser podpuszczkowy dojrzewający Wiżajny",
+          "date": "15.03.2006 r."
+        },
+        {
+          "name": "Sery białe deserowe litewskie",
+          "date": "16.05.2006 r."
+        },
+        {
+          "name": "Ser narwiański",
+          "date": "19.12.2006 r."
+        },
+        {
+          "name": "Ser suszony podlaski",
+          "date": "30.08.2007 r."
+        },
+        {
+          "name": "Ser typu szwajcarskiego z Wiżajn",
+          "date": "30.10.2007 r."
+        },
+        {
+          "name": "Twaróg hajnowski",
+          "date": "14.07.2009 r."
+        },
+        {
+          "name": "Klinek dąbrowski",
+          "date": "25.02.2014 r."
+        }
+      ]
+    },
+    {
+      "produkty_miesne": [
+        {
+          "name": "Kumpia wieprzowa „z komina”",
+          "date": "06.12.2005 r."
+        },
+        {
+          "name": "Kindziuk z Puńska",
+          "date": "20.07.2006 r."
+        },
+        {
+          "name": "Kumpiak podlaski",
+          "date": "30.05.2008 r."
+        },
+        {
+          "name": "Wędzonka (wędzone)",
+          "date": "31.07.2009 r."
+        },
+        {
+          "name": "Kump nadbużański z ćwiartki",
+          "date": "05.10.2009 r."
+        },
+        {
+          "name": "Szynka wędzona z Ejszeryszek",
+          "date": "16.01.2015 r."
+        },
+        {
+          "name": "Boczek wędzony z Ejszeryszek",
+          "date": "05.03.2015 r."
+        },
+        {
+          "name": "Kiełbasa chłopska z Ejszeryszek",
+          "date": "05.03.2015 r."
+        },
+        {
+          "name": "Polędwica wędzona z Ejszeryszek",
+          "date": "05.03.2015 r."
+        },
+        {
+          "name": "Karkówka wędzona z Ejszeryszek",
+          "date": "05.03.2015 r."
+        },
+        {
+          "name": "Golonka faszerowana z Ejszeryszek",
+          "date": "05.03.2015 r."
+        },
+        {
+          "name": "Kiełbasa z Ejszeryszek",
+          "date": "25.03.2015 r."
+        }
+      ]
+    },
+    {
+      "produkty_rybolostwa": [
+        {
+          "name": "Sejneński szczupak faszerowany",
+          "date": "20.07.2006 r."
+        },
+        {
+          "name": "Ryby słodkowodne wędzone metodą tradycyjną",
+          "date": "09.12.2014 r."
+        }
+      ]
+    },
+    {
+      "warzywa_i_owoce": [
+        {
+          "name": "Kruszewski ogórek herbowy",
+          "date": "07.09.2005 r."
+        },
+        {
+          "name": "Ogórki kwaszone narwiańskie",
+          "date": "07.09.2005 r."
+        },
+        {
+          "name": "Kruszewska kapusta kiszona",
+          "date": "11.06.2007 r."
+        },
+        {
+          "name": "Nadbużańska kawa żołędziówka ",
+          "date": "29.08.2008 r."
+        },
+        {
+          "name": "Kapusta z beczki kiszonej w główce",
+          "date": "03.07.2015 r."
+        }
+      ]
+    },
+    {
+      "wyroby_piekarnicze_i_cukiernicze": [
+        {
+          "name": "Chleb staropolski – chleb żytni",
+          "date": "28.09.2005 r."
+        },
+        {
+          "name": "Pieczywo obrzędowe weselne - „korowaj lipski” i gąski weselne",
+          "date": "28.09.2005 r."
+        },
+        {
+          "name": "Chleb pytlowy wolski na zakwasie",
+          "date": "06.12.2005 r."
+        },
+        {
+          "name": "Chleb żytni wolski",
+          "date": "06.12.2005 r."
+        },
+        {
+          "name": "Sękacz sejneński/bankuchen",
+          "date": "13.03.2006 r."
+        },
+        {
+          "name": "Chleb domowy na kalmusie z Puńska",
+          "date": "16.05.2006 r."
+        },
+        {
+          "name": "Mrowisko",
+          "date": "20.07.2006 r."
+        },
+        {
+          "name": "Makowiec z Ejszeryszek",
+          "date": "10.03.2011 r."
+        },
+        {
+          "name": "Chleb na zakwasie z Sadka",
+          "date": "17.06.2014 r."
+        },
+        {
+          "name": "Sękacz z Suchowoli",
+          "date": "07.08.2014 r."
+        },
+        {
+          "name": "Hajnowski marcinek",
+          "date": "18.07.2016 r."
+        },
+        {
+          "name": "Augustowska jagodzianka",
+          "date": "14.10.2016 r."
+        },
+        {
+          "name": "Chleb żytni z pieca",
+          "date": "08.11.2017 r."
+        }
+      ]
+    },
+    {
+      "oleje_i_tluszcze": [
+        {
+          "name": "Masło tradycyjne z Filipowa",
+          "date": "10.10.2005 r."
+        },
+        {
+          "name": "Masło swojskie",
+          "date": "28.07.2015 r."
+        }
+      ]
+    },
+    {
+      "miody": [
+        {
+          "name": "Lipiec białowieski",
+          "date": "28.12.2005 r."
+        },
+        {
+          "name": "Mód wielokwiat z Sejneńszczyzny",
+          "date": "16.05.2006 r."
+        },
+        {
+          "name": "Miód augustowski",
+          "date": "07.06.2010 r."
+        }
+      ]
+    },
+    {
+      "gotowe_dania_i_potrawy": [
+        {
+          "name": "Pierekaczewnik",
+          "date": "20.07.2005 r."
+        },
+        {
+          "name": "Kartacze",
+          "date": "28.09.2005 r."
+        },
+        {
+          "name": "Kiszka ziemniaczana",
+          "date": "28.09.2005 r."
+        },
+        {
+          "name": "Babka ziemniaczana",
+          "date": "28.09.2005 r."
+        },
+        {
+          "name": "Kołduny litewskie",
+          "date": "16.05.2006 r."
+        },
+        {
+          "name": "Chołodziec litewski (chłodnik)",
+          "date": "16.05.2006 r."
+        },
+        {
+          "name": "Soczewiaki sejneńskie",
+          "date": "16.05.2006 r."
+        },
+        {
+          "name": "Bliny po litewsku",
+          "date": "20.07.2006 r."
+        },
+        {
+          "name": "Kartacze sejneńskie / cepeliny",
+          "date": "20.07.2006 r."
+        },
+        {
+          "name": "Pierogi wigierskie",
+          "date": "30.10.2013 r."
+        },
+        {
+          "name": "Kociołek cygański",
+          "date": "02.03.2015 r."
+        }
+      ]
+    },
+    {
+      "napoje": [
+        {
+          "name": "Śliwowica (mirabelka)",
+          "date": "06.12.2005 r."
+        },
+        {
+          "name": "Miód kwarciany (dębniak)",
+          "date": "09.02.2007 r."
+        },
+        {
+          "name": "Podlaska samogonka zbożowa",
+          "date": "02.11.2009 r."
+        },
+        {
+          "name": "Nalewka żenicha",
+          "date": "18.07.2016 r."
+        },
+        {
+          "name": "Buza/boza",
+          "date": "08.02.2018 r."
+        }
+      ]
+    },
+    {
+      "inne_produkty": [
+        {
+          "name": "Nadbużańskie grzyby marynowane",
+          "date": "28.07.2009 r."
+        },
+        {
+          "name": "Nadbużańskie grzyby suszone",
+          "date": "28.07.2009 r."
+        },
+        {
+          "name": "Pisanka lipska",
+          "date": "21.12.2012 r."
+        }
+      ]
+    }
+  ]
+}
