@@ -1,0 +1,116 @@
+{
+  "wojewodztwa": {
+    "dolnoslaskie": {
+      "produkty_mleczne": [
+        {
+          "url": "dolnoslaskie/produkty_mleczne/ser-zgorzelecki",
+          "name": "Ser zgorzelecki"
+        },
+        {
+          "url": "dolnoslaskie/produkty_mleczne/ser-kozi-lomnicki",
+          "name": "Ser kozi łomnicki"
+        },
+        {
+          "url": "dolnoslaskie/produkty_mleczne/kamiennogorski-ser-plesniowy",
+          "name": "Kamiennogórski ser pleśniowy"
+        },
+        {
+          "url": "dolnoslaskie/produkty_mleczne/twarog-sudecki",
+          "name": "Twaróg sudecki"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "url": "dolnoslaskie/produkty_miesne/slonina-marynowana-z-niemczy",
+          "name": "Słonina marynowana z Niemczy"
+        },
+        {
+          "url": "dolnoslaskie/produkty_miesne/mieso-w-kawalkach-niemczanskie-domowe",
+          "name": "Mięso w kawałkach niemczańskie domowe"
+        },
+        {
+          "url": "dolnoslaskie/produkty_miesne/szynka-wieprzowa-niemczanska",
+          "name": "Szynka wieprzowa niemczańska"
+        },
+        {
+          "url": "dolnoslaskie/produkty_miesne/kielbasa-niemczanska",
+          "name": "Kiełbasa niemczańska"
+        },
+        {
+          "url": "dolnoslaskie/produkty_miesne/kielbasa-galicjanka-z-niemczy",
+          "name": "Kiełbasa galicjanka z Niemczy"
+        },
+        {
+          "url": "dolnoslaskie/produkty_miesne/przysmak-wolynski-z-niemczy",
+          "name": "Przysmak wołyński z Niemczy"
+        },
+        {
+          "url": "dolnoslaskie/produkty_miesne/kielbasa-w-sloiku-z-przedgorza-sudeckiego",
+          "name": "Kiełbasa w słoiku z Przedgórza Sudeckiego"
+        }
+      ]
+    },
+    "kujawsko-pomorskie": {
+      "produkty_mleczne": [
+        {
+          "url": "kujawsko-pomorskie/produkty_mleczne/kajmak",
+          "name": "Kajmak "
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_mleczne/gzik",
+          "name": "Gzik"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_mleczne/ser-kozi-z-mikanowa",
+          "name": "Ser kozi z Mikanowa"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_mleczne/twarog-z-kujaw-i-ziemi-dobrzynskiej",
+          "name": "Twaróg z Kujaw i Ziemi Dobrzyńskiej"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_mleczne/lody-koronowskie",
+          "name": "Lody koronowskie"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_mleczne/ser-smazony-z-kminkiem",
+          "name": "Ser smażony z kminkiem"
+        }
+      ],
+      "produkty_miesne": [
+        {
+          "url": "kujawsko-pomorskie/produkty_miesne/polgesek-znany-tez-jako-polgasek-albo-piersnik",
+          "name": "Półgęsek, znany też jako półgąsek albo pierśnik"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_miesne/biala-kielbasa-w-sloiku",
+          "name": "Biała kiełbasa w słoiku"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_miesne/swiateczna-szynka-kujawska-z-koscia",
+          "name": "Świąteczna szynka kujawska z kością"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_miesne/kaczka-z-weka",
+          "name": "Kaczka z weka"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_miesne/okrasa-gesia-z-czabrem",
+          "name": "Okrasa gęsia z cząbrem"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_miesne/leberka-gesia",
+          "name": "Leberka gęsia"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_miesne/szyja-gesia-nadziewana",
+          "name": "Szyja gęsia nadziewana"
+        },
+        {
+          "url": "kujawsko-pomorskie/produkty_miesne/owijunki",
+          "name": "Owijunki"
+        }
+      ]
+    }
+  }
+}
